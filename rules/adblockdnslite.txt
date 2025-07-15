@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250714144119
-! Last modified: 2025/07/14 14:41:19
-! Blocked domains: 7618
+! Version: 20250715085814
+! Last modified: 2025/07/15 08:58:14
+! Blocked domains: 7597
 ! unBlocked domains: 50
 !
 ||00xvppy.cn^
@@ -1065,7 +1065,6 @@
 ||anysdk.com^
 ||aomeng.net^
 ||adx.apicgate.com^
-||apikey.asia^
 ||us-behavior.apitd.net^
 ||app-analytics-services.com^
 ||app-measurement-cn.com^
@@ -1357,7 +1356,6 @@
 ||barrister.org.cn^
 ||bartender.cc^
 ||bashenghuo.com^
-||baswz.com^
 ||baycode.cn^
 ||cruiser.bayescom.cn^
 ||bayescom.com^
@@ -1732,25 +1730,6 @@
 ||clickvalue.cn^
 ||log-sdk.clickwifi.net^
 ||clientservices.googleapis.com^
-||7fvhfe.com1.z0.glb.clouddn.com^
-||7jpp1d.com1.z0.glb.clouddn.com^
-||7mnpeh.com1.z0.glb.clouddn.com^
-||7xi4pf.com1.z0.glb.clouddn.com^
-||7xi9g1.com1.z0.glb.clouddn.com^
-||7xjkuy.com1.z0.glb.clouddn.com^
-||7xjqvu.com1.z0.glb.clouddn.com^
-||7xkq88.com1.z0.glb.clouddn.com^
-||7xlsu7.com1.z0.glb.clouddn.com^
-||7xo0y8.com1.z0.glb.clouddn.com^
-||7xo6kd.com1.z0.glb.clouddn.com^
-||7xoghc.com1.z0.glb.clouddn.com^
-||7xqgba.com1.z0.glb.clouddn.com^
-||7xqmjb.com1.z0.glb.clouddn.com^
-||7xqnme.com1.z0.glb.clouddn.com^
-||7xr4jm.com1.z0.glb.clouddn.com^
-||7xrgh9.com1.z0.glb.clouddn.com^
-||7xsm7w.com1.z0.glb.clouddn.com^
-||7xtxh3.com1.z0.glb.clouddn.com^
 ||p2sdmkj6t.bkt.clouddn.com^
 ||advertise.cloudlinks.cn^
 ||cm-analysis.com^
@@ -4872,6 +4851,7 @@
 ||qienews.cn^
 ||qihaoqu.com^
 ||haostat.qihoo.com^
+||js.passport.qihucdn.com^
 ||qijpaih.cn^
 ||roibest-report-sdk.qiliangjia.com^
 ||miniapp.qiluyidian.mobi^
@@ -5055,7 +5035,6 @@
 ||qbreport.html5.qq.com^
 ||qqdata.ab.qq.com^
 ||qqshow2-item.qq.com^
-||qring-tms.qq.com^
 ||qzpb.qq.com^
 ||rcgi.video.qq.com^
 ||rdelivery.qq.com^

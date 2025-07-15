@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250714144119
-# Last modified: 2025/07/14 14:41:19
-# Blocked domains: 7618
+# Version: 20250715085815
+# Last modified: 2025/07/15 08:58:15
+# Blocked domains: 7597
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -1065,7 +1065,6 @@ DOMAIN-SUFFIX,srtj.antutu.net,REJECT-DROP
 DOMAIN-SUFFIX,anysdk.com,REJECT-DROP
 DOMAIN-SUFFIX,aomeng.net,REJECT-DROP
 DOMAIN-SUFFIX,adx.apicgate.com,REJECT-DROP
-DOMAIN-SUFFIX,apikey.asia,REJECT-DROP
 DOMAIN-SUFFIX,us-behavior.apitd.net,REJECT-DROP
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT-DROP
 DOMAIN-SUFFIX,app-measurement-cn.com,REJECT-DROP
@@ -1357,7 +1356,6 @@ DOMAIN-SUFFIX,b1.baomihua.com,REJECT-DROP
 DOMAIN-SUFFIX,barrister.org.cn,REJECT-DROP
 DOMAIN-SUFFIX,bartender.cc,REJECT-DROP
 DOMAIN-SUFFIX,bashenghuo.com,REJECT-DROP
-DOMAIN-SUFFIX,baswz.com,REJECT-DROP
 DOMAIN-SUFFIX,baycode.cn,REJECT-DROP
 DOMAIN-SUFFIX,cruiser.bayescom.cn,REJECT-DROP
 DOMAIN-SUFFIX,bayescom.com,REJECT-DROP
@@ -1732,25 +1730,6 @@ DOMAIN-SUFFIX,clicki.cn,REJECT-DROP
 DOMAIN-SUFFIX,clickvalue.cn,REJECT-DROP
 DOMAIN-SUFFIX,log-sdk.clickwifi.net,REJECT-DROP
 DOMAIN-SUFFIX,clientservices.googleapis.com,REJECT-DROP
-DOMAIN-SUFFIX,7fvhfe.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7jpp1d.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7mnpeh.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xi4pf.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xi9g1.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xjkuy.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xjqvu.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xkq88.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xlsu7.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xo0y8.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xo6kd.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xoghc.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xqgba.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xqmjb.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xqnme.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xr4jm.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xrgh9.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xsm7w.com1.z0.glb.clouddn.com,REJECT-DROP
-DOMAIN-SUFFIX,7xtxh3.com1.z0.glb.clouddn.com,REJECT-DROP
 DOMAIN-SUFFIX,p2sdmkj6t.bkt.clouddn.com,REJECT-DROP
 DOMAIN-SUFFIX,advertise.cloudlinks.cn,REJECT-DROP
 DOMAIN-SUFFIX,cm-analysis.com,REJECT-DROP
@@ -4872,6 +4851,7 @@ DOMAIN-SUFFIX,qidou.com,REJECT-DROP
 DOMAIN-SUFFIX,qienews.cn,REJECT-DROP
 DOMAIN-SUFFIX,qihaoqu.com,REJECT-DROP
 DOMAIN-SUFFIX,haostat.qihoo.com,REJECT-DROP
+DOMAIN-SUFFIX,js.passport.qihucdn.com,REJECT-DROP
 DOMAIN-SUFFIX,qijpaih.cn,REJECT-DROP
 DOMAIN-SUFFIX,roibest-report-sdk.qiliangjia.com,REJECT-DROP
 DOMAIN-SUFFIX,miniapp.qiluyidian.mobi,REJECT-DROP
@@ -5055,7 +5035,6 @@ DOMAIN-SUFFIX,qappcenterv6.3g.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,qbreport.html5.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,qqdata.ab.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,qqshow2-item.qq.com,REJECT-DROP
-DOMAIN-SUFFIX,qring-tms.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,qzpb.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,rcgi.video.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,rdelivery.qq.com,REJECT-DROP

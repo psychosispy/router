@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/07/14 14:41:19
-#!support=7618
+#!date=2025/07/15 08:58:14
+#!support=7597
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -1068,7 +1068,6 @@ DOMAIN-SUFFIX,srtj.antutu.net
 DOMAIN-SUFFIX,anysdk.com
 DOMAIN-SUFFIX,aomeng.net
 DOMAIN-SUFFIX,adx.apicgate.com
-DOMAIN-SUFFIX,apikey.asia
 DOMAIN-SUFFIX,us-behavior.apitd.net
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-measurement-cn.com
@@ -1360,7 +1359,6 @@ DOMAIN-SUFFIX,b1.baomihua.com
 DOMAIN-SUFFIX,barrister.org.cn
 DOMAIN-SUFFIX,bartender.cc
 DOMAIN-SUFFIX,bashenghuo.com
-DOMAIN-SUFFIX,baswz.com
 DOMAIN-SUFFIX,baycode.cn
 DOMAIN-SUFFIX,cruiser.bayescom.cn
 DOMAIN-SUFFIX,bayescom.com
@@ -1735,25 +1733,6 @@ DOMAIN-SUFFIX,clicki.cn
 DOMAIN-SUFFIX,clickvalue.cn
 DOMAIN-SUFFIX,log-sdk.clickwifi.net
 DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,7fvhfe.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7jpp1d.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7mnpeh.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xi4pf.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xi9g1.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xjkuy.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xjqvu.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xkq88.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xlsu7.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xo0y8.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xo6kd.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xoghc.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xqgba.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xqmjb.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xqnme.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xr4jm.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xrgh9.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xsm7w.com1.z0.glb.clouddn.com
-DOMAIN-SUFFIX,7xtxh3.com1.z0.glb.clouddn.com
 DOMAIN-SUFFIX,p2sdmkj6t.bkt.clouddn.com
 DOMAIN-SUFFIX,advertise.cloudlinks.cn
 DOMAIN-SUFFIX,cm-analysis.com
@@ -4875,6 +4854,7 @@ DOMAIN-SUFFIX,qidou.com
 DOMAIN-SUFFIX,qienews.cn
 DOMAIN-SUFFIX,qihaoqu.com
 DOMAIN-SUFFIX,haostat.qihoo.com
+DOMAIN-SUFFIX,js.passport.qihucdn.com
 DOMAIN-SUFFIX,qijpaih.cn
 DOMAIN-SUFFIX,roibest-report-sdk.qiliangjia.com
 DOMAIN-SUFFIX,miniapp.qiluyidian.mobi
@@ -5058,7 +5038,6 @@ DOMAIN-SUFFIX,qappcenterv6.3g.qq.com
 DOMAIN-SUFFIX,qbreport.html5.qq.com
 DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,qqshow2-item.qq.com
-DOMAIN-SUFFIX,qring-tms.qq.com
 DOMAIN-SUFFIX,qzpb.qq.com
 DOMAIN-SUFFIX,rcgi.video.qq.com
 DOMAIN-SUFFIX,rdelivery.qq.com

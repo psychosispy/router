@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250714144119
-# Last modified: 2025/07/14 14:41:19
-# Blocked domains: 7618
+# Version: 20250715085814
+# Last modified: 2025/07/15 08:58:14
+# Blocked domains: 7597
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -1064,7 +1064,6 @@ local=/srtj.antutu.net/
 local=/anysdk.com/
 local=/aomeng.net/
 local=/adx.apicgate.com/
-local=/apikey.asia/
 local=/us-behavior.apitd.net/
 local=/app-analytics-services.com/
 local=/app-measurement-cn.com/
@@ -1356,7 +1355,6 @@ local=/b1.baomihua.com/
 local=/barrister.org.cn/
 local=/bartender.cc/
 local=/bashenghuo.com/
-local=/baswz.com/
 local=/baycode.cn/
 local=/cruiser.bayescom.cn/
 local=/bayescom.com/
@@ -1731,25 +1729,6 @@ local=/clicki.cn/
 local=/clickvalue.cn/
 local=/log-sdk.clickwifi.net/
 local=/clientservices.googleapis.com/
-local=/7fvhfe.com1.z0.glb.clouddn.com/
-local=/7jpp1d.com1.z0.glb.clouddn.com/
-local=/7mnpeh.com1.z0.glb.clouddn.com/
-local=/7xi4pf.com1.z0.glb.clouddn.com/
-local=/7xi9g1.com1.z0.glb.clouddn.com/
-local=/7xjkuy.com1.z0.glb.clouddn.com/
-local=/7xjqvu.com1.z0.glb.clouddn.com/
-local=/7xkq88.com1.z0.glb.clouddn.com/
-local=/7xlsu7.com1.z0.glb.clouddn.com/
-local=/7xo0y8.com1.z0.glb.clouddn.com/
-local=/7xo6kd.com1.z0.glb.clouddn.com/
-local=/7xoghc.com1.z0.glb.clouddn.com/
-local=/7xqgba.com1.z0.glb.clouddn.com/
-local=/7xqmjb.com1.z0.glb.clouddn.com/
-local=/7xqnme.com1.z0.glb.clouddn.com/
-local=/7xr4jm.com1.z0.glb.clouddn.com/
-local=/7xrgh9.com1.z0.glb.clouddn.com/
-local=/7xsm7w.com1.z0.glb.clouddn.com/
-local=/7xtxh3.com1.z0.glb.clouddn.com/
 local=/p2sdmkj6t.bkt.clouddn.com/
 local=/advertise.cloudlinks.cn/
 local=/cm-analysis.com/
@@ -4871,6 +4850,7 @@ local=/qidou.com/
 local=/qienews.cn/
 local=/qihaoqu.com/
 local=/haostat.qihoo.com/
+local=/js.passport.qihucdn.com/
 local=/qijpaih.cn/
 local=/roibest-report-sdk.qiliangjia.com/
 local=/miniapp.qiluyidian.mobi/
@@ -5054,7 +5034,6 @@ local=/qappcenterv6.3g.qq.com/
 local=/qbreport.html5.qq.com/
 local=/qqdata.ab.qq.com/
 local=/qqshow2-item.qq.com/
-local=/qring-tms.qq.com/
 local=/qzpb.qq.com/
 local=/rcgi.video.qq.com/
 local=/rdelivery.qq.com/
