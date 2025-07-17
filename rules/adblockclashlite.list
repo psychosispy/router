@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250716085718
-# Last modified: 2025/07/16 08:57:18
-# Blocked domains: 7435
+# Version: 20250717085752
+# Last modified: 2025/07/17 08:57:52
+# Blocked domains: 7430
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -2418,7 +2418,6 @@ DOMAIN-SUFFIX,trk.futureelectronics.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.fuwosi.cn,REJECT-DROP
 DOMAIN-SUFFIX,download.fuyuncc.com,REJECT-DROP
 DOMAIN-SUFFIX,fwmbjrl.cn,REJECT-DROP
-DOMAIN-SUFFIX,down.fwqlt.com,REJECT-DROP
 DOMAIN-SUFFIX,ad.fx168api.com,REJECT-DROP
 DOMAIN-SUFFIX,dms.fx678.com,REJECT-DROP
 DOMAIN-SUFFIX,a.fxltsbl.com,REJECT-DROP
@@ -3038,7 +3037,6 @@ DOMAIN-SUFFIX,va.huya.com,REJECT-DROP
 DOMAIN-SUFFIX,ylog.huya.com,REJECT-DROP
 DOMAIN-SUFFIX,huzhanbin.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.hvjxf.cn,REJECT-DROP
-DOMAIN-SUFFIX,ecs-124-70-158-53.compute.hwclouds-dns.com,REJECT-DROP
 DOMAIN-SUFFIX,hxqu.com,REJECT-DROP
 DOMAIN-SUFFIX,hy-cn.cn,REJECT-DROP
 DOMAIN-SUFFIX,hyfyuan.com,REJECT-DROP
@@ -7097,9 +7095,6 @@ DOMAIN-SUFFIX,youku-crm-product.youku.com,REJECT-DROP
 DOMAIN-SUFFIX,519332da.rtc.youme.im,REJECT-DROP
 DOMAIN-SUFFIX,youmi.net,REJECT-DROP
 DOMAIN-SUFFIX,report.ml.youngjoygame.com,REJECT-DROP
-DOMAIN-SUFFIX,api.youngle.tech,REJECT-DROP
-DOMAIN-SUFFIX,eu-cdn.youngle.tech,REJECT-DROP
-DOMAIN-SUFFIX,gdl.youngle.tech,REJECT-DROP
 DOMAIN-SUFFIX,youqunjx.com,REJECT-DROP
 DOMAIN-SUFFIX,yousuode.cn,REJECT-DROP
 DOMAIN-SUFFIX,dev.tg.youxi.com,REJECT-DROP

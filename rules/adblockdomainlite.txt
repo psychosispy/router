@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250716085717
-! Last modified: 2025/07/16 08:57:17
-! Blocked domains: 7435
+! Version: 20250717085752
+! Last modified: 2025/07/17 08:57:52
+! Blocked domains: 7430
 !
 00xvppy.cn
 011211.cn
@@ -2417,7 +2417,6 @@ trk.futureelectronics.cn
 m.fuwosi.cn
 download.fuyuncc.com
 fwmbjrl.cn
-down.fwqlt.com
 ad.fx168api.com
 dms.fx678.com
 a.fxltsbl.com
@@ -3037,7 +3036,6 @@ va.huya.com
 ylog.huya.com
 huzhanbin.cn
 m.hvjxf.cn
-ecs-124-70-158-53.compute.hwclouds-dns.com
 hxqu.com
 hy-cn.cn
 hyfyuan.com
@@ -7096,9 +7094,6 @@ youku-crm-product.youku.com
 519332da.rtc.youme.im
 youmi.net
 report.ml.youngjoygame.com
-api.youngle.tech
-eu-cdn.youngle.tech
-gdl.youngle.tech
 youqunjx.com
 yousuode.cn
 dev.tg.youxi.com

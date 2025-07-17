@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250716085717
-# Last modified: 2025/07/16 08:57:17
-# Blocked domains: 7435
+# Version: 20250717085752
+# Last modified: 2025/07/17 08:57:52
+# Blocked domains: 7430
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -2432,7 +2432,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.fuwosi.cn
 0.0.0.0	download.fuyuncc.com
 0.0.0.0	fwmbjrl.cn
-0.0.0.0	down.fwqlt.com
 0.0.0.0	ad.fx168api.com
 0.0.0.0	dms.fx678.com
 0.0.0.0	a.fxltsbl.com
@@ -3052,7 +3051,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ylog.huya.com
 0.0.0.0	huzhanbin.cn
 0.0.0.0	m.hvjxf.cn
-0.0.0.0	ecs-124-70-158-53.compute.hwclouds-dns.com
 0.0.0.0	hxqu.com
 0.0.0.0	hy-cn.cn
 0.0.0.0	hyfyuan.com
@@ -7111,9 +7109,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	519332da.rtc.youme.im
 0.0.0.0	youmi.net
 0.0.0.0	report.ml.youngjoygame.com
-0.0.0.0	api.youngle.tech
-0.0.0.0	eu-cdn.youngle.tech
-0.0.0.0	gdl.youngle.tech
 0.0.0.0	youqunjx.com
 0.0.0.0	yousuode.cn
 0.0.0.0	dev.tg.youxi.com

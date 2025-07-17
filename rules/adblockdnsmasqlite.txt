@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250716085717
-# Last modified: 2025/07/16 08:57:17
-# Blocked domains: 7435
+# Version: 20250717085752
+# Last modified: 2025/07/17 08:57:52
+# Blocked domains: 7430
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -2417,7 +2417,6 @@ local=/trk.futureelectronics.cn/
 local=/m.fuwosi.cn/
 local=/download.fuyuncc.com/
 local=/fwmbjrl.cn/
-local=/down.fwqlt.com/
 local=/ad.fx168api.com/
 local=/dms.fx678.com/
 local=/a.fxltsbl.com/
@@ -3037,7 +3036,6 @@ local=/va.huya.com/
 local=/ylog.huya.com/
 local=/huzhanbin.cn/
 local=/m.hvjxf.cn/
-local=/ecs-124-70-158-53.compute.hwclouds-dns.com/
 local=/hxqu.com/
 local=/hy-cn.cn/
 local=/hyfyuan.com/
@@ -7096,9 +7094,6 @@ local=/youku-crm-product.youku.com/
 local=/519332da.rtc.youme.im/
 local=/youmi.net/
 local=/report.ml.youngjoygame.com/
-local=/api.youngle.tech/
-local=/eu-cdn.youngle.tech/
-local=/gdl.youngle.tech/
 local=/youqunjx.com/
 local=/yousuode.cn/
 local=/dev.tg.youxi.com/
