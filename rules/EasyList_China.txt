@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yntC9ofg+IZkXbceNfH+IQ
-! Version: 202507170041
+! Checksum: KWdZDf0WT82Bp69SJDxvZA
+! Version: 202507180041
 ! Title: EasyList China
-! Last modified: 17 Jul 2025 00:41 UTC
+! Last modified: 18 Jul 2025 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1748,6 +1748,12 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||r7tqkqrvuz.com^
+||3j1fiw14n9.com^
+||auy07180km.com^
+||guessrp50.com^
+||mtiicw.icu^
+||dbvo.cn^
 ||f3k194f9i7.com^
 ||huo07161hy.com^
 ||28jbkeigl.com^
@@ -1757,6 +1763,8 @@ newduba.cn###jq_youxi
 ||huo07170hy.com^
 ||fingerly63.top^
 ||vncq.cn^
+||1dor1d6vc.com^
+||pwaihoe.icu^
 ||ijyj.cn^
 ||i5q1t8vj9.com^
 ||huo07150hy.com^
@@ -10077,10 +10085,12 @@ meijutt.*/js/pcjs/
 ||taozi.icu/asfile/m/js/guding.
 ||gtimg.cn/music/photo_new/T053XD001001BZyX50UcRRk.
 ||k8dm.com/960x70.
+||ibmwclub.com/tophub/assets/js/sponsor.
 ||komiic.com/ads/
 ||v2ex.com/pro/emitter
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+1lou.me,1lou.one,1lou.pro###advert > :not(.card)
 manhuapica.com##a[href^="/ad/"]
 nodeseek.com##.promotation-item
 gx.cn###html-box-AD
