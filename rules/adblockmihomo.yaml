@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomo.yaml
-  # Version: 20250720084811
-  # Last modified: 2025/07/20 08:48:11
-  # Blocked domains: 126405
+  # Version: 20250720090259
+  # Last modified: 2025/07/20 09:02:59
+  # Blocked domains: 126419
   #
   - '+.0-02.net'
   - '+.000dn.com'
@@ -76,6 +76,7 @@ payload:
   - '+.197a0c366b.02be4c77d5.com'
   - '+.838ccf095c.02f9838600.com'
   - '+.02ip.ru'
+  - '+.0300acdff2.com'
   - '+.03180d2d.live'
   - '+.e792462996.034b9fd2c9.com'
   - '+.oscnjc.035000.com'
@@ -3373,6 +3374,7 @@ payload:
   - '+.bj14.9669.cn'
   - '+.bs14.9669.cn'
   - '+.9669.com'
+  - '+.9679c2b616.com'
   - '+.m.967nd.cn'
   - '+.96e7bee058.com'
   - '+.96rj.icu'
@@ -23749,6 +23751,7 @@ payload:
   - '+.smetrics.chadstone.com.au'
   - '+.kjekb.chadwicks.com'
   - '+.chaerel.com'
+  - '+.chagalcuticle.shop'
   - '+.chaghets.net'
   - '+.chaibsoacmo.com'
   - '+.measure.chain-logistics.nl'
@@ -31073,6 +31076,7 @@ payload:
   - '+.sstats.daicompanies.com'
   - '+.daidlepulps.top'
   - '+.daidlypipile.help'
+  - '+.daidoageesteh.com'
   - '+.log.daidoanket.vn'
   - '+.newlog.daidoanket.vn'
   - '+.bears.daigostudio.com'
@@ -37159,6 +37163,7 @@ payload:
   - '+.events.engager.ecbsn.com'
   - '+.tbknig.ecc.jp'
   - '+.eccbb.com'
+  - '+.ecchkens.shop'
   - '+.eccki.cn'
   - '+.sts.eccmp.com'
   - '+.ehwcvs.ecco-verde.co.uk'
@@ -39596,6 +39601,7 @@ payload:
   - '+.erlpbwy.cn'
   - '+.marketing.erm-ins.com'
   - '+.erm5aranwt7hucs.com'
+  - '+.ermelinemydea.cfd'
   - '+.horse.erms.app'
   - '+.data-fb6bd6ba7f.ernaehrungsdienst.de'
   - '+.green.erne.co'
@@ -56817,6 +56823,7 @@ payload:
   - '+.ingatlannet.hu'
   - '+.pixels.ingbank.com.tr'
   - '+.content.ingbank.pl'
+  - '+.ingcqvrmskipd.site'
   - '+.metric.ingdirect.es'
   - '+.metrics.ingdirect.es'
   - '+.smetrics.ingdirect.it'
@@ -67451,6 +67458,7 @@ payload:
   - '+.cdn.logsnag.com'
   - '+.logtail.com'
   - '+.logua.com'
+  - '+.logworkdysuria.life'
   - '+.logxp.ru'
   - '+.logz.io'
   - '+.logz.ru'
@@ -90147,6 +90155,7 @@ payload:
   - '+.m.qbenu.com'
   - '+.sst.qbimmigrationlaw.com'
   - '+.qbkcpcer.com'
+  - '+.qbkraweaoeozo.top'
   - '+.qblllqzqezlyz.top'
   - '+.qblllqzqezzwj.top'
   - '+.qbnvdctsmxqhr.website'
@@ -105068,6 +105077,7 @@ payload:
   - '+.dai1c.sukrin.be'
   - '+.dai1c.sukrin.nl'
   - '+.sukspcwrnqpbs.life'
+  - '+.suksuksumeedro.com'
   - '+.sukultingecauyuk.org'
   - '+.stape.sulimiro.com'
   - '+.sulingacestes.click'
@@ -115305,6 +115315,7 @@ payload:
   - '+.uxffgxaqqkiha.site'
   - '+.console.uxlens.com'
   - '+.uxlqwra.cn'
+  - '+.uxnjizwmojek.com'
   - '+.uxnrnsfybjmxgw.com'
   - '+.uxqudtzzbkhfq.website'
   - '+.marketing.uxreactor.com'
@@ -120455,6 +120466,7 @@ payload:
   - '+.whalepeacockwailing.com'
   - '+.whaleplayful.com'
   - '+.whaleslightestimposter.com'
+  - '+.whalingnotaeum.click'
   - '+.whalishtoplike.top'
   - '+.whammedknavess.top'
   - '+.whampamp.com'
@@ -122381,6 +122393,7 @@ payload:
   - '+.wzlbzbzlobyvl.top'
   - '+.wzlzgwdtasjfs.online'
   - '+.wzmmmakabkkln.top'
+  - '+.wzogvlbvqbqkq.top'
   - '+.wzplcddnvdodh.xyz'
   - '+.wzrkt.com'
   - '+.wzry5.cn'
@@ -126165,6 +126178,7 @@ payload:
   - '+.zrakos.com'
   - '+.zrbnte.top'
   - '+.www.zreder.com'
+  - '+.zrffdxfrwz.com'
   - '+.zrilwyoc.com'
   - '+.zrlcr.com'
   - '+.zrlqm.com'

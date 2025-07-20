@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhosts.txt
-# Version: 20250720084810
-# Last modified: 2025/07/20 08:48:10
-# Blocked domains: 126405
+# Version: 20250720090258
+# Last modified: 2025/07/20 09:02:58
+# Blocked domains: 126419
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -90,6 +90,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	197a0c366b.02be4c77d5.com
 0.0.0.0	838ccf095c.02f9838600.com
 0.0.0.0	02ip.ru
+0.0.0.0	0300acdff2.com
 0.0.0.0	03180d2d.live
 0.0.0.0	e792462996.034b9fd2c9.com
 0.0.0.0	oscnjc.035000.com
@@ -3387,6 +3388,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bj14.9669.cn
 0.0.0.0	bs14.9669.cn
 0.0.0.0	9669.com
+0.0.0.0	9679c2b616.com
 0.0.0.0	m.967nd.cn
 0.0.0.0	96e7bee058.com
 0.0.0.0	96rj.icu
@@ -23763,6 +23765,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	smetrics.chadstone.com.au
 0.0.0.0	kjekb.chadwicks.com
 0.0.0.0	chaerel.com
+0.0.0.0	chagalcuticle.shop
 0.0.0.0	chaghets.net
 0.0.0.0	chaibsoacmo.com
 0.0.0.0	measure.chain-logistics.nl
@@ -31087,6 +31090,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sstats.daicompanies.com
 0.0.0.0	daidlepulps.top
 0.0.0.0	daidlypipile.help
+0.0.0.0	daidoageesteh.com
 0.0.0.0	log.daidoanket.vn
 0.0.0.0	newlog.daidoanket.vn
 0.0.0.0	bears.daigostudio.com
@@ -37173,6 +37177,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	events.engager.ecbsn.com
 0.0.0.0	tbknig.ecc.jp
 0.0.0.0	eccbb.com
+0.0.0.0	ecchkens.shop
 0.0.0.0	eccki.cn
 0.0.0.0	sts.eccmp.com
 0.0.0.0	ehwcvs.ecco-verde.co.uk
@@ -39610,6 +39615,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	erlpbwy.cn
 0.0.0.0	marketing.erm-ins.com
 0.0.0.0	erm5aranwt7hucs.com
+0.0.0.0	ermelinemydea.cfd
 0.0.0.0	horse.erms.app
 0.0.0.0	data-fb6bd6ba7f.ernaehrungsdienst.de
 0.0.0.0	green.erne.co
@@ -56831,6 +56837,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ingatlannet.hu
 0.0.0.0	pixels.ingbank.com.tr
 0.0.0.0	content.ingbank.pl
+0.0.0.0	ingcqvrmskipd.site
 0.0.0.0	metric.ingdirect.es
 0.0.0.0	metrics.ingdirect.es
 0.0.0.0	smetrics.ingdirect.it
@@ -67465,6 +67472,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cdn.logsnag.com
 0.0.0.0	logtail.com
 0.0.0.0	logua.com
+0.0.0.0	logworkdysuria.life
 0.0.0.0	logxp.ru
 0.0.0.0	logz.io
 0.0.0.0	logz.ru
@@ -90161,6 +90169,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.qbenu.com
 0.0.0.0	sst.qbimmigrationlaw.com
 0.0.0.0	qbkcpcer.com
+0.0.0.0	qbkraweaoeozo.top
 0.0.0.0	qblllqzqezlyz.top
 0.0.0.0	qblllqzqezzwj.top
 0.0.0.0	qbnvdctsmxqhr.website
@@ -105082,6 +105091,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dai1c.sukrin.be
 0.0.0.0	dai1c.sukrin.nl
 0.0.0.0	sukspcwrnqpbs.life
+0.0.0.0	suksuksumeedro.com
 0.0.0.0	sukultingecauyuk.org
 0.0.0.0	stape.sulimiro.com
 0.0.0.0	sulingacestes.click
@@ -115319,6 +115329,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	uxffgxaqqkiha.site
 0.0.0.0	console.uxlens.com
 0.0.0.0	uxlqwra.cn
+0.0.0.0	uxnjizwmojek.com
 0.0.0.0	uxnrnsfybjmxgw.com
 0.0.0.0	uxqudtzzbkhfq.website
 0.0.0.0	marketing.uxreactor.com
@@ -120469,6 +120480,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	whalepeacockwailing.com
 0.0.0.0	whaleplayful.com
 0.0.0.0	whaleslightestimposter.com
+0.0.0.0	whalingnotaeum.click
 0.0.0.0	whalishtoplike.top
 0.0.0.0	whammedknavess.top
 0.0.0.0	whampamp.com
@@ -122395,6 +122407,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	wzlbzbzlobyvl.top
 0.0.0.0	wzlzgwdtasjfs.online
 0.0.0.0	wzmmmakabkkln.top
+0.0.0.0	wzogvlbvqbqkq.top
 0.0.0.0	wzplcddnvdodh.xyz
 0.0.0.0	wzrkt.com
 0.0.0.0	wzry5.cn
@@ -126179,6 +126192,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	zrakos.com
 0.0.0.0	zrbnte.top
 0.0.0.0	www.zreder.com
+0.0.0.0	zrffdxfrwz.com
 0.0.0.0	zrilwyoc.com
 0.0.0.0	zrlcr.com
 0.0.0.0	zrlqm.com
