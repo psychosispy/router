@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250722085731
-# Last modified: 2025/07/22 08:57:31
-# Blocked domains: 6408
+# Version: 20250723085817
+# Last modified: 2025/07/23 08:58:17
+# Blocked domains: 6405
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -1394,7 +1394,6 @@ DOMAIN-SUFFIX,b1.c1km4.com,REJECT-DROP
 DOMAIN-SUFFIX,c4uy.icu,REJECT-DROP
 DOMAIN-SUFFIX,ca88b.cn,REJECT-DROP
 DOMAIN-SUFFIX,cadcc.icu,REJECT-DROP
-DOMAIN-SUFFIX,download.caihong.com,REJECT-DROP
 DOMAIN-SUFFIX,apollo.caixin.com,REJECT-DROP
 DOMAIN-SUFFIX,gg.caixin.com,REJECT-DROP
 DOMAIN-SUFFIX,logstat.caixin.com,REJECT-DROP
@@ -5111,7 +5110,6 @@ DOMAIN-SUFFIX,js.static.tebaidu.cn,REJECT-DROP
 DOMAIN-SUFFIX,tg.tebiezhuan.com,REJECT-DROP
 DOMAIN-SUFFIX,1.tecbbs.com,REJECT-DROP
 DOMAIN-SUFFIX,tongji.techweb.com.cn,REJECT-DROP
-DOMAIN-SUFFIX,tecunonline.com,REJECT-DROP
 DOMAIN-SUFFIX,telegramcn.co,REJECT-DROP
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net,REJECT-DROP
 DOMAIN-SUFFIX,apd-pcdnwxnat.teg.tencent-cloud.net,REJECT-DROP
@@ -5687,7 +5685,6 @@ DOMAIN-SUFFIX,wsacjdg.cn,REJECT-DROP
 DOMAIN-SUFFIX,wsds.cn,REJECT-DROP
 DOMAIN-SUFFIX,wsnew.cn,REJECT-DROP
 DOMAIN-SUFFIX,wstatslive.com,REJECT-DROP
-DOMAIN-SUFFIX,soft.wsyhn.com,REJECT-DROP
 DOMAIN-SUFFIX,cdn-ad.wtzw.com,REJECT-DROP
 DOMAIN-SUFFIX,wumii.cn,REJECT-DROP
 DOMAIN-SUFFIX,wumii.com,REJECT-DROP

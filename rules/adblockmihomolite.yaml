@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20250722085731
-  # Last modified: 2025/07/22 08:57:31
-  # Blocked domains: 6408
+  # Version: 20250723085817
+  # Last modified: 2025/07/23 08:58:17
+  # Blocked domains: 6405
   #
   - '+.00xvppy.cn'
   - '+.011211.cn'
@@ -1394,7 +1394,6 @@ payload:
   - '+.c4uy.icu'
   - '+.ca88b.cn'
   - '+.cadcc.icu'
-  - '+.download.caihong.com'
   - '+.apollo.caixin.com'
   - '+.gg.caixin.com'
   - '+.logstat.caixin.com'
@@ -5111,7 +5110,6 @@ payload:
   - '+.tg.tebiezhuan.com'
   - '+.1.tecbbs.com'
   - '+.tongji.techweb.com.cn'
-  - '+.tecunonline.com'
   - '+.telegramcn.co'
   - '+.apd-pcdnwxlogin.teg.tencent-cloud.net'
   - '+.apd-pcdnwxnat.teg.tencent-cloud.net'
@@ -5687,7 +5685,6 @@ payload:
   - '+.wsds.cn'
   - '+.wsnew.cn'
   - '+.wstatslive.com'
-  - '+.soft.wsyhn.com'
   - '+.cdn-ad.wtzw.com'
   - '+.wumii.cn'
   - '+.wumii.com'

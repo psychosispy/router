@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250722085731
-# Last modified: 2025/07/22 08:57:31
-# Blocked domains: 6408
+# Version: 20250723085817
+# Last modified: 2025/07/23 08:58:17
+# Blocked domains: 6405
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -1408,7 +1408,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	c4uy.icu
 0.0.0.0	ca88b.cn
 0.0.0.0	cadcc.icu
-0.0.0.0	download.caihong.com
 0.0.0.0	apollo.caixin.com
 0.0.0.0	gg.caixin.com
 0.0.0.0	logstat.caixin.com
@@ -5125,7 +5124,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tg.tebiezhuan.com
 0.0.0.0	1.tecbbs.com
 0.0.0.0	tongji.techweb.com.cn
-0.0.0.0	tecunonline.com
 0.0.0.0	telegramcn.co
 0.0.0.0	apd-pcdnwxlogin.teg.tencent-cloud.net
 0.0.0.0	apd-pcdnwxnat.teg.tencent-cloud.net
@@ -5701,7 +5699,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wsds.cn
 0.0.0.0	wsnew.cn
 0.0.0.0	wstatslive.com
-0.0.0.0	soft.wsyhn.com
 0.0.0.0	cdn-ad.wtzw.com
 0.0.0.0	wumii.cn
 0.0.0.0	wumii.com
