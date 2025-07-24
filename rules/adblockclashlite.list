@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250723085817
-# Last modified: 2025/07/23 08:58:17
-# Blocked domains: 6405
+# Version: 20250724085750
+# Last modified: 2025/07/24 08:57:50
+# Blocked domains: 6407
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -1156,6 +1156,7 @@ DOMAIN-SUFFIX,nsclickvideo.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,openrcv.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,paimgcdn-feed.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,pimlog.baidu.com,REJECT-DROP
+DOMAIN-SUFFIX,plugin.mobopay.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,pos.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,publish-pic-cpu.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,pups.baidu.com,REJECT-DROP
@@ -2643,7 +2644,6 @@ DOMAIN-SUFFIX,huodonghezi.cn,REJECT-DROP
 DOMAIN-SUFFIX,gg.huolinhe.com,REJECT-DROP
 DOMAIN-SUFFIX,adx.hupu.com,REJECT-DROP
 DOMAIN-SUFFIX,goblin.hupu.com,REJECT-DROP
-DOMAIN-SUFFIX,ad-sdk.huxiu.com,REJECT-DROP
 DOMAIN-SUFFIX,api-ad-product.huxiu.com,REJECT-DROP
 DOMAIN-SUFFIX,log-api.huxiu.com,REJECT-DROP
 DOMAIN-SUFFIX,log-api-mn.huxiu.com,REJECT-DROP
@@ -5716,6 +5716,8 @@ DOMAIN-SUFFIX,pv.xcar.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,pvx.xcar.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,zio.xcar.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,xcdf.cn,REJECT-DROP
+DOMAIN-SUFFIX,api.fu.xcultur.com,REJECT-DROP
+DOMAIN-SUFFIX,api.ssp.xcultur.com,REJECT-DROP
 DOMAIN-SUFFIX,mldy.xdaay.cn,REJECT-DROP
 DOMAIN-SUFFIX,52m.xde6.net,REJECT-DROP
 DOMAIN-SUFFIX,xdrig.com,REJECT-DROP

@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250723085817
-# Last modified: 2025/07/23 08:58:17
-# Blocked domains: 6405
+# Version: 20250724085750
+# Last modified: 2025/07/24 08:57:50
+# Blocked domains: 6407
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -1155,6 +1155,7 @@ local=/nsclickvideo.baidu.com/
 local=/openrcv.baidu.com/
 local=/paimgcdn-feed.baidu.com/
 local=/pimlog.baidu.com/
+local=/plugin.mobopay.baidu.com/
 local=/pos.baidu.com/
 local=/publish-pic-cpu.baidu.com/
 local=/pups.baidu.com/
@@ -2642,7 +2643,6 @@ local=/huodonghezi.cn/
 local=/gg.huolinhe.com/
 local=/adx.hupu.com/
 local=/goblin.hupu.com/
-local=/ad-sdk.huxiu.com/
 local=/api-ad-product.huxiu.com/
 local=/log-api.huxiu.com/
 local=/log-api-mn.huxiu.com/
@@ -5715,6 +5715,8 @@ local=/pv.xcar.com.cn/
 local=/pvx.xcar.com.cn/
 local=/zio.xcar.com.cn/
 local=/xcdf.cn/
+local=/api.fu.xcultur.com/
+local=/api.ssp.xcultur.com/
 local=/mldy.xdaay.cn/
 local=/52m.xde6.net/
 local=/xdrig.com/

@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250723085817
-! Last modified: 2025/07/23 08:58:17
-! Blocked domains: 6405
+! Version: 20250724085750
+! Last modified: 2025/07/24 08:57:50
+! Blocked domains: 6407
 ! unBlocked domains: 15
 !
 ||00xvppy.cn^
@@ -1156,6 +1156,7 @@
 ||openrcv.baidu.com^
 ||paimgcdn-feed.baidu.com^
 ||pimlog.baidu.com^
+||plugin.mobopay.baidu.com^
 ||pos.baidu.com^
 ||publish-pic-cpu.baidu.com^
 ||pups.baidu.com^
@@ -2643,7 +2644,6 @@
 ||gg.huolinhe.com^
 ||adx.hupu.com^
 ||goblin.hupu.com^
-||ad-sdk.huxiu.com^
 ||api-ad-product.huxiu.com^
 ||log-api.huxiu.com^
 ||log-api-mn.huxiu.com^
@@ -5716,6 +5716,8 @@
 ||pvx.xcar.com.cn^
 ||zio.xcar.com.cn^
 ||xcdf.cn^
+||api.fu.xcultur.com^
+||api.ssp.xcultur.com^
 ||mldy.xdaay.cn^
 ||52m.xde6.net^
 ||xdrig.com^

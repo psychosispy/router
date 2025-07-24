@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250723085817
-# Last modified: 2025/07/23 08:58:17
-# Blocked domains: 6405
+# Version: 20250724085750
+# Last modified: 2025/07/24 08:57:50
+# Blocked domains: 6407
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -1170,6 +1170,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	openrcv.baidu.com
 0.0.0.0	paimgcdn-feed.baidu.com
 0.0.0.0	pimlog.baidu.com
+0.0.0.0	plugin.mobopay.baidu.com
 0.0.0.0	pos.baidu.com
 0.0.0.0	publish-pic-cpu.baidu.com
 0.0.0.0	pups.baidu.com
@@ -2657,7 +2658,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	gg.huolinhe.com
 0.0.0.0	adx.hupu.com
 0.0.0.0	goblin.hupu.com
-0.0.0.0	ad-sdk.huxiu.com
 0.0.0.0	api-ad-product.huxiu.com
 0.0.0.0	log-api.huxiu.com
 0.0.0.0	log-api-mn.huxiu.com
@@ -5730,6 +5730,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	pvx.xcar.com.cn
 0.0.0.0	zio.xcar.com.cn
 0.0.0.0	xcdf.cn
+0.0.0.0	api.fu.xcultur.com
+0.0.0.0	api.ssp.xcultur.com
 0.0.0.0	mldy.xdaay.cn
 0.0.0.0	52m.xde6.net
 0.0.0.0	xdrig.com

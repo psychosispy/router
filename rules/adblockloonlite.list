@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/07/23 08:58:17
-#!support=6405
+#!date=2025/07/24 08:57:50
+#!support=6407
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -1159,6 +1159,7 @@ DOMAIN-SUFFIX,nsclickvideo.baidu.com
 DOMAIN-SUFFIX,openrcv.baidu.com
 DOMAIN-SUFFIX,paimgcdn-feed.baidu.com
 DOMAIN-SUFFIX,pimlog.baidu.com
+DOMAIN-SUFFIX,plugin.mobopay.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,publish-pic-cpu.baidu.com
 DOMAIN-SUFFIX,pups.baidu.com
@@ -2646,7 +2647,6 @@ DOMAIN-SUFFIX,huodonghezi.cn
 DOMAIN-SUFFIX,gg.huolinhe.com
 DOMAIN-SUFFIX,adx.hupu.com
 DOMAIN-SUFFIX,goblin.hupu.com
-DOMAIN-SUFFIX,ad-sdk.huxiu.com
 DOMAIN-SUFFIX,api-ad-product.huxiu.com
 DOMAIN-SUFFIX,log-api.huxiu.com
 DOMAIN-SUFFIX,log-api-mn.huxiu.com
@@ -5719,6 +5719,8 @@ DOMAIN-SUFFIX,pv.xcar.com.cn
 DOMAIN-SUFFIX,pvx.xcar.com.cn
 DOMAIN-SUFFIX,zio.xcar.com.cn
 DOMAIN-SUFFIX,xcdf.cn
+DOMAIN-SUFFIX,api.fu.xcultur.com
+DOMAIN-SUFFIX,api.ssp.xcultur.com
 DOMAIN-SUFFIX,mldy.xdaay.cn
 DOMAIN-SUFFIX,52m.xde6.net
 DOMAIN-SUFFIX,xdrig.com
