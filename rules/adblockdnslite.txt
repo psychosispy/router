@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250724085750
-! Last modified: 2025/07/24 08:57:50
-! Blocked domains: 6407
+! Version: 20250725085731
+! Last modified: 2025/07/25 08:57:31
+! Blocked domains: 6404
 ! unBlocked domains: 15
 !
 ||00xvppy.cn^
@@ -700,7 +700,6 @@
 ||m.abfirst.cn^
 ||abjalrq.cn^
 ||discover.absciex.com.cn^
-||disk.accord1key.cn^
 ||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
@@ -884,7 +883,6 @@
 ||update.aegis.aliyun.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 ||adash.man.aliyuncs.com^
-||ah-scanning.oss-cn-hongkong.aliyuncs.com^
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
@@ -1395,6 +1393,7 @@
 ||c4uy.icu^
 ||ca88b.cn^
 ||cadcc.icu^
+||download.caihong.com^
 ||apollo.caixin.com^
 ||gg.caixin.com^
 ||logstat.caixin.com^
@@ -3951,7 +3950,6 @@
 ||count.pcpop.com^
 ||video-dsp.pddpic.com^
 ||download.pdf00.cn^
-||download.pdf00.com^
 ||pdfexpert.cc^
 ||pdhhmf.cn^
 ||pdiabbi.cn^
@@ -5318,7 +5316,7 @@
 ||wmedia-track.uc.cn^
 ||woodpecker.uc.cn^
 ||gm.uc003.com^
-||uc123.com^
+||u.uc123.com^
 ||uctrac.com^
 ||adtrack.ucweb.com^
 ||adtrack-intl.ucweb.com^
@@ -5440,7 +5438,6 @@
 ||m.vcsoat.cn^
 ||vegaschina.cn^
 ||g.analytics.versa-ai.com^
-||veryboys.com^
 ||vfvdsati.com^
 ||hw-p2p-pull.video-voip.com^
 ||rtas.videocc.net^

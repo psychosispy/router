@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250724085750
-# Last modified: 2025/07/24 08:57:50
-# Blocked domains: 6407
+# Version: 20250725085731
+# Last modified: 2025/07/25 08:57:31
+# Blocked domains: 6404
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -699,7 +699,6 @@ local=/smetrics.abercrombie.cn/
 local=/m.abfirst.cn/
 local=/abjalrq.cn/
 local=/discover.absciex.com.cn/
-local=/disk.accord1key.cn/
 local=/apilog-web.acfun.cn/
 local=/apilog.app.acfun.cn/
 local=/jscode.acg68.com/
@@ -883,7 +882,6 @@ local=/osfota.cdn.aliyun.com/
 local=/update.aegis.aliyun.com/
 local=/adash-emas.cn-hangzhou.aliyuncs.com/
 local=/adash.man.aliyuncs.com/
-local=/ah-scanning.oss-cn-hongkong.aliyuncs.com/
 local=/aixuntupian.oss-cn-hongkong.aliyuncs.com/
 local=/alime-pic.oss-cn-hangzhou.aliyuncs.com/
 local=/appgiftwall.oss-us-west-1.aliyuncs.com/
@@ -1394,6 +1392,7 @@ local=/b1.c1km4.com/
 local=/c4uy.icu/
 local=/ca88b.cn/
 local=/cadcc.icu/
+local=/download.caihong.com/
 local=/apollo.caixin.com/
 local=/gg.caixin.com/
 local=/logstat.caixin.com/
@@ -3950,7 +3949,6 @@ local=/ashow.pcpop.com/
 local=/count.pcpop.com/
 local=/video-dsp.pddpic.com/
 local=/download.pdf00.cn/
-local=/download.pdf00.com/
 local=/pdfexpert.cc/
 local=/pdhhmf.cn/
 local=/pdiabbi.cn/
@@ -5317,7 +5315,7 @@ local=/track.uc.cn/
 local=/wmedia-track.uc.cn/
 local=/woodpecker.uc.cn/
 local=/gm.uc003.com/
-local=/uc123.com/
+local=/u.uc123.com/
 local=/uctrac.com/
 local=/adtrack.ucweb.com/
 local=/adtrack-intl.ucweb.com/
@@ -5439,7 +5437,6 @@ local=/vchiy.com/
 local=/m.vcsoat.cn/
 local=/vegaschina.cn/
 local=/g.analytics.versa-ai.com/
-local=/veryboys.com/
 local=/vfvdsati.com/
 local=/hw-p2p-pull.video-voip.com/
 local=/rtas.videocc.net/

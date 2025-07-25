@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250724085750
-# Last modified: 2025/07/24 08:57:50
-# Blocked domains: 6407
+# Version: 20250725085731
+# Last modified: 2025/07/25 08:57:31
+# Blocked domains: 6404
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -714,7 +714,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.abfirst.cn
 0.0.0.0	abjalrq.cn
 0.0.0.0	discover.absciex.com.cn
-0.0.0.0	disk.accord1key.cn
 0.0.0.0	apilog-web.acfun.cn
 0.0.0.0	apilog.app.acfun.cn
 0.0.0.0	jscode.acg68.com
@@ -898,7 +897,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	update.aegis.aliyun.com
 0.0.0.0	adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0	adash.man.aliyuncs.com
-0.0.0.0	ah-scanning.oss-cn-hongkong.aliyuncs.com
 0.0.0.0	aixuntupian.oss-cn-hongkong.aliyuncs.com
 0.0.0.0	alime-pic.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	appgiftwall.oss-us-west-1.aliyuncs.com
@@ -1409,6 +1407,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	c4uy.icu
 0.0.0.0	ca88b.cn
 0.0.0.0	cadcc.icu
+0.0.0.0	download.caihong.com
 0.0.0.0	apollo.caixin.com
 0.0.0.0	gg.caixin.com
 0.0.0.0	logstat.caixin.com
@@ -3965,7 +3964,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	count.pcpop.com
 0.0.0.0	video-dsp.pddpic.com
 0.0.0.0	download.pdf00.cn
-0.0.0.0	download.pdf00.com
 0.0.0.0	pdfexpert.cc
 0.0.0.0	pdhhmf.cn
 0.0.0.0	pdiabbi.cn
@@ -5332,7 +5330,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	wmedia-track.uc.cn
 0.0.0.0	woodpecker.uc.cn
 0.0.0.0	gm.uc003.com
-0.0.0.0	uc123.com
+0.0.0.0	u.uc123.com
 0.0.0.0	uctrac.com
 0.0.0.0	adtrack.ucweb.com
 0.0.0.0	adtrack-intl.ucweb.com
@@ -5454,7 +5452,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.vcsoat.cn
 0.0.0.0	vegaschina.cn
 0.0.0.0	g.analytics.versa-ai.com
-0.0.0.0	veryboys.com
 0.0.0.0	vfvdsati.com
 0.0.0.0	hw-p2p-pull.video-voip.com
 0.0.0.0	rtas.videocc.net

@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/07/24 08:57:50
-#!support=6407
+#!date=2025/07/25 08:57:32
+#!support=6404
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -703,7 +703,6 @@ DOMAIN-SUFFIX,smetrics.abercrombie.cn
 DOMAIN-SUFFIX,m.abfirst.cn
 DOMAIN-SUFFIX,abjalrq.cn
 DOMAIN-SUFFIX,discover.absciex.com.cn
-DOMAIN-SUFFIX,disk.accord1key.cn
 DOMAIN-SUFFIX,apilog-web.acfun.cn
 DOMAIN-SUFFIX,apilog.app.acfun.cn
 DOMAIN-SUFFIX,jscode.acg68.com
@@ -887,7 +886,6 @@ DOMAIN-SUFFIX,osfota.cdn.aliyun.com
 DOMAIN-SUFFIX,update.aegis.aliyun.com
 DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
-DOMAIN-SUFFIX,ah-scanning.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,aixuntupian.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,alime-pic.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,appgiftwall.oss-us-west-1.aliyuncs.com
@@ -1398,6 +1396,7 @@ DOMAIN-SUFFIX,b1.c1km4.com
 DOMAIN-SUFFIX,c4uy.icu
 DOMAIN-SUFFIX,ca88b.cn
 DOMAIN-SUFFIX,cadcc.icu
+DOMAIN-SUFFIX,download.caihong.com
 DOMAIN-SUFFIX,apollo.caixin.com
 DOMAIN-SUFFIX,gg.caixin.com
 DOMAIN-SUFFIX,logstat.caixin.com
@@ -3954,7 +3953,6 @@ DOMAIN-SUFFIX,ashow.pcpop.com
 DOMAIN-SUFFIX,count.pcpop.com
 DOMAIN-SUFFIX,video-dsp.pddpic.com
 DOMAIN-SUFFIX,download.pdf00.cn
-DOMAIN-SUFFIX,download.pdf00.com
 DOMAIN-SUFFIX,pdfexpert.cc
 DOMAIN-SUFFIX,pdhhmf.cn
 DOMAIN-SUFFIX,pdiabbi.cn
@@ -5321,7 +5319,7 @@ DOMAIN-SUFFIX,track.uc.cn
 DOMAIN-SUFFIX,wmedia-track.uc.cn
 DOMAIN-SUFFIX,woodpecker.uc.cn
 DOMAIN-SUFFIX,gm.uc003.com
-DOMAIN-SUFFIX,uc123.com
+DOMAIN-SUFFIX,u.uc123.com
 DOMAIN-SUFFIX,uctrac.com
 DOMAIN-SUFFIX,adtrack.ucweb.com
 DOMAIN-SUFFIX,adtrack-intl.ucweb.com
@@ -5443,7 +5441,6 @@ DOMAIN-SUFFIX,vchiy.com
 DOMAIN-SUFFIX,m.vcsoat.cn
 DOMAIN-SUFFIX,vegaschina.cn
 DOMAIN-SUFFIX,g.analytics.versa-ai.com
-DOMAIN-SUFFIX,veryboys.com
 DOMAIN-SUFFIX,vfvdsati.com
 DOMAIN-SUFFIX,hw-p2p-pull.video-voip.com
 DOMAIN-SUFFIX,rtas.videocc.net
