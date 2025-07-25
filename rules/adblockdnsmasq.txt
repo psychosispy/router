@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasq.txt
-# Version: 20250725180252
-# Last modified: 2025/07/25 18:02:52
-# Blocked domains: 128256
+# Version: 20250725181728
+# Last modified: 2025/07/25 18:17:28
+# Blocked domains: 128261
 #
 local=/0-02.net/
 local=/000dn.com/
@@ -13197,6 +13197,7 @@ local=/data.aupaathletic.com/
 local=/sadbmetrics.aupaathletic.com/
 local=/load.gtm.aupairbutrfly.com/
 local=/auphawhu.net/
+local=/auphothuns.net/
 local=/ignhl.aura.com/
 local=/vfpot.aura.watch/
 local=/fcapi.auradecorbd.com/
@@ -17524,6 +17525,8 @@ local=/dataflow.biliapi.com/
 local=/miniapp.bilibili.com/
 local=/line1-log.biligame.net/
 local=/bilingualgeek.com/
+local=/mcdn.bilivideo.cn/
+local=/mcdn.bilivideo.com/
 local=/tentflooring.biljax.com/
 local=/fgfpj.billabong.com/
 local=/billagesoorky.shop/
@@ -85765,6 +85768,7 @@ local=/exchange.pbem.fr/
 local=/pbestrdinkbff.online/
 local=/pbfefd.icu/
 local=/files.pbgiris.com/
+local=/pbgkweapdycud.website/
 local=/pbgrd.com/
 local=/load.sgtm.pbjmarketing.com/
 local=/pbl3citto.com/
@@ -86750,6 +86754,7 @@ local=/phabaustoost.net/
 local=/phadsophoogh.net/
 local=/phaignothug.net/
 local=/phaikroo.net/
+local=/phailtaumpex.net/
 local=/phaitaghy.com/
 local=/phaivaju.com/
 local=/phanmem111.com/

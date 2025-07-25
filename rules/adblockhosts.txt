@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhosts.txt
-# Version: 20250725180252
-# Last modified: 2025/07/25 18:02:52
-# Blocked domains: 128256
+# Version: 20250725181728
+# Last modified: 2025/07/25 18:17:28
+# Blocked domains: 128261
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -13212,6 +13212,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sadbmetrics.aupaathletic.com
 0.0.0.0	load.gtm.aupairbutrfly.com
 0.0.0.0	auphawhu.net
+0.0.0.0	auphothuns.net
 0.0.0.0	ignhl.aura.com
 0.0.0.0	vfpot.aura.watch
 0.0.0.0	fcapi.auradecorbd.com
@@ -17539,6 +17540,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	miniapp.bilibili.com
 0.0.0.0	line1-log.biligame.net
 0.0.0.0	bilingualgeek.com
+0.0.0.0	mcdn.bilivideo.cn
+0.0.0.0	mcdn.bilivideo.com
 0.0.0.0	tentflooring.biljax.com
 0.0.0.0	fgfpj.billabong.com
 0.0.0.0	billagesoorky.shop
@@ -85780,6 +85783,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	pbestrdinkbff.online
 0.0.0.0	pbfefd.icu
 0.0.0.0	files.pbgiris.com
+0.0.0.0	pbgkweapdycud.website
 0.0.0.0	pbgrd.com
 0.0.0.0	load.sgtm.pbjmarketing.com
 0.0.0.0	pbl3citto.com
@@ -86765,6 +86769,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	phadsophoogh.net
 0.0.0.0	phaignothug.net
 0.0.0.0	phaikroo.net
+0.0.0.0	phailtaumpex.net
 0.0.0.0	phaitaghy.com
 0.0.0.0	phaivaju.com
 0.0.0.0	phanmem111.com
