@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/07/25 22:12:38
-#!support=6404
+#!date=2025/07/26 08:55:55
+#!support=6400
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -112,7 +112,6 @@ DOMAIN-SUFFIX,1357902.cn
 DOMAIN-SUFFIX,lyapi.1391.com
 DOMAIN-SUFFIX,mhdufile.1391.com
 DOMAIN-SUFFIX,mhjk.1391.com
-DOMAIN-SUFFIX,d.14yaa.com
 DOMAIN-SUFFIX,1503.net
 DOMAIN-SUFFIX,15tianqi.com
 DOMAIN-SUFFIX,adgeo.163.com
@@ -449,7 +448,6 @@ DOMAIN-SUFFIX,union.56.com
 DOMAIN-SUFFIX,v16.56.com
 DOMAIN-SUFFIX,1.5646.cn
 DOMAIN-SUFFIX,3.5646.cn
-DOMAIN-SUFFIX,dl.1003b.56a.com
 DOMAIN-SUFFIX,56fba.cn
 DOMAIN-SUFFIX,www.57.com.cn
 DOMAIN-SUFFIX,57573zubo36833.com
@@ -703,6 +701,7 @@ DOMAIN-SUFFIX,smetrics.abercrombie.cn
 DOMAIN-SUFFIX,m.abfirst.cn
 DOMAIN-SUFFIX,abjalrq.cn
 DOMAIN-SUFFIX,discover.absciex.com.cn
+DOMAIN-SUFFIX,disk.accord1key.cn
 DOMAIN-SUFFIX,apilog-web.acfun.cn
 DOMAIN-SUFFIX,apilog.app.acfun.cn
 DOMAIN-SUFFIX,jscode.acg68.com
@@ -886,6 +885,7 @@ DOMAIN-SUFFIX,osfota.cdn.aliyun.com
 DOMAIN-SUFFIX,update.aegis.aliyun.com
 DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,ah-scanning.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,aixuntupian.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,alime-pic.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,appgiftwall.oss-us-west-1.aliyuncs.com
@@ -2662,7 +2662,6 @@ DOMAIN-SUFFIX,ylog.huya.com
 DOMAIN-SUFFIX,huzhanbin.cn
 DOMAIN-SUFFIX,m.hvjxf.cn
 DOMAIN-SUFFIX,ecs-1-94-222-140.compute.hwclouds-dns.com
-DOMAIN-SUFFIX,ecs-124-70-158-53.compute.hwclouds-dns.com
 DOMAIN-SUFFIX,hxqu.com
 DOMAIN-SUFFIX,hy-cn.cn
 DOMAIN-SUFFIX,www.hyfyuan.com
@@ -3778,7 +3777,6 @@ DOMAIN-SUFFIX,2.nanrenwo.net
 DOMAIN-SUFFIX,m.nanyangqiaoxiang.cn
 DOMAIN-SUFFIX,napthetocchien.com
 DOMAIN-SUFFIX,nasimobi.com
-DOMAIN-SUFFIX,dl.natgo.cn
 DOMAIN-SUFFIX,nbfieef.cn
 DOMAIN-SUFFIX,ncgqmzm.cn
 DOMAIN-SUFFIX,ncwckj.com
@@ -3953,6 +3951,7 @@ DOMAIN-SUFFIX,ashow.pcpop.com
 DOMAIN-SUFFIX,count.pcpop.com
 DOMAIN-SUFFIX,video-dsp.pddpic.com
 DOMAIN-SUFFIX,download.pdf00.cn
+DOMAIN-SUFFIX,download.pdf00.com
 DOMAIN-SUFFIX,pdfexpert.cc
 DOMAIN-SUFFIX,pdhhmf.cn
 DOMAIN-SUFFIX,pdiabbi.cn
@@ -5111,7 +5110,6 @@ DOMAIN-SUFFIX,js.static.tebaidu.cn
 DOMAIN-SUFFIX,tg.tebiezhuan.com
 DOMAIN-SUFFIX,1.tecbbs.com
 DOMAIN-SUFFIX,tongji.techweb.com.cn
-DOMAIN-SUFFIX,telegramcn.co
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN-SUFFIX,apd-pcdnwxnat.teg.tencent-cloud.net
 DOMAIN-SUFFIX,apd-pcdnwxstat.teg.tencent-cloud.net
@@ -5182,7 +5180,6 @@ DOMAIN-SUFFIX,ip.tianqiapi.com
 DOMAIN-SUFFIX,datas.tianqistatic.com
 DOMAIN-SUFFIX,yptqys.tianqistatic.com
 DOMAIN-SUFFIX,tianshilv.cn
-DOMAIN-SUFFIX,fz.tiansys.cn
 DOMAIN-SUFFIX,m.tiantianedu.net
 DOMAIN-SUFFIX,api-ads.tiantianqutao.com
 DOMAIN-SUFFIX,tiantiansoft.com
@@ -5358,7 +5355,6 @@ DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,ee.uh64b.cn
 DOMAIN-SUFFIX,m.uh64b.cn
 DOMAIN-SUFFIX,uhabo.com
-DOMAIN-SUFFIX,file.uhsea.com
 DOMAIN-SUFFIX,bdjs.uimg.cn
 DOMAIN-SUFFIX,uiqjcpt.cn
 DOMAIN-SUFFIX,ujian.cc

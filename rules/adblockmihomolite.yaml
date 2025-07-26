@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20250725221238
-  # Last modified: 2025/07/25 22:12:38
-  # Blocked domains: 6404
+  # Version: 20250726085555
+  # Last modified: 2025/07/26 08:55:55
+  # Blocked domains: 6400
   #
   - '+.00xvppy.cn'
   - '+.011211.cn'
@@ -109,7 +109,6 @@ payload:
   - '+.lyapi.1391.com'
   - '+.mhdufile.1391.com'
   - '+.mhjk.1391.com'
-  - '+.d.14yaa.com'
   - '+.1503.net'
   - '+.15tianqi.com'
   - '+.adgeo.163.com'
@@ -446,7 +445,6 @@ payload:
   - '+.v16.56.com'
   - '+.1.5646.cn'
   - '+.3.5646.cn'
-  - '+.dl.1003b.56a.com'
   - '+.56fba.cn'
   - '+.www.57.com.cn'
   - '+.57573zubo36833.com'
@@ -700,6 +698,7 @@ payload:
   - '+.m.abfirst.cn'
   - '+.abjalrq.cn'
   - '+.discover.absciex.com.cn'
+  - '+.disk.accord1key.cn'
   - '+.apilog-web.acfun.cn'
   - '+.apilog.app.acfun.cn'
   - '+.jscode.acg68.com'
@@ -883,6 +882,7 @@ payload:
   - '+.update.aegis.aliyun.com'
   - '+.adash-emas.cn-hangzhou.aliyuncs.com'
   - '+.adash.man.aliyuncs.com'
+  - '+.ah-scanning.oss-cn-hongkong.aliyuncs.com'
   - '+.aixuntupian.oss-cn-hongkong.aliyuncs.com'
   - '+.alime-pic.oss-cn-hangzhou.aliyuncs.com'
   - '+.appgiftwall.oss-us-west-1.aliyuncs.com'
@@ -2659,7 +2659,6 @@ payload:
   - '+.huzhanbin.cn'
   - '+.m.hvjxf.cn'
   - '+.ecs-1-94-222-140.compute.hwclouds-dns.com'
-  - '+.ecs-124-70-158-53.compute.hwclouds-dns.com'
   - '+.hxqu.com'
   - '+.hy-cn.cn'
   - '+.www.hyfyuan.com'
@@ -3775,7 +3774,6 @@ payload:
   - '+.m.nanyangqiaoxiang.cn'
   - '+.napthetocchien.com'
   - '+.nasimobi.com'
-  - '+.dl.natgo.cn'
   - '+.nbfieef.cn'
   - '+.ncgqmzm.cn'
   - '+.ncwckj.com'
@@ -3950,6 +3948,7 @@ payload:
   - '+.count.pcpop.com'
   - '+.video-dsp.pddpic.com'
   - '+.download.pdf00.cn'
+  - '+.download.pdf00.com'
   - '+.pdfexpert.cc'
   - '+.pdhhmf.cn'
   - '+.pdiabbi.cn'
@@ -5108,7 +5107,6 @@ payload:
   - '+.tg.tebiezhuan.com'
   - '+.1.tecbbs.com'
   - '+.tongji.techweb.com.cn'
-  - '+.telegramcn.co'
   - '+.apd-pcdnwxlogin.teg.tencent-cloud.net'
   - '+.apd-pcdnwxnat.teg.tencent-cloud.net'
   - '+.apd-pcdnwxstat.teg.tencent-cloud.net'
@@ -5179,7 +5177,6 @@ payload:
   - '+.datas.tianqistatic.com'
   - '+.yptqys.tianqistatic.com'
   - '+.tianshilv.cn'
-  - '+.fz.tiansys.cn'
   - '+.m.tiantianedu.net'
   - '+.api-ads.tiantianqutao.com'
   - '+.tiantiansoft.com'
@@ -5355,7 +5352,6 @@ payload:
   - '+.ee.uh64b.cn'
   - '+.m.uh64b.cn'
   - '+.uhabo.com'
-  - '+.file.uhsea.com'
   - '+.bdjs.uimg.cn'
   - '+.uiqjcpt.cn'
   - '+.ujian.cc'

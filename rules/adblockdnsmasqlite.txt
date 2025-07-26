@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250725221238
-# Last modified: 2025/07/25 22:12:38
-# Blocked domains: 6404
+# Version: 20250726085555
+# Last modified: 2025/07/26 08:55:55
+# Blocked domains: 6400
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -108,7 +108,6 @@ local=/1357902.cn/
 local=/lyapi.1391.com/
 local=/mhdufile.1391.com/
 local=/mhjk.1391.com/
-local=/d.14yaa.com/
 local=/1503.net/
 local=/15tianqi.com/
 local=/adgeo.163.com/
@@ -445,7 +444,6 @@ local=/union.56.com/
 local=/v16.56.com/
 local=/1.5646.cn/
 local=/3.5646.cn/
-local=/dl.1003b.56a.com/
 local=/56fba.cn/
 local=/www.57.com.cn/
 local=/57573zubo36833.com/
@@ -699,6 +697,7 @@ local=/smetrics.abercrombie.cn/
 local=/m.abfirst.cn/
 local=/abjalrq.cn/
 local=/discover.absciex.com.cn/
+local=/disk.accord1key.cn/
 local=/apilog-web.acfun.cn/
 local=/apilog.app.acfun.cn/
 local=/jscode.acg68.com/
@@ -882,6 +881,7 @@ local=/osfota.cdn.aliyun.com/
 local=/update.aegis.aliyun.com/
 local=/adash-emas.cn-hangzhou.aliyuncs.com/
 local=/adash.man.aliyuncs.com/
+local=/ah-scanning.oss-cn-hongkong.aliyuncs.com/
 local=/aixuntupian.oss-cn-hongkong.aliyuncs.com/
 local=/alime-pic.oss-cn-hangzhou.aliyuncs.com/
 local=/appgiftwall.oss-us-west-1.aliyuncs.com/
@@ -2658,7 +2658,6 @@ local=/ylog.huya.com/
 local=/huzhanbin.cn/
 local=/m.hvjxf.cn/
 local=/ecs-1-94-222-140.compute.hwclouds-dns.com/
-local=/ecs-124-70-158-53.compute.hwclouds-dns.com/
 local=/hxqu.com/
 local=/hy-cn.cn/
 local=/www.hyfyuan.com/
@@ -3774,7 +3773,6 @@ local=/2.nanrenwo.net/
 local=/m.nanyangqiaoxiang.cn/
 local=/napthetocchien.com/
 local=/nasimobi.com/
-local=/dl.natgo.cn/
 local=/nbfieef.cn/
 local=/ncgqmzm.cn/
 local=/ncwckj.com/
@@ -3949,6 +3947,7 @@ local=/ashow.pcpop.com/
 local=/count.pcpop.com/
 local=/video-dsp.pddpic.com/
 local=/download.pdf00.cn/
+local=/download.pdf00.com/
 local=/pdfexpert.cc/
 local=/pdhhmf.cn/
 local=/pdiabbi.cn/
@@ -5107,7 +5106,6 @@ local=/js.static.tebaidu.cn/
 local=/tg.tebiezhuan.com/
 local=/1.tecbbs.com/
 local=/tongji.techweb.com.cn/
-local=/telegramcn.co/
 local=/apd-pcdnwxlogin.teg.tencent-cloud.net/
 local=/apd-pcdnwxnat.teg.tencent-cloud.net/
 local=/apd-pcdnwxstat.teg.tencent-cloud.net/
@@ -5178,7 +5176,6 @@ local=/ip.tianqiapi.com/
 local=/datas.tianqistatic.com/
 local=/yptqys.tianqistatic.com/
 local=/tianshilv.cn/
-local=/fz.tiansys.cn/
 local=/m.tiantianedu.net/
 local=/api-ads.tiantianqutao.com/
 local=/tiantiansoft.com/
@@ -5354,7 +5351,6 @@ local=/ugdtimg.com/
 local=/ee.uh64b.cn/
 local=/m.uh64b.cn/
 local=/uhabo.com/
-local=/file.uhsea.com/
 local=/bdjs.uimg.cn/
 local=/uiqjcpt.cn/
 local=/ujian.cc/
