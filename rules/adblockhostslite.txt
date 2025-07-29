@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250728090155
-# Last modified: 2025/07/28 09:01:55
-# Blocked domains: 6292
+# Version: 20250729090325
+# Last modified: 2025/07/29 09:03:25
+# Blocked domains: 6266
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -332,7 +332,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	d-test.39.net
 0.0.0.0	dpvc.39.net
 0.0.0.0	thetestpage.39.net
-0.0.0.0	wz.3911.com
 0.0.0.0	data.3975.com
 0.0.0.0	app.3987.com
 0.0.0.0	m.3987.com
@@ -874,7 +873,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	update.aegis.aliyun.com
 0.0.0.0	adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0	adash.man.aliyuncs.com
-0.0.0.0	ah-scanning.oss-cn-hongkong.aliyuncs.com
 0.0.0.0	aixuntupian.oss-cn-hongkong.aliyuncs.com
 0.0.0.0	alime-pic.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	appgiftwall.oss-us-west-1.aliyuncs.com
@@ -908,7 +906,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	mobaders.oss-cn-beijing.aliyuncs.com
 0.0.0.0	mobantong.oss-cn-hangzhou.aliyuncs.com
-0.0.0.0	mymin11.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	nlmrjnew.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	safefiles2.oss-cn-beijing.aliyuncs.com
@@ -945,7 +942,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	logs.amap.com
 0.0.0.0	optimus-ads.amap.com
 0.0.0.0	log.amemv.com
-0.0.0.0	metrics.americanairlines.cn
 0.0.0.0	amerzbj.cn
 0.0.0.0	m.amhmhg.cn
 0.0.0.0	aa.analog.com
@@ -973,7 +969,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	adx.appsdk.com.cn
 0.0.0.0	appsdt.com
 0.0.0.0	appuu.cn
-0.0.0.0	aqianniao.com
 0.0.0.0	pay.aqiu6.com
 0.0.0.0	a.armystar.com
 0.0.0.0	trk.arozone.cn
@@ -992,7 +987,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	audioadx.com
 0.0.0.0	aurorapush.cn
 0.0.0.0	ausaas.cn
-0.0.0.0	somni.aussiespecialist.cn
 0.0.0.0	somni.australia.cn
 0.0.0.0	so.auto999.cn
 0.0.0.0	33.autohome.com.cn
@@ -1526,7 +1520,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ykad-data.cp31.ott.cibntv.net
 0.0.0.0	cig.com.cn
 0.0.0.0	metrics.citi.cn
-0.0.0.0	metrics.citi.com.cn
 0.0.0.0	metrics.citibank.cn
 0.0.0.0	smetrics.citibank.cn
 0.0.0.0	metrics.citibank.com.cn
@@ -1595,7 +1588,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	commander1.com
 0.0.0.0	commandersact.com
 0.0.0.0	trk.compair.com.cn
-0.0.0.0	strack.concur.cn
 0.0.0.0	coocaatv.com
 0.0.0.0	12.cookcai.com
 0.0.0.0	cootek-file.cdn.cootekservice.com
@@ -1606,7 +1598,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	n.cosbot.cn
 0.0.0.0	coumie.top
 0.0.0.0	cpc.cc
-0.0.0.0	agapi.cqjjb.cn
 0.0.0.0	cqmjjx.cn
 0.0.0.0	adimg.cqnews.net
 0.0.0.0	cbjg.cqnews.net
@@ -1695,7 +1686,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	s1.dapenti.com
 0.0.0.0	daraz.com
 0.0.0.0	net.daraz.lk
-0.0.0.0	net.daraz.pk
+0.0.0.0	marketing.net.daraz.pk
 0.0.0.0	dartsearch-cn.net
 0.0.0.0	dashantechan.cn
 0.0.0.0	datacaciques.com
@@ -2731,7 +2722,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	static.ilclock.com
 0.0.0.0	ilkwork.com
 0.0.0.0	smetrics.illumina.com.cn
-0.0.0.0	metrics.ilovematlab.cn
 0.0.0.0	smetrics.ilovematlab.cn
 0.0.0.0	imageter.com
 0.0.0.0	imasdk.googleapis.com
@@ -3294,7 +3284,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	forms-emea.lenovo.com
 0.0.0.0	images.business.lenovo.com
 0.0.0.0	images.smbdirect.lenovo.com
-0.0.0.0	o.lenovo.com
 0.0.0.0	s.lenovo.com
 0.0.0.0	adapi.lenovogame.com
 0.0.0.0	adcore.lenovomm.com
@@ -3626,7 +3615,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mobjump.com
 0.0.0.0	cdn0.mobmore.com
 0.0.0.0	ex.mobmore.com
-0.0.0.0	denpne.modelones.com
 0.0.0.0	bd1.moguvet.com
 0.0.0.0	ad.api.moji.com
 0.0.0.0	adlaunch.moji.com
@@ -3894,7 +3882,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	count.pcpop.com
 0.0.0.0	video-dsp.pddpic.com
 0.0.0.0	download.pdf00.cn
-0.0.0.0	download.pdf00.com
 0.0.0.0	pdfexpert.cc
 0.0.0.0	pdhhmf.cn
 0.0.0.0	pdiabbi.cn
@@ -3910,7 +3897,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a1.peoplecdn.cn
 0.0.0.0	pepnsnq.cn
 0.0.0.0	pg2bk.icu
-0.0.0.0	smetrics.marketing.lighting.philips.com.cn
 0.0.0.0	phjml.cn
 0.0.0.0	m.phonthing.com
 0.0.0.0	y.photoint.net
@@ -4338,7 +4324,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	qtmdzsj.cn
 0.0.0.0	api.qttunion.com
 0.0.0.0	aa.qualcomm.cn
-0.0.0.0	saa.qualcomm.cn
 0.0.0.0	quanbailing.com
 0.0.0.0	quanliyouxi.cn
 0.0.0.0	rhtc.quanminyouxi.cn
@@ -4383,7 +4368,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	raeqqe.cn
 0.0.0.0	p.raidmedia.com.cn
 0.0.0.0	u.raidmedia.com.cn
-0.0.0.0	luaqxb.rainso.com
 0.0.0.0	ads-sdk-api.ranfenghd.com
 0.0.0.0	rbift.icu
 0.0.0.0	rbioclv.cn
@@ -4668,19 +4652,13 @@ ff02::3	ip6-allhosts
 0.0.0.0	video-ad.sm.cn
 0.0.0.0	smart-way2.com.cn
 0.0.0.0	data.aftersales.smart.com
-0.0.0.0	data.ajo-dev.notifications.future.smart.com
 0.0.0.0	data.ajo-dev.srv.smart.com
-0.0.0.0	data.ajo-stage.notifications.future.smart.com
-0.0.0.0	data.ajo-stage.srv.smart.com
 0.0.0.0	data.dev-notifications.future.smart.com
 0.0.0.0	data.info.smart.com
 0.0.0.0	data.marketing.smart.com
 0.0.0.0	data.smartinfo.future.smart.com
 0.0.0.0	data.smartmkt.future.smart.com
 0.0.0.0	data.stage-notifications.future.smart.com
-0.0.0.0	form-submission-workspace.ajo-stage.srv.smart.com
-0.0.0.0	form-submission.marketing.smart.com
-0.0.0.0	raffle-entry.info.smart.com
 0.0.0.0	smetrics.future.smart.com
 0.0.0.0	sms.info.smart.com
 0.0.0.0	smarttrade.cn
@@ -5081,10 +5059,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	adpai.thepaper.cn
 0.0.0.0	imgadpai.thepaper.cn
 0.0.0.0	thering.cn
-0.0.0.0	sstats.thermofisher.com.cn
 0.0.0.0	event.thermoscientific.cn
 0.0.0.0	info.thermoscientific.cn
-0.0.0.0	sstats.thermoscientific.cn
 0.0.0.0	thinkmd.cn
 0.0.0.0	tatrack.thinkyeah.com
 0.0.0.0	thli43.cn
@@ -5188,7 +5164,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tumeite.cn
 0.0.0.0	analy.tuniu.cn
 0.0.0.0	tuoens.cn
-0.0.0.0	smetrics.tuvsud.cn
 0.0.0.0	tuvtpxp.cn
 0.0.0.0	tuxi.com.cn
 0.0.0.0	m.tv12h.cn
@@ -5323,7 +5298,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	usn.cc
 0.0.0.0	usrzh.cn
 0.0.0.0	wap.utmei.cn
-0.0.0.0	gyqpyr.utsource.net
 0.0.0.0	utywsi.cn
 0.0.0.0	app.uu.cc
 0.0.0.0	dl.uu.cc

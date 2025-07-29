@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250728090155
-! Last modified: 2025/07/28 09:01:55
-! Blocked domains: 6292
+! Version: 20250729090325
+! Last modified: 2025/07/29 09:03:25
+! Blocked domains: 6266
 !
 00xvppy.cn
 011211.cn
@@ -317,7 +317,6 @@ d.39.net
 d-test.39.net
 dpvc.39.net
 thetestpage.39.net
-wz.3911.com
 data.3975.com
 app.3987.com
 m.3987.com
@@ -859,7 +858,6 @@ osfota.cdn.aliyun.com
 update.aegis.aliyun.com
 adash-emas.cn-hangzhou.aliyuncs.com
 adash.man.aliyuncs.com
-ah-scanning.oss-cn-hongkong.aliyuncs.com
 aixuntupian.oss-cn-hongkong.aliyuncs.com
 alime-pic.oss-cn-hangzhou.aliyuncs.com
 appgiftwall.oss-us-west-1.aliyuncs.com
@@ -893,7 +891,6 @@ kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 mobaders.oss-cn-beijing.aliyuncs.com
 mobantong.oss-cn-hangzhou.aliyuncs.com
-mymin11.oss-cn-hangzhou.aliyuncs.com
 nlmrjnew.oss-cn-shanghai.aliyuncs.com
 ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 safefiles2.oss-cn-beijing.aliyuncs.com
@@ -930,7 +927,6 @@ h-adashx.ut.amap.com
 logs.amap.com
 optimus-ads.amap.com
 log.amemv.com
-metrics.americanairlines.cn
 amerzbj.cn
 m.amhmhg.cn
 aa.analog.com
@@ -958,7 +954,6 @@ st.appsad.cn
 adx.appsdk.com.cn
 appsdt.com
 appuu.cn
-aqianniao.com
 pay.aqiu6.com
 a.armystar.com
 trk.arozone.cn
@@ -977,7 +972,6 @@ elq.atriptech.com
 audioadx.com
 aurorapush.cn
 ausaas.cn
-somni.aussiespecialist.cn
 somni.australia.cn
 so.auto999.cn
 33.autohome.com.cn
@@ -1511,7 +1505,6 @@ yk-ssp-ad.cp31.ott.cibntv.net
 ykad-data.cp31.ott.cibntv.net
 cig.com.cn
 metrics.citi.cn
-metrics.citi.com.cn
 metrics.citibank.cn
 smetrics.citibank.cn
 metrics.citibank.com.cn
@@ -1580,7 +1573,6 @@ com5.com.cn
 commander1.com
 commandersact.com
 trk.compair.com.cn
-strack.concur.cn
 coocaatv.com
 12.cookcai.com
 cootek-file.cdn.cootekservice.com
@@ -1591,7 +1583,6 @@ coreldrawchina.com
 n.cosbot.cn
 coumie.top
 cpc.cc
-agapi.cqjjb.cn
 cqmjjx.cn
 adimg.cqnews.net
 cbjg.cqnews.net
@@ -1680,7 +1671,7 @@ daoyoudao.com
 s1.dapenti.com
 daraz.com
 net.daraz.lk
-net.daraz.pk
+marketing.net.daraz.pk
 dartsearch-cn.net
 dashantechan.cn
 datacaciques.com
@@ -2716,7 +2707,6 @@ ikuailian.com
 static.ilclock.com
 ilkwork.com
 smetrics.illumina.com.cn
-metrics.ilovematlab.cn
 smetrics.ilovematlab.cn
 imageter.com
 imasdk.googleapis.com
@@ -3279,7 +3269,6 @@ forms.lenovo.com
 forms-emea.lenovo.com
 images.business.lenovo.com
 images.smbdirect.lenovo.com
-o.lenovo.com
 s.lenovo.com
 adapi.lenovogame.com
 adcore.lenovomm.com
@@ -3611,7 +3600,6 @@ mobisage.cn
 mobjump.com
 cdn0.mobmore.com
 ex.mobmore.com
-denpne.modelones.com
 bd1.moguvet.com
 ad.api.moji.com
 adlaunch.moji.com
@@ -3879,7 +3867,6 @@ ashow.pcpop.com
 count.pcpop.com
 video-dsp.pddpic.com
 download.pdf00.cn
-download.pdf00.com
 pdfexpert.cc
 pdhhmf.cn
 pdiabbi.cn
@@ -3895,7 +3882,6 @@ pmm.people.com.cn
 a1.peoplecdn.cn
 pepnsnq.cn
 pg2bk.icu
-smetrics.marketing.lighting.philips.com.cn
 phjml.cn
 m.phonthing.com
 y.photoint.net
@@ -4323,7 +4309,6 @@ adlaunch.qtfm.cn
 qtmdzsj.cn
 api.qttunion.com
 aa.qualcomm.cn
-saa.qualcomm.cn
 quanbailing.com
 quanliyouxi.cn
 rhtc.quanminyouxi.cn
@@ -4368,7 +4353,6 @@ r75tia.cn
 raeqqe.cn
 p.raidmedia.com.cn
 u.raidmedia.com.cn
-luaqxb.rainso.com
 ads-sdk-api.ranfenghd.com
 rbift.icu
 rbioclv.cn
@@ -4653,19 +4637,13 @@ sugs.m.sm.cn
 video-ad.sm.cn
 smart-way2.com.cn
 data.aftersales.smart.com
-data.ajo-dev.notifications.future.smart.com
 data.ajo-dev.srv.smart.com
-data.ajo-stage.notifications.future.smart.com
-data.ajo-stage.srv.smart.com
 data.dev-notifications.future.smart.com
 data.info.smart.com
 data.marketing.smart.com
 data.smartinfo.future.smart.com
 data.smartmkt.future.smart.com
 data.stage-notifications.future.smart.com
-form-submission-workspace.ajo-stage.srv.smart.com
-form-submission.marketing.smart.com
-raffle-entry.info.smart.com
 smetrics.future.smart.com
 sms.info.smart.com
 smarttrade.cn
@@ -5066,10 +5044,8 @@ m.themee.cn
 adpai.thepaper.cn
 imgadpai.thepaper.cn
 thering.cn
-sstats.thermofisher.com.cn
 event.thermoscientific.cn
 info.thermoscientific.cn
-sstats.thermoscientific.cn
 thinkmd.cn
 tatrack.thinkyeah.com
 thli43.cn
@@ -5173,7 +5149,6 @@ lm1.tuliu.com
 tumeite.cn
 analy.tuniu.cn
 tuoens.cn
-smetrics.tuvsud.cn
 tuvtpxp.cn
 tuxi.com.cn
 m.tv12h.cn
@@ -5308,7 +5283,6 @@ uri6.com
 usn.cc
 usrzh.cn
 wap.utmei.cn
-gyqpyr.utsource.net
 utywsi.cn
 app.uu.cc
 dl.uu.cc
