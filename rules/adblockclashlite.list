@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250729090325
-# Last modified: 2025/07/29 09:03:25
-# Blocked domains: 6266
+# Version: 20250730085841
+# Last modified: 2025/07/30 08:58:41
+# Blocked domains: 6264
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -1501,7 +1501,6 @@ DOMAIN-SUFFIX,sltint.adv.ott.cibntv.net,REJECT-DROP
 DOMAIN-SUFFIX,topapi.cp12.ott.cibntv.net,REJECT-DROP
 DOMAIN-SUFFIX,val.atm.cp31.ott.cibntv.net,REJECT-DROP
 DOMAIN-SUFFIX,vali-g1.cp31.ott.cibntv.net,REJECT-DROP
-DOMAIN-SUFFIX,vali-ugc.cp31.ott.cibntv.net,REJECT-DROP
 DOMAIN-SUFFIX,yk-ssp-ad.cp31.ott.cibntv.net,REJECT-DROP
 DOMAIN-SUFFIX,ykad-data.cp31.ott.cibntv.net,REJECT-DROP
 DOMAIN-SUFFIX,cig.com.cn,REJECT-DROP
@@ -6202,7 +6201,6 @@ DOMAIN-SUFFIX,zljnwzp.cn,REJECT-DROP
 DOMAIN-SUFFIX,zmdesf.cn,REJECT-DROP
 DOMAIN-SUFFIX,zmhqhuq.cn,REJECT-DROP
 DOMAIN-SUFFIX,zmkma.com,REJECT-DROP
-DOMAIN-SUFFIX,gdl.zmqdez.ru,REJECT-DROP
 DOMAIN-SUFFIX,znxblom.cn,REJECT-DROP
 DOMAIN-SUFFIX,afp.zol-img.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,p.zol-img.com.cn,REJECT-DROP
