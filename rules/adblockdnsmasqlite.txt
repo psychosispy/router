@@ -3,8 +3,8 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250731085835
-# Last modified: 2025/07/31 08:58:35
+# Version: 20250801090515
+# Last modified: 2025/08/01 09:05:15
 # Blocked domains: 6264
 #
 local=/00xvppy.cn/
@@ -858,12 +858,12 @@ local=/osfota.cdn.aliyun.com/
 local=/update.aegis.aliyun.com/
 local=/adash-emas.cn-hangzhou.aliyuncs.com/
 local=/adash.man.aliyuncs.com/
+local=/ah-scanning.oss-cn-hongkong.aliyuncs.com/
 local=/aixuntupian.oss-cn-hongkong.aliyuncs.com/
 local=/alime-pic.oss-cn-hangzhou.aliyuncs.com/
 local=/appgiftwall.oss-us-west-1.aliyuncs.com/
 local=/badding.oss-ap-southeast-1.aliyuncs.com/
 local=/beacon-api.aliyuncs.com/
-local=/bruplong.oss-accelerate.aliyuncs.com/
 local=/c3poolbat.oss-accelerate.aliyuncs.com/
 local=/cdn-ads.oss-cn-shanghai.aliyuncs.com/
 local=/chaoku.oss-cn-chengdu.aliyuncs.com/
@@ -891,10 +891,10 @@ local=/kmmgoogle.oss-ap-southeast-1.aliyuncs.com/
 local=/kuakuawenjian.oss-cn-hangzhou.aliyuncs.com/
 local=/mobaders.oss-cn-beijing.aliyuncs.com/
 local=/mobantong.oss-cn-hangzhou.aliyuncs.com/
+local=/mymin11.oss-cn-hangzhou.aliyuncs.com/
 local=/nlmrjnew.oss-cn-shanghai.aliyuncs.com/
 local=/ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com/
 local=/safefiles2.oss-cn-beijing.aliyuncs.com/
-local=/shangmei-test.oss-cn-beijing.aliyuncs.com/
 local=/shaquevip.oss-cn-zhangjiakou.aliyuncs.com/
 local=/sspmiaoshuo.cn-hangzhou.log.aliyuncs.com/
 local=/star-seo.oss-ap-northeast-1.aliyuncs.com/
@@ -2598,7 +2598,6 @@ local=/va.huya.com/
 local=/ylog.huya.com/
 local=/huzhanbin.cn/
 local=/m.hvjxf.cn/
-local=/ecs-1-94-222-140.compute.hwclouds-dns.com/
 local=/hxqu.com/
 local=/hy-cn.cn/
 local=/www.hyfyuan.com/
@@ -3866,6 +3865,7 @@ local=/ashow.pcpop.com/
 local=/count.pcpop.com/
 local=/video-dsp.pddpic.com/
 local=/download.pdf00.cn/
+local=/download.pdf00.com/
 local=/pdfexpert.cc/
 local=/pdhhmf.cn/
 local=/pdiabbi.cn/
