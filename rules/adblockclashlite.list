@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250801090515
-# Last modified: 2025/08/01 09:05:15
-# Blocked domains: 6264
+# Version: 20250802085558
+# Last modified: 2025/08/02 08:55:58
+# Blocked domains: 6265
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,m.0pi84.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.0uk9e.cn,REJECT-DROP
 DOMAIN-SUFFIX,0x5.me,REJECT-DROP
 DOMAIN-SUFFIX,1000su.com,REJECT-DROP
-DOMAIN-SUFFIX,1717.1000uc.com,REJECT-DROP
 DOMAIN-SUFFIX,jf.10010.com,REJECT-DROP
 DOMAIN-SUFFIX,m1.ad.10010.com,REJECT-DROP
 DOMAIN-SUFFIX,smartad.10010.com,REJECT-DROP
@@ -318,6 +317,7 @@ DOMAIN-SUFFIX,d.39.net,REJECT-DROP
 DOMAIN-SUFFIX,d-test.39.net,REJECT-DROP
 DOMAIN-SUFFIX,dpvc.39.net,REJECT-DROP
 DOMAIN-SUFFIX,thetestpage.39.net,REJECT-DROP
+DOMAIN-SUFFIX,wz.3911.com,REJECT-DROP
 DOMAIN-SUFFIX,data.3975.com,REJECT-DROP
 DOMAIN-SUFFIX,app.3987.com,REJECT-DROP
 DOMAIN-SUFFIX,m.3987.com,REJECT-DROP
@@ -865,6 +865,7 @@ DOMAIN-SUFFIX,alime-pic.oss-cn-hangzhou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,appgiftwall.oss-us-west-1.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,badding.oss-ap-southeast-1.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,beacon-api.aliyuncs.com,REJECT-DROP
+DOMAIN-SUFFIX,bruplong.oss-accelerate.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,c3poolbat.oss-accelerate.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,cdn-ads.oss-cn-shanghai.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,chaoku.oss-cn-chengdu.aliyuncs.com,REJECT-DROP
@@ -896,6 +897,7 @@ DOMAIN-SUFFIX,mymin11.oss-cn-hangzhou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,nlmrjnew.oss-cn-shanghai.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,safefiles2.oss-cn-beijing.aliyuncs.com,REJECT-DROP
+DOMAIN-SUFFIX,shangmei-test.oss-cn-beijing.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,shaquevip.oss-cn-zhangjiakou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,sspmiaoshuo.cn-hangzhou.log.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,star-seo.oss-ap-northeast-1.aliyuncs.com,REJECT-DROP
@@ -1583,6 +1585,7 @@ DOMAIN-SUFFIX,coreldrawchina.com,REJECT-DROP
 DOMAIN-SUFFIX,n.cosbot.cn,REJECT-DROP
 DOMAIN-SUFFIX,coumie.top,REJECT-DROP
 DOMAIN-SUFFIX,cpc.cc,REJECT-DROP
+DOMAIN-SUFFIX,agapi.cqjjb.cn,REJECT-DROP
 DOMAIN-SUFFIX,cqmjjx.cn,REJECT-DROP
 DOMAIN-SUFFIX,adimg.cqnews.net,REJECT-DROP
 DOMAIN-SUFFIX,cbjg.cqnews.net,REJECT-DROP
@@ -1875,7 +1878,6 @@ DOMAIN-SUFFIX,ad.dzwww.com,REJECT-DROP
 DOMAIN-SUFFIX,app.acm.dzwww.com,REJECT-DROP
 DOMAIN-SUFFIX,page.acm.dzwww.com,REJECT-DROP
 DOMAIN-SUFFIX,e-wei.com.cn,REJECT-DROP
-DOMAIN-SUFFIX,e4l4.com,REJECT-DROP
 DOMAIN-SUFFIX,e8d7.icu,REJECT-DROP
 DOMAIN-SUFFIX,js.ea3w.com,REJECT-DROP
 DOMAIN-SUFFIX,pic.ea3w.com,REJECT-DROP
@@ -2599,6 +2601,7 @@ DOMAIN-SUFFIX,va.huya.com,REJECT-DROP
 DOMAIN-SUFFIX,ylog.huya.com,REJECT-DROP
 DOMAIN-SUFFIX,huzhanbin.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.hvjxf.cn,REJECT-DROP
+DOMAIN-SUFFIX,ecs-1-94-222-140.compute.hwclouds-dns.com,REJECT-DROP
 DOMAIN-SUFFIX,hxqu.com,REJECT-DROP
 DOMAIN-SUFFIX,hy-cn.cn,REJECT-DROP
 DOMAIN-SUFFIX,www.hyfyuan.com,REJECT-DROP
@@ -3056,7 +3059,6 @@ DOMAIN-SUFFIX,kkpgv.kankan.com,REJECT-DROP
 DOMAIN-SUFFIX,kkpgv2.kankan.com,REJECT-DROP
 DOMAIN-SUFFIX,stat.kankan.com,REJECT-DROP
 DOMAIN-SUFFIX,download.kaobeitu.com,REJECT-DROP
-DOMAIN-SUFFIX,data.kaoyany.top,REJECT-DROP
 DOMAIN-SUFFIX,smetrics.karcher.cn,REJECT-DROP
 DOMAIN-SUFFIX,bee.kascend.com,REJECT-DROP
 DOMAIN-SUFFIX,kcvc.com.cn,REJECT-DROP
@@ -3866,7 +3868,6 @@ DOMAIN-SUFFIX,ashow.pcpop.com,REJECT-DROP
 DOMAIN-SUFFIX,count.pcpop.com,REJECT-DROP
 DOMAIN-SUFFIX,video-dsp.pddpic.com,REJECT-DROP
 DOMAIN-SUFFIX,download.pdf00.cn,REJECT-DROP
-DOMAIN-SUFFIX,download.pdf00.com,REJECT-DROP
 DOMAIN-SUFFIX,pdfexpert.cc,REJECT-DROP
 DOMAIN-SUFFIX,pdhhmf.cn,REJECT-DROP
 DOMAIN-SUFFIX,pdiabbi.cn,REJECT-DROP

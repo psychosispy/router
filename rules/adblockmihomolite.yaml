@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20250801090515
-  # Last modified: 2025/08/01 09:05:15
-  # Blocked domains: 6264
+  # Version: 20250802085558
+  # Last modified: 2025/08/02 08:55:58
+  # Blocked domains: 6265
   #
   - '+.00xvppy.cn'
   - '+.011211.cn'
@@ -40,7 +40,6 @@ payload:
   - '+.m.0uk9e.cn'
   - '+.0x5.me'
   - '+.1000su.com'
-  - '+.1717.1000uc.com'
   - '+.jf.10010.com'
   - '+.m1.ad.10010.com'
   - '+.smartad.10010.com'
@@ -318,6 +317,7 @@ payload:
   - '+.d-test.39.net'
   - '+.dpvc.39.net'
   - '+.thetestpage.39.net'
+  - '+.wz.3911.com'
   - '+.data.3975.com'
   - '+.app.3987.com'
   - '+.m.3987.com'
@@ -865,6 +865,7 @@ payload:
   - '+.appgiftwall.oss-us-west-1.aliyuncs.com'
   - '+.badding.oss-ap-southeast-1.aliyuncs.com'
   - '+.beacon-api.aliyuncs.com'
+  - '+.bruplong.oss-accelerate.aliyuncs.com'
   - '+.c3poolbat.oss-accelerate.aliyuncs.com'
   - '+.cdn-ads.oss-cn-shanghai.aliyuncs.com'
   - '+.chaoku.oss-cn-chengdu.aliyuncs.com'
@@ -896,6 +897,7 @@ payload:
   - '+.nlmrjnew.oss-cn-shanghai.aliyuncs.com'
   - '+.ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com'
   - '+.safefiles2.oss-cn-beijing.aliyuncs.com'
+  - '+.shangmei-test.oss-cn-beijing.aliyuncs.com'
   - '+.shaquevip.oss-cn-zhangjiakou.aliyuncs.com'
   - '+.sspmiaoshuo.cn-hangzhou.log.aliyuncs.com'
   - '+.star-seo.oss-ap-northeast-1.aliyuncs.com'
@@ -1583,6 +1585,7 @@ payload:
   - '+.n.cosbot.cn'
   - '+.coumie.top'
   - '+.cpc.cc'
+  - '+.agapi.cqjjb.cn'
   - '+.cqmjjx.cn'
   - '+.adimg.cqnews.net'
   - '+.cbjg.cqnews.net'
@@ -1875,7 +1878,6 @@ payload:
   - '+.app.acm.dzwww.com'
   - '+.page.acm.dzwww.com'
   - '+.e-wei.com.cn'
-  - '+.e4l4.com'
   - '+.e8d7.icu'
   - '+.js.ea3w.com'
   - '+.pic.ea3w.com'
@@ -2599,6 +2601,7 @@ payload:
   - '+.ylog.huya.com'
   - '+.huzhanbin.cn'
   - '+.m.hvjxf.cn'
+  - '+.ecs-1-94-222-140.compute.hwclouds-dns.com'
   - '+.hxqu.com'
   - '+.hy-cn.cn'
   - '+.www.hyfyuan.com'
@@ -3056,7 +3059,6 @@ payload:
   - '+.kkpgv2.kankan.com'
   - '+.stat.kankan.com'
   - '+.download.kaobeitu.com'
-  - '+.data.kaoyany.top'
   - '+.smetrics.karcher.cn'
   - '+.bee.kascend.com'
   - '+.kcvc.com.cn'
@@ -3866,7 +3868,6 @@ payload:
   - '+.count.pcpop.com'
   - '+.video-dsp.pddpic.com'
   - '+.download.pdf00.cn'
-  - '+.download.pdf00.com'
   - '+.pdfexpert.cc'
   - '+.pdhhmf.cn'
   - '+.pdiabbi.cn'

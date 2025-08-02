@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/08/01 09:05:15
-#!support=6264
+#!date=2025/08/02 08:55:58
+#!support=6265
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -43,7 +43,6 @@ DOMAIN-SUFFIX,m.0pi84.cn
 DOMAIN-SUFFIX,m.0uk9e.cn
 DOMAIN-SUFFIX,0x5.me
 DOMAIN-SUFFIX,1000su.com
-DOMAIN-SUFFIX,1717.1000uc.com
 DOMAIN-SUFFIX,jf.10010.com
 DOMAIN-SUFFIX,m1.ad.10010.com
 DOMAIN-SUFFIX,smartad.10010.com
@@ -321,6 +320,7 @@ DOMAIN-SUFFIX,d.39.net
 DOMAIN-SUFFIX,d-test.39.net
 DOMAIN-SUFFIX,dpvc.39.net
 DOMAIN-SUFFIX,thetestpage.39.net
+DOMAIN-SUFFIX,wz.3911.com
 DOMAIN-SUFFIX,data.3975.com
 DOMAIN-SUFFIX,app.3987.com
 DOMAIN-SUFFIX,m.3987.com
@@ -868,6 +868,7 @@ DOMAIN-SUFFIX,alime-pic.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,appgiftwall.oss-us-west-1.aliyuncs.com
 DOMAIN-SUFFIX,badding.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,beacon-api.aliyuncs.com
+DOMAIN-SUFFIX,bruplong.oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,c3poolbat.oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,chaoku.oss-cn-chengdu.aliyuncs.com
@@ -899,6 +900,7 @@ DOMAIN-SUFFIX,mymin11.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,nlmrjnew.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,safefiles2.oss-cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,shangmei-test.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 DOMAIN-SUFFIX,sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
 DOMAIN-SUFFIX,star-seo.oss-ap-northeast-1.aliyuncs.com
@@ -1586,6 +1588,7 @@ DOMAIN-SUFFIX,coreldrawchina.com
 DOMAIN-SUFFIX,n.cosbot.cn
 DOMAIN-SUFFIX,coumie.top
 DOMAIN-SUFFIX,cpc.cc
+DOMAIN-SUFFIX,agapi.cqjjb.cn
 DOMAIN-SUFFIX,cqmjjx.cn
 DOMAIN-SUFFIX,adimg.cqnews.net
 DOMAIN-SUFFIX,cbjg.cqnews.net
@@ -1878,7 +1881,6 @@ DOMAIN-SUFFIX,ad.dzwww.com
 DOMAIN-SUFFIX,app.acm.dzwww.com
 DOMAIN-SUFFIX,page.acm.dzwww.com
 DOMAIN-SUFFIX,e-wei.com.cn
-DOMAIN-SUFFIX,e4l4.com
 DOMAIN-SUFFIX,e8d7.icu
 DOMAIN-SUFFIX,js.ea3w.com
 DOMAIN-SUFFIX,pic.ea3w.com
@@ -2602,6 +2604,7 @@ DOMAIN-SUFFIX,va.huya.com
 DOMAIN-SUFFIX,ylog.huya.com
 DOMAIN-SUFFIX,huzhanbin.cn
 DOMAIN-SUFFIX,m.hvjxf.cn
+DOMAIN-SUFFIX,ecs-1-94-222-140.compute.hwclouds-dns.com
 DOMAIN-SUFFIX,hxqu.com
 DOMAIN-SUFFIX,hy-cn.cn
 DOMAIN-SUFFIX,www.hyfyuan.com
@@ -3059,7 +3062,6 @@ DOMAIN-SUFFIX,kkpgv.kankan.com
 DOMAIN-SUFFIX,kkpgv2.kankan.com
 DOMAIN-SUFFIX,stat.kankan.com
 DOMAIN-SUFFIX,download.kaobeitu.com
-DOMAIN-SUFFIX,data.kaoyany.top
 DOMAIN-SUFFIX,smetrics.karcher.cn
 DOMAIN-SUFFIX,bee.kascend.com
 DOMAIN-SUFFIX,kcvc.com.cn
@@ -3869,7 +3871,6 @@ DOMAIN-SUFFIX,ashow.pcpop.com
 DOMAIN-SUFFIX,count.pcpop.com
 DOMAIN-SUFFIX,video-dsp.pddpic.com
 DOMAIN-SUFFIX,download.pdf00.cn
-DOMAIN-SUFFIX,download.pdf00.com
 DOMAIN-SUFFIX,pdfexpert.cc
 DOMAIN-SUFFIX,pdhhmf.cn
 DOMAIN-SUFFIX,pdiabbi.cn
