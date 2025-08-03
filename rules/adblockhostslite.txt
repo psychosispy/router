@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250802085557
-# Last modified: 2025/08/02 08:55:57
-# Blocked domains: 6265
+# Version: 20250803090401
+# Last modified: 2025/08/03 09:04:01
+# Blocked domains: 6258
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -194,8 +194,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1qingdao.com
 0.0.0.0	m.1qp9k.cn
 0.0.0.0	1r49n.cn
-0.0.0.0	ne.1rtb.com
-0.0.0.0	ssp.1rtb.com
 0.0.0.0	sdk.1rtb.net
 0.0.0.0	1s8pj.cn
 0.0.0.0	ddd.1sapp.com
@@ -716,7 +714,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	display.adhudong.com
 0.0.0.0	sa.adidas.cn
 0.0.0.0	adinall.com
-0.0.0.0	v.adintl.cn
 0.0.0.0	adjust.cn
 0.0.0.0	track.adx.adlefee.com
 0.0.0.0	adlive.cn
@@ -749,7 +746,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	adview.cn
 0.0.0.0	adview.com
 0.0.0.0	advmob.cn
-0.0.0.0	sdk.adx.adwangmai.com
 0.0.0.0	sdk.mobads.adwangmai.com
 0.0.0.0	platform.adwep.com
 0.0.0.0	adwetec.com
@@ -901,7 +897,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	img-dsp.oss-cn-beijing.aliyuncs.com
 0.0.0.0	jiayi1.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	jpg1.oss-cn-beijing.aliyuncs.com
-0.0.0.0	jsadsdisplay.cn-beijing.log.aliyuncs.com
 0.0.0.0	jun01.oss-cn-beijing.aliyuncs.com
 0.0.0.0	kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0	kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
@@ -913,13 +908,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	safefiles2.oss-cn-beijing.aliyuncs.com
 0.0.0.0	shangmei-test.oss-cn-beijing.aliyuncs.com
 0.0.0.0	shaquevip.oss-cn-zhangjiakou.aliyuncs.com
-0.0.0.0	sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
 0.0.0.0	star-seo.oss-ap-northeast-1.aliyuncs.com
 0.0.0.0	swwwxww.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	sz88.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0	tci.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0	tmea116.oss-cn-beijing.aliyuncs.com
-0.0.0.0	ttjx-online.cn-hangzhou.log.aliyuncs.com
 0.0.0.0	tttppp.oss-cn-guangzhou.aliyuncs.com
 0.0.0.0	uyul.oss-cn-beijing.aliyuncs.com
 0.0.0.0	video231.oss-cn-beijing.aliyuncs.com

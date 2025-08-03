@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/08/02 08:55:58
-#!support=6265
+#!date=2025/08/03 09:04:01
+#!support=6258
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -183,8 +183,6 @@ DOMAIN-SUFFIX,d1.1ppt.com
 DOMAIN-SUFFIX,1qingdao.com
 DOMAIN-SUFFIX,m.1qp9k.cn
 DOMAIN-SUFFIX,1r49n.cn
-DOMAIN-SUFFIX,ne.1rtb.com
-DOMAIN-SUFFIX,ssp.1rtb.com
 DOMAIN-SUFFIX,sdk.1rtb.net
 DOMAIN-SUFFIX,1s8pj.cn
 DOMAIN-SUFFIX,ddd.1sapp.com
@@ -705,7 +703,6 @@ DOMAIN-SUFFIX,adhdsb.cn
 DOMAIN-SUFFIX,display.adhudong.com
 DOMAIN-SUFFIX,sa.adidas.cn
 DOMAIN-SUFFIX,adinall.com
-DOMAIN-SUFFIX,v.adintl.cn
 DOMAIN-SUFFIX,adjust.cn
 DOMAIN-SUFFIX,track.adx.adlefee.com
 DOMAIN-SUFFIX,adlive.cn
@@ -738,7 +735,6 @@ DOMAIN-SUFFIX,aduu.cn
 DOMAIN-SUFFIX,adview.cn
 DOMAIN-SUFFIX,adview.com
 DOMAIN-SUFFIX,advmob.cn
-DOMAIN-SUFFIX,sdk.adx.adwangmai.com
 DOMAIN-SUFFIX,sdk.mobads.adwangmai.com
 DOMAIN-SUFFIX,platform.adwep.com
 DOMAIN-SUFFIX,adwetec.com
@@ -890,7 +886,6 @@ DOMAIN-SUFFIX,hkuu.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,img-dsp.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,jiayi1.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,jpg1.oss-cn-beijing.aliyuncs.com
-DOMAIN-SUFFIX,jsadsdisplay.cn-beijing.log.aliyuncs.com
 DOMAIN-SUFFIX,jun01.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
@@ -902,13 +897,11 @@ DOMAIN-SUFFIX,ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,safefiles2.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,shangmei-test.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,shaquevip.oss-cn-zhangjiakou.aliyuncs.com
-DOMAIN-SUFFIX,sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
 DOMAIN-SUFFIX,star-seo.oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX,swwwxww.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,sz88.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,tci.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,tmea116.oss-cn-beijing.aliyuncs.com
-DOMAIN-SUFFIX,ttjx-online.cn-hangzhou.log.aliyuncs.com
 DOMAIN-SUFFIX,tttppp.oss-cn-guangzhou.aliyuncs.com
 DOMAIN-SUFFIX,uyul.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,video231.oss-cn-beijing.aliyuncs.com

@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250802085557
-! Last modified: 2025/08/02 08:55:57
-! Blocked domains: 6265
+! Version: 20250803090401
+! Last modified: 2025/08/03 09:04:01
+! Blocked domains: 6258
 ! unBlocked domains: 15
 !
 ||00xvppy.cn^
@@ -180,8 +180,6 @@
 ||1qingdao.com^
 ||m.1qp9k.cn^
 ||1r49n.cn^
-||ne.1rtb.com^
-||ssp.1rtb.com^
 ||sdk.1rtb.net^
 ||1s8pj.cn^
 ||ddd.1sapp.com^
@@ -702,7 +700,6 @@
 ||display.adhudong.com^
 ||sa.adidas.cn^
 ||adinall.com^
-||v.adintl.cn^
 ||adjust.cn^
 ||track.adx.adlefee.com^
 ||adlive.cn^
@@ -735,7 +732,6 @@
 ||adview.cn^
 ||adview.com^
 ||advmob.cn^
-||sdk.adx.adwangmai.com^
 ||sdk.mobads.adwangmai.com^
 ||platform.adwep.com^
 ||adwetec.com^
@@ -887,7 +883,6 @@
 ||img-dsp.oss-cn-beijing.aliyuncs.com^
 ||jiayi1.oss-cn-shanghai.aliyuncs.com^
 ||jpg1.oss-cn-beijing.aliyuncs.com^
-||jsadsdisplay.cn-beijing.log.aliyuncs.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kuakuawenjian.oss-cn-hangzhou.aliyuncs.com^
@@ -899,13 +894,11 @@
 ||safefiles2.oss-cn-beijing.aliyuncs.com^
 ||shangmei-test.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
-||sspmiaoshuo.cn-hangzhou.log.aliyuncs.com^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||tci.oss-ap-southeast-1.aliyuncs.com^
 ||tmea116.oss-cn-beijing.aliyuncs.com^
-||ttjx-online.cn-hangzhou.log.aliyuncs.com^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||uyul.oss-cn-beijing.aliyuncs.com^
 ||video231.oss-cn-beijing.aliyuncs.com^

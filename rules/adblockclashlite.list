@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250802085558
-# Last modified: 2025/08/02 08:55:58
-# Blocked domains: 6265
+# Version: 20250803090401
+# Last modified: 2025/08/03 09:04:01
+# Blocked domains: 6258
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -180,8 +180,6 @@ DOMAIN-SUFFIX,d1.1ppt.com,REJECT-DROP
 DOMAIN-SUFFIX,1qingdao.com,REJECT-DROP
 DOMAIN-SUFFIX,m.1qp9k.cn,REJECT-DROP
 DOMAIN-SUFFIX,1r49n.cn,REJECT-DROP
-DOMAIN-SUFFIX,ne.1rtb.com,REJECT-DROP
-DOMAIN-SUFFIX,ssp.1rtb.com,REJECT-DROP
 DOMAIN-SUFFIX,sdk.1rtb.net,REJECT-DROP
 DOMAIN-SUFFIX,1s8pj.cn,REJECT-DROP
 DOMAIN-SUFFIX,ddd.1sapp.com,REJECT-DROP
@@ -702,7 +700,6 @@ DOMAIN-SUFFIX,adhdsb.cn,REJECT-DROP
 DOMAIN-SUFFIX,display.adhudong.com,REJECT-DROP
 DOMAIN-SUFFIX,sa.adidas.cn,REJECT-DROP
 DOMAIN-SUFFIX,adinall.com,REJECT-DROP
-DOMAIN-SUFFIX,v.adintl.cn,REJECT-DROP
 DOMAIN-SUFFIX,adjust.cn,REJECT-DROP
 DOMAIN-SUFFIX,track.adx.adlefee.com,REJECT-DROP
 DOMAIN-SUFFIX,adlive.cn,REJECT-DROP
@@ -735,7 +732,6 @@ DOMAIN-SUFFIX,aduu.cn,REJECT-DROP
 DOMAIN-SUFFIX,adview.cn,REJECT-DROP
 DOMAIN-SUFFIX,adview.com,REJECT-DROP
 DOMAIN-SUFFIX,advmob.cn,REJECT-DROP
-DOMAIN-SUFFIX,sdk.adx.adwangmai.com,REJECT-DROP
 DOMAIN-SUFFIX,sdk.mobads.adwangmai.com,REJECT-DROP
 DOMAIN-SUFFIX,platform.adwep.com,REJECT-DROP
 DOMAIN-SUFFIX,adwetec.com,REJECT-DROP
@@ -887,7 +883,6 @@ DOMAIN-SUFFIX,hkuu.oss-cn-hongkong.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,img-dsp.oss-cn-beijing.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,jiayi1.oss-cn-shanghai.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,jpg1.oss-cn-beijing.aliyuncs.com,REJECT-DROP
-DOMAIN-SUFFIX,jsadsdisplay.cn-beijing.log.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,jun01.oss-cn-beijing.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,kmmgoogle.oss-ap-southeast-1.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,kuakuawenjian.oss-cn-hangzhou.aliyuncs.com,REJECT-DROP
@@ -899,13 +894,11 @@ DOMAIN-SUFFIX,ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,safefiles2.oss-cn-beijing.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,shangmei-test.oss-cn-beijing.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,shaquevip.oss-cn-zhangjiakou.aliyuncs.com,REJECT-DROP
-DOMAIN-SUFFIX,sspmiaoshuo.cn-hangzhou.log.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,star-seo.oss-ap-northeast-1.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,swwwxww.oss-cn-hangzhou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,sz88.oss-cn-shenzhen.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,tci.oss-ap-southeast-1.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,tmea116.oss-cn-beijing.aliyuncs.com,REJECT-DROP
-DOMAIN-SUFFIX,ttjx-online.cn-hangzhou.log.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,tttppp.oss-cn-guangzhou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,uyul.oss-cn-beijing.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,video231.oss-cn-beijing.aliyuncs.com,REJECT-DROP
