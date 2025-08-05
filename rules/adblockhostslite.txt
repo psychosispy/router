@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250804090324
-# Last modified: 2025/08/04 09:03:24
-# Blocked domains: 6371
+# Version: 20250805085955
+# Last modified: 2025/08/05 08:59:55
+# Blocked domains: 6365
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -952,7 +952,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xpj08.oss-cn-beijing.aliyuncs.com
 0.0.0.0	xpjcg.oss-accelerate.aliyuncs.com
 0.0.0.0	xz-development.oss-cn-beijing.aliyuncs.com
-0.0.0.0	zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 0.0.0.0	zlonline.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0	alldk.com
 0.0.0.0	allyes.com
@@ -969,7 +968,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	amerzbj.cn
 0.0.0.0	m.amhmhg.cn
 0.0.0.0	aa.analog.com
-0.0.0.0	abtest.analog.com
 0.0.0.0	images.h.analog.com
 0.0.0.0	analysys.cn
 0.0.0.0	anfeng.com
@@ -2538,7 +2536,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sentry.eks.hoyoverse.com
 0.0.0.0	sg-public-data-api.hoyoverse.com
 0.0.0.0	ys-log-upload-os.hoyoverse.com
-0.0.0.0	aiq-in.ext.hp.com
 0.0.0.0	ecommhpi.ext.hp.com
 0.0.0.0	elqtrk.hp.com
 0.0.0.0	elqtrk.ext.hp.com
@@ -2653,7 +2650,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	huzhanbin.cn
 0.0.0.0	m.hvjxf.cn
 0.0.0.0	ecs-1-94-222-140.compute.hwclouds-dns.com
-0.0.0.0	ecs-124-70-158-53.compute.hwclouds-dns.com
 0.0.0.0	hxqu.com
 0.0.0.0	hy-cn.cn
 0.0.0.0	www.hyfyuan.com
@@ -4719,7 +4715,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	video-ad.sm.cn
 0.0.0.0	smart-way2.com.cn
 0.0.0.0	data.aftersales.smart.com
-0.0.0.0	data.ajo-dev.srv.smart.com
 0.0.0.0	data.dev-notifications.future.smart.com
 0.0.0.0	data.info.smart.com
 0.0.0.0	data.marketing.smart.com
@@ -5087,7 +5082,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tg.tebiezhuan.com
 0.0.0.0	1.tecbbs.com
 0.0.0.0	tongji.techweb.com.cn
-0.0.0.0	tecunonline.com
 0.0.0.0	telegramcn.co
 0.0.0.0	apd-pcdnwxlogin.teg.tencent-cloud.net
 0.0.0.0	apd-pcdnwxnat.teg.tencent-cloud.net

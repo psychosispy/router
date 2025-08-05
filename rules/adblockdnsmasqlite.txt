@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250804090324
-# Last modified: 2025/08/04 09:03:24
-# Blocked domains: 6371
+# Version: 20250805085955
+# Last modified: 2025/08/05 08:59:55
+# Blocked domains: 6365
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -937,7 +937,6 @@ local=/wzjs1.oss-accelerate.aliyuncs.com/
 local=/xpj08.oss-cn-beijing.aliyuncs.com/
 local=/xpjcg.oss-accelerate.aliyuncs.com/
 local=/xz-development.oss-cn-beijing.aliyuncs.com/
-local=/zhengxinpeixun.oss-cn-qingdao.aliyuncs.com/
 local=/zlonline.oss-cn-shenzhen.aliyuncs.com/
 local=/alldk.com/
 local=/allyes.com/
@@ -954,7 +953,6 @@ local=/log.amemv.com/
 local=/amerzbj.cn/
 local=/m.amhmhg.cn/
 local=/aa.analog.com/
-local=/abtest.analog.com/
 local=/images.h.analog.com/
 local=/analysys.cn/
 local=/anfeng.com/
@@ -2523,7 +2521,6 @@ local=/sdk-log-upload-os.hoyoverse.com/
 local=/sentry.eks.hoyoverse.com/
 local=/sg-public-data-api.hoyoverse.com/
 local=/ys-log-upload-os.hoyoverse.com/
-local=/aiq-in.ext.hp.com/
 local=/ecommhpi.ext.hp.com/
 local=/elqtrk.hp.com/
 local=/elqtrk.ext.hp.com/
@@ -2638,7 +2635,6 @@ local=/ylog.huya.com/
 local=/huzhanbin.cn/
 local=/m.hvjxf.cn/
 local=/ecs-1-94-222-140.compute.hwclouds-dns.com/
-local=/ecs-124-70-158-53.compute.hwclouds-dns.com/
 local=/hxqu.com/
 local=/hy-cn.cn/
 local=/www.hyfyuan.com/
@@ -4704,7 +4700,6 @@ local=/sugs.m.sm.cn/
 local=/video-ad.sm.cn/
 local=/smart-way2.com.cn/
 local=/data.aftersales.smart.com/
-local=/data.ajo-dev.srv.smart.com/
 local=/data.dev-notifications.future.smart.com/
 local=/data.info.smart.com/
 local=/data.marketing.smart.com/
@@ -5072,7 +5067,6 @@ local=/js.static.tebaidu.cn/
 local=/tg.tebiezhuan.com/
 local=/1.tecbbs.com/
 local=/tongji.techweb.com.cn/
-local=/tecunonline.com/
 local=/telegramcn.co/
 local=/apd-pcdnwxlogin.teg.tencent-cloud.net/
 local=/apd-pcdnwxnat.teg.tencent-cloud.net/

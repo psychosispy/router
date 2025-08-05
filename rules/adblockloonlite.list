@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/08/04 09:03:24
-#!support=6371
+#!date=2025/08/05 08:59:56
+#!support=6365
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -941,7 +941,6 @@ DOMAIN-SUFFIX,wzjs1.oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,xpj08.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,xpjcg.oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,xz-development.oss-cn-beijing.aliyuncs.com
-DOMAIN-SUFFIX,zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 DOMAIN-SUFFIX,zlonline.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,alldk.com
 DOMAIN-SUFFIX,allyes.com
@@ -958,7 +957,6 @@ DOMAIN-SUFFIX,log.amemv.com
 DOMAIN-SUFFIX,amerzbj.cn
 DOMAIN-SUFFIX,m.amhmhg.cn
 DOMAIN-SUFFIX,aa.analog.com
-DOMAIN-SUFFIX,abtest.analog.com
 DOMAIN-SUFFIX,images.h.analog.com
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,anfeng.com
@@ -2527,7 +2525,6 @@ DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
 DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
 DOMAIN-SUFFIX,ys-log-upload-os.hoyoverse.com
-DOMAIN-SUFFIX,aiq-in.ext.hp.com
 DOMAIN-SUFFIX,ecommhpi.ext.hp.com
 DOMAIN-SUFFIX,elqtrk.hp.com
 DOMAIN-SUFFIX,elqtrk.ext.hp.com
@@ -2642,7 +2639,6 @@ DOMAIN-SUFFIX,ylog.huya.com
 DOMAIN-SUFFIX,huzhanbin.cn
 DOMAIN-SUFFIX,m.hvjxf.cn
 DOMAIN-SUFFIX,ecs-1-94-222-140.compute.hwclouds-dns.com
-DOMAIN-SUFFIX,ecs-124-70-158-53.compute.hwclouds-dns.com
 DOMAIN-SUFFIX,hxqu.com
 DOMAIN-SUFFIX,hy-cn.cn
 DOMAIN-SUFFIX,www.hyfyuan.com
@@ -4708,7 +4704,6 @@ DOMAIN-SUFFIX,sugs.m.sm.cn
 DOMAIN-SUFFIX,video-ad.sm.cn
 DOMAIN-SUFFIX,smart-way2.com.cn
 DOMAIN-SUFFIX,data.aftersales.smart.com
-DOMAIN-SUFFIX,data.ajo-dev.srv.smart.com
 DOMAIN-SUFFIX,data.dev-notifications.future.smart.com
 DOMAIN-SUFFIX,data.info.smart.com
 DOMAIN-SUFFIX,data.marketing.smart.com
@@ -5076,7 +5071,6 @@ DOMAIN-SUFFIX,js.static.tebaidu.cn
 DOMAIN-SUFFIX,tg.tebiezhuan.com
 DOMAIN-SUFFIX,1.tecbbs.com
 DOMAIN-SUFFIX,tongji.techweb.com.cn
-DOMAIN-SUFFIX,tecunonline.com
 DOMAIN-SUFFIX,telegramcn.co
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN-SUFFIX,apd-pcdnwxnat.teg.tencent-cloud.net

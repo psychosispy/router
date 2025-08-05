@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250804090324
-# Last modified: 2025/08/04 09:03:24
-# Blocked domains: 6371
+# Version: 20250805085956
+# Last modified: 2025/08/05 08:59:56
+# Blocked domains: 6365
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -938,7 +938,6 @@ DOMAIN-SUFFIX,wzjs1.oss-accelerate.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,xpj08.oss-cn-beijing.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,xpjcg.oss-accelerate.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,xz-development.oss-cn-beijing.aliyuncs.com,REJECT-DROP
-DOMAIN-SUFFIX,zhengxinpeixun.oss-cn-qingdao.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,zlonline.oss-cn-shenzhen.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,alldk.com,REJECT-DROP
 DOMAIN-SUFFIX,allyes.com,REJECT-DROP
@@ -955,7 +954,6 @@ DOMAIN-SUFFIX,log.amemv.com,REJECT-DROP
 DOMAIN-SUFFIX,amerzbj.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.amhmhg.cn,REJECT-DROP
 DOMAIN-SUFFIX,aa.analog.com,REJECT-DROP
-DOMAIN-SUFFIX,abtest.analog.com,REJECT-DROP
 DOMAIN-SUFFIX,images.h.analog.com,REJECT-DROP
 DOMAIN-SUFFIX,analysys.cn,REJECT-DROP
 DOMAIN-SUFFIX,anfeng.com,REJECT-DROP
@@ -2524,7 +2522,6 @@ DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com,REJECT-DROP
 DOMAIN-SUFFIX,sentry.eks.hoyoverse.com,REJECT-DROP
 DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com,REJECT-DROP
 DOMAIN-SUFFIX,ys-log-upload-os.hoyoverse.com,REJECT-DROP
-DOMAIN-SUFFIX,aiq-in.ext.hp.com,REJECT-DROP
 DOMAIN-SUFFIX,ecommhpi.ext.hp.com,REJECT-DROP
 DOMAIN-SUFFIX,elqtrk.hp.com,REJECT-DROP
 DOMAIN-SUFFIX,elqtrk.ext.hp.com,REJECT-DROP
@@ -2639,7 +2636,6 @@ DOMAIN-SUFFIX,ylog.huya.com,REJECT-DROP
 DOMAIN-SUFFIX,huzhanbin.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.hvjxf.cn,REJECT-DROP
 DOMAIN-SUFFIX,ecs-1-94-222-140.compute.hwclouds-dns.com,REJECT-DROP
-DOMAIN-SUFFIX,ecs-124-70-158-53.compute.hwclouds-dns.com,REJECT-DROP
 DOMAIN-SUFFIX,hxqu.com,REJECT-DROP
 DOMAIN-SUFFIX,hy-cn.cn,REJECT-DROP
 DOMAIN-SUFFIX,www.hyfyuan.com,REJECT-DROP
@@ -4705,7 +4701,6 @@ DOMAIN-SUFFIX,sugs.m.sm.cn,REJECT-DROP
 DOMAIN-SUFFIX,video-ad.sm.cn,REJECT-DROP
 DOMAIN-SUFFIX,smart-way2.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,data.aftersales.smart.com,REJECT-DROP
-DOMAIN-SUFFIX,data.ajo-dev.srv.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.dev-notifications.future.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.info.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.marketing.smart.com,REJECT-DROP
@@ -5073,7 +5068,6 @@ DOMAIN-SUFFIX,js.static.tebaidu.cn,REJECT-DROP
 DOMAIN-SUFFIX,tg.tebiezhuan.com,REJECT-DROP
 DOMAIN-SUFFIX,1.tecbbs.com,REJECT-DROP
 DOMAIN-SUFFIX,tongji.techweb.com.cn,REJECT-DROP
-DOMAIN-SUFFIX,tecunonline.com,REJECT-DROP
 DOMAIN-SUFFIX,telegramcn.co,REJECT-DROP
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net,REJECT-DROP
 DOMAIN-SUFFIX,apd-pcdnwxnat.teg.tencent-cloud.net,REJECT-DROP
