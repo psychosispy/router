@@ -3,8 +3,8 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250807085934
-# Last modified: 2025/08/07 08:59:34
+# Version: 20250808085909
+# Last modified: 2025/08/08 08:59:09
 # Blocked domains: 6365
 #
 127.0.0.1	localhost
@@ -952,6 +952,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	xpj08.oss-cn-beijing.aliyuncs.com
 0.0.0.0	xpjcg.oss-accelerate.aliyuncs.com
 0.0.0.0	xz-development.oss-cn-beijing.aliyuncs.com
+0.0.0.0	zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 0.0.0.0	zlonline.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0	alldk.com
 0.0.0.0	allyes.com
@@ -2650,6 +2651,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	huzhanbin.cn
 0.0.0.0	m.hvjxf.cn
 0.0.0.0	ecs-1-94-222-140.compute.hwclouds-dns.com
+0.0.0.0	ecs-124-70-158-53.compute.hwclouds-dns.com
 0.0.0.0	hxqu.com
 0.0.0.0	hy-cn.cn
 0.0.0.0	www.hyfyuan.com
@@ -5187,7 +5189,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ato.tooopen.com
 0.0.0.0	topsem.com
 0.0.0.0	topstat.cn
-0.0.0.0	static.topxgun.com
 0.0.0.0	api.touch-moblie.com
 0.0.0.0	touclick.com
 0.0.0.0	toufangzhe.cn
@@ -6230,7 +6231,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sugar.zhihu.com
 0.0.0.0	zhihu-web-analytics.zhihu.com
 0.0.0.0	collector2c.zhihuishu.com
-0.0.0.0	zhikey.com
 0.0.0.0	zhilingshidai.com
 0.0.0.0	zhimaad.cn
 0.0.0.0	zhimengad.com

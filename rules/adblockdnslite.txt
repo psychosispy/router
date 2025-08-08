@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250807085934
-! Last modified: 2025/08/07 08:59:34
+! Version: 20250808085909
+! Last modified: 2025/08/08 08:59:09
 ! Blocked domains: 6365
 ! unBlocked domains: 15
 !
@@ -938,6 +938,7 @@
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjcg.oss-accelerate.aliyuncs.com^
 ||xz-development.oss-cn-beijing.aliyuncs.com^
+||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^
 ||zlonline.oss-cn-shenzhen.aliyuncs.com^
 ||alldk.com^
 ||allyes.com^
@@ -2636,6 +2637,7 @@
 ||huzhanbin.cn^
 ||m.hvjxf.cn^
 ||ecs-1-94-222-140.compute.hwclouds-dns.com^
+||ecs-124-70-158-53.compute.hwclouds-dns.com^
 ||hxqu.com^
 ||hy-cn.cn^
 ||www.hyfyuan.com^
@@ -5173,7 +5175,6 @@
 ||ato.tooopen.com^
 ||topsem.com^
 ||topstat.cn^
-||static.topxgun.com^
 ||api.touch-moblie.com^
 ||touclick.com^
 ||toufangzhe.cn^
@@ -6216,7 +6217,6 @@
 ||sugar.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
-||zhikey.com^
 ||zhilingshidai.com^
 ||zhimaad.cn^
 ||zhimengad.com^

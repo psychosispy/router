@@ -7,7 +7,7 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/08/07 08:59:34
+#!date=2025/08/08 08:59:10
 #!support=6365
 #!proxy-select=REJECT
 #
@@ -941,6 +941,7 @@ DOMAIN-SUFFIX,wzjs1.oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,xpj08.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,xpjcg.oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,xz-development.oss-cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 DOMAIN-SUFFIX,zlonline.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,alldk.com
 DOMAIN-SUFFIX,allyes.com
@@ -2639,6 +2640,7 @@ DOMAIN-SUFFIX,ylog.huya.com
 DOMAIN-SUFFIX,huzhanbin.cn
 DOMAIN-SUFFIX,m.hvjxf.cn
 DOMAIN-SUFFIX,ecs-1-94-222-140.compute.hwclouds-dns.com
+DOMAIN-SUFFIX,ecs-124-70-158-53.compute.hwclouds-dns.com
 DOMAIN-SUFFIX,hxqu.com
 DOMAIN-SUFFIX,hy-cn.cn
 DOMAIN-SUFFIX,www.hyfyuan.com
@@ -5176,7 +5178,6 @@ DOMAIN-SUFFIX,tonnn.com
 DOMAIN-SUFFIX,ato.tooopen.com
 DOMAIN-SUFFIX,topsem.com
 DOMAIN-SUFFIX,topstat.cn
-DOMAIN-SUFFIX,static.topxgun.com
 DOMAIN-SUFFIX,api.touch-moblie.com
 DOMAIN-SUFFIX,touclick.com
 DOMAIN-SUFFIX,toufangzhe.cn
@@ -6219,7 +6220,6 @@ DOMAIN-SUFFIX,event.zhihu.com
 DOMAIN-SUFFIX,sugar.zhihu.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,collector2c.zhihuishu.com
-DOMAIN-SUFFIX,zhikey.com
 DOMAIN-SUFFIX,zhilingshidai.com
 DOMAIN-SUFFIX,zhimaad.cn
 DOMAIN-SUFFIX,zhimengad.com

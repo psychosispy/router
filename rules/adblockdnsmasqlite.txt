@@ -3,8 +3,8 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250807085934
-# Last modified: 2025/08/07 08:59:34
+# Version: 20250808085909
+# Last modified: 2025/08/08 08:59:09
 # Blocked domains: 6365
 #
 local=/00xvppy.cn/
@@ -937,6 +937,7 @@ local=/wzjs1.oss-accelerate.aliyuncs.com/
 local=/xpj08.oss-cn-beijing.aliyuncs.com/
 local=/xpjcg.oss-accelerate.aliyuncs.com/
 local=/xz-development.oss-cn-beijing.aliyuncs.com/
+local=/zhengxinpeixun.oss-cn-qingdao.aliyuncs.com/
 local=/zlonline.oss-cn-shenzhen.aliyuncs.com/
 local=/alldk.com/
 local=/allyes.com/
@@ -2635,6 +2636,7 @@ local=/ylog.huya.com/
 local=/huzhanbin.cn/
 local=/m.hvjxf.cn/
 local=/ecs-1-94-222-140.compute.hwclouds-dns.com/
+local=/ecs-124-70-158-53.compute.hwclouds-dns.com/
 local=/hxqu.com/
 local=/hy-cn.cn/
 local=/www.hyfyuan.com/
@@ -5172,7 +5174,6 @@ local=/tonnn.com/
 local=/ato.tooopen.com/
 local=/topsem.com/
 local=/topstat.cn/
-local=/static.topxgun.com/
 local=/api.touch-moblie.com/
 local=/touclick.com/
 local=/toufangzhe.cn/
@@ -6215,7 +6216,6 @@ local=/event.zhihu.com/
 local=/sugar.zhihu.com/
 local=/zhihu-web-analytics.zhihu.com/
 local=/collector2c.zhihuishu.com/
-local=/zhikey.com/
 local=/zhilingshidai.com/
 local=/zhimaad.cn/
 local=/zhimengad.com/
