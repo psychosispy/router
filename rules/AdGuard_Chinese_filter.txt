@@ -1237,6 +1237,7 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
+*$denyallow=qiexs.cc,domain=qiexs.cc,xmlhttprequest,image,script
 ||img.lancdn.com/landian/2025/08/110020B.png
 ||x0.ifengimg.com/feprod/c/web/d/pc_bottom.js
 ||i.flive.ifeng.com/baidu_*.html?parentId=frondAd_
@@ -3794,7 +3795,6 @@ bmvc2020-conference.com#@#div[id][style="width: 100%;"] > iframe[scrolling="no"]
 /eis/diy/ad/*
 /ettoday/gemini/*
 /eucjhfxh/*.js
-/exads-adblock-$image
 /ezprice_ad.js
 /fage/ad.js
 /fage/sjad.js
@@ -5202,16 +5202,23 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||vbc08110op.com^
+||ymmegy.icu^
+||zxdnsx7si.com^
 ||3pzqcv5hc5.com^
 ||vbc08100op.com^
 ||swqmuo.icu^
+||dlkfhlkjoirfgn.com^
+||pinmgm.com^
+||vbc08101op.com^
+||7strqfn56s.com^
 ||vbc08091op.com^
 ||bfthrelgad.com^
 ||bei5029.xyz^
 ||frhopo.cn^
 ||nxwm44neo.com^
 ||w3019cdt.top^
-||myhuaweicloud.com^
+||bbcz4tta.top^
 ||uturiw.icu^
 ||yflieu.cn^
 ||sksi91y8rs.com^
@@ -13723,6 +13730,7 @@ meijutt.*/js/pcjs/
 ||komiic.com/ads/
 ||v2ex.com/pro/emitter
 zhihu.com##.Pc-word-new
+msn.cn##above-river-block
 vmlib.com##.wp-caption
 vmlib.com##.elementor-widget > .elementor-widget-container > a[href^="http"]:not([href*="vmlib."])
 mydrivers.com##div[style="margin: auto;width: 580px;padding: 10px 0;"]
@@ -20069,25 +20077,26 @@ guailie.com#@#.google-ad
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 ||17ce.com^*_$image
 !#18comic.org
-jm18c-twie.vip,18comic.org,18comic.vip##div[data-group][data-width="300"]
-jm18c-twie.vip,18comic.org,18comic.vip#?#div[data-group]:-abp-has(>.group-notice)
-||awtguzoxc.com^
-jm18c-twie.vip,18comic.org,18comic.vip###guide-modal
-jm18c-twie.vip,18comic.org,18comic.vip##.div_sticky2
-jm18c-twie.vip,18comic.org,18comic.vip##.modal-backdrop
-jm18c-twie.vip,18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
-jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>ins+div)
-jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>ins+script)
-jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>ins+style)
-jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>script+ins)
-jm18c-twie.vip,18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style]
-jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
-jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
-jm18c-twie.vip,18comic.org,18comic.vip##style + div[style="cursor: pointer; position: relative;"]
-||jm18c-twie.vip/media/albums/*?$media
+/exads-adblock-$image
+18comic.org,18comic.vip###guide-modal
+18comic.org,18comic.vip##.div_sticky2
+18comic.org,18comic.vip##.modal-backdrop
+18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
+18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style]
+18comic.org,18comic.vip##a[herf*="//"]:not([href*="comic."]) > img
+18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
+18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
+18comic.org,18comic.vip##div[data-group][data-width="300"]
+18comic.org,18comic.vip##style + div[style="cursor: pointer; position: relative;"]
+18comic.org,18comic.vip#?#:-abp-has(>ins+div)
+18comic.org,18comic.vip#?#:-abp-has(>ins+script)
+18comic.org,18comic.vip#?#:-abp-has(>ins+style)
+18comic.org,18comic.vip#?#:-abp-has(>script+ins)
+18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+18comic.org,18comic.vip#?#div[data-group]:-abp-has(>.group-notice)
 ||18comic.*/media/albums/*?$media
+||awtguzoxc.com^
 !#2
 !#3
 !#4
