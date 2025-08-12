@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250811090005
-! Last modified: 2025/08/11 09:00:05
-! Blocked domains: 6377
+! Version: 20250812085414
+! Last modified: 2025/08/12 08:54:14
+! Blocked domains: 6371
 ! unBlocked domains: 16
 !
 ||00xvppy.cn^
@@ -1531,11 +1531,9 @@
 ||yk-ssp-ad.cp31.ott.cibntv.net^
 ||ykad-data.cp31.ott.cibntv.net^
 ||cig.com.cn^
-||metrics.citi.cn^
 ||metrics.citi.com.cn^
 ||metrics.citibank.cn^
 ||smetrics.citibank.cn^
-||metrics.citibank.com.cn^
 ||tracker.citicsinfo.com^
 ||e.cj59c.cn^
 ||3.cjcp.cn^
@@ -1696,7 +1694,6 @@
 ||s1.dapenti.com^
 ||daraz.com^
 ||net.daraz.lk^
-||marketing.net.daraz.pk^
 ||dartsearch-cn.net^
 ||dashantechan.cn^
 ||datacaciques.com^
@@ -4712,8 +4709,6 @@
 ||video-ad.sm.cn^
 ||smart-way2.com.cn^
 ||data.aftersales.smart.com^
-||data.ajo-dev.notifications.future.smart.com^
-||data.ajo-stage.srv.smart.com^
 ||data.dev-notifications.future.smart.com^
 ||data.info.smart.com^
 ||data.marketing.smart.com^
@@ -5125,7 +5120,6 @@
 ||adpai.thepaper.cn^
 ||imgadpai.thepaper.cn^
 ||thering.cn^
-||sstats.thermofisher.com.cn^
 ||event.thermoscientific.cn^
 ||info.thermoscientific.cn^
 ||thinkmd.cn^

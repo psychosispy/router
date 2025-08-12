@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250811090005
-# Last modified: 2025/08/11 09:00:05
-# Blocked domains: 6377
+# Version: 20250812085414
+# Last modified: 2025/08/12 08:54:14
+# Blocked domains: 6371
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -1530,11 +1530,9 @@ local=/vali-g1.cp31.ott.cibntv.net/
 local=/yk-ssp-ad.cp31.ott.cibntv.net/
 local=/ykad-data.cp31.ott.cibntv.net/
 local=/cig.com.cn/
-local=/metrics.citi.cn/
 local=/metrics.citi.com.cn/
 local=/metrics.citibank.cn/
 local=/smetrics.citibank.cn/
-local=/metrics.citibank.com.cn/
 local=/tracker.citicsinfo.com/
 local=/e.cj59c.cn/
 local=/3.cjcp.cn/
@@ -1695,7 +1693,6 @@ local=/daoyoudao.com/
 local=/s1.dapenti.com/
 local=/daraz.com/
 local=/net.daraz.lk/
-local=/marketing.net.daraz.pk/
 local=/dartsearch-cn.net/
 local=/dashantechan.cn/
 local=/datacaciques.com/
@@ -4711,8 +4708,6 @@ local=/sugs.m.sm.cn/
 local=/video-ad.sm.cn/
 local=/smart-way2.com.cn/
 local=/data.aftersales.smart.com/
-local=/data.ajo-dev.notifications.future.smart.com/
-local=/data.ajo-stage.srv.smart.com/
 local=/data.dev-notifications.future.smart.com/
 local=/data.info.smart.com/
 local=/data.marketing.smart.com/
@@ -5124,7 +5119,6 @@ local=/m.themee.cn/
 local=/adpai.thepaper.cn/
 local=/imgadpai.thepaper.cn/
 local=/thering.cn/
-local=/sstats.thermofisher.com.cn/
 local=/event.thermoscientific.cn/
 local=/info.thermoscientific.cn/
 local=/thinkmd.cn/

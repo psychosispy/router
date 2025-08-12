@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/08/11 09:00:05
-#!support=6377
+#!date=2025/08/12 08:54:14
+#!support=6371
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -1534,11 +1534,9 @@ DOMAIN-SUFFIX,vali-g1.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,yk-ssp-ad.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,ykad-data.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,cig.com.cn
-DOMAIN-SUFFIX,metrics.citi.cn
 DOMAIN-SUFFIX,metrics.citi.com.cn
 DOMAIN-SUFFIX,metrics.citibank.cn
 DOMAIN-SUFFIX,smetrics.citibank.cn
-DOMAIN-SUFFIX,metrics.citibank.com.cn
 DOMAIN-SUFFIX,tracker.citicsinfo.com
 DOMAIN-SUFFIX,e.cj59c.cn
 DOMAIN-SUFFIX,3.cjcp.cn
@@ -1699,7 +1697,6 @@ DOMAIN-SUFFIX,daoyoudao.com
 DOMAIN-SUFFIX,s1.dapenti.com
 DOMAIN-SUFFIX,daraz.com
 DOMAIN-SUFFIX,net.daraz.lk
-DOMAIN-SUFFIX,marketing.net.daraz.pk
 DOMAIN-SUFFIX,dartsearch-cn.net
 DOMAIN-SUFFIX,dashantechan.cn
 DOMAIN-SUFFIX,datacaciques.com
@@ -4715,8 +4712,6 @@ DOMAIN-SUFFIX,sugs.m.sm.cn
 DOMAIN-SUFFIX,video-ad.sm.cn
 DOMAIN-SUFFIX,smart-way2.com.cn
 DOMAIN-SUFFIX,data.aftersales.smart.com
-DOMAIN-SUFFIX,data.ajo-dev.notifications.future.smart.com
-DOMAIN-SUFFIX,data.ajo-stage.srv.smart.com
 DOMAIN-SUFFIX,data.dev-notifications.future.smart.com
 DOMAIN-SUFFIX,data.info.smart.com
 DOMAIN-SUFFIX,data.marketing.smart.com
@@ -5128,7 +5123,6 @@ DOMAIN-SUFFIX,m.themee.cn
 DOMAIN-SUFFIX,adpai.thepaper.cn
 DOMAIN-SUFFIX,imgadpai.thepaper.cn
 DOMAIN-SUFFIX,thering.cn
-DOMAIN-SUFFIX,sstats.thermofisher.com.cn
 DOMAIN-SUFFIX,event.thermoscientific.cn
 DOMAIN-SUFFIX,info.thermoscientific.cn
 DOMAIN-SUFFIX,thinkmd.cn
