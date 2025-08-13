@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250812085414
-! Last modified: 2025/08/12 08:54:14
-! Blocked domains: 6371
+! Version: 20250813085520
+! Last modified: 2025/08/13 08:55:20
+! Blocked domains: 6353
 !
 00xvppy.cn
 011211.cn
@@ -1850,24 +1850,6 @@ stats.v.duowan.com
 vupload.duowan.com
 a-cn.duoyi.com
 swappdl.duoyi.com
-api-c.dutils.com
-api-d.dutils.com
-api-devs.dutils.com
-api-df.dutils.com
-api-error.dutils.com
-api-exc.dutils.com
-api-fc.dutils.com
-api-fd.dutils.com
-api-gd.dutils.com
-devs-data.dutils.com
-jp-api-fc.dutils.com
-jp-devs-data.dutils.com
-log-verify.dutils.com
-m.mpl.dutils.com
-us-api-d.dutils.com
-us-api-fc.dutils.com
-us-devs-data.dutils.com
-www.dutils.com
 adsmis.duxiaoman.com
 dv0i.icu
 dvtednm.cn

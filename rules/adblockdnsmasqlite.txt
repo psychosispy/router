@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250812085414
-# Last modified: 2025/08/12 08:54:14
-# Blocked domains: 6371
+# Version: 20250813085520
+# Last modified: 2025/08/13 08:55:20
+# Blocked domains: 6353
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -1850,24 +1850,6 @@ local=/stats.v.duowan.com/
 local=/vupload.duowan.com/
 local=/a-cn.duoyi.com/
 local=/swappdl.duoyi.com/
-local=/api-c.dutils.com/
-local=/api-d.dutils.com/
-local=/api-devs.dutils.com/
-local=/api-df.dutils.com/
-local=/api-error.dutils.com/
-local=/api-exc.dutils.com/
-local=/api-fc.dutils.com/
-local=/api-fd.dutils.com/
-local=/api-gd.dutils.com/
-local=/devs-data.dutils.com/
-local=/jp-api-fc.dutils.com/
-local=/jp-devs-data.dutils.com/
-local=/log-verify.dutils.com/
-local=/m.mpl.dutils.com/
-local=/us-api-d.dutils.com/
-local=/us-api-fc.dutils.com/
-local=/us-devs-data.dutils.com/
-local=/www.dutils.com/
 local=/adsmis.duxiaoman.com/
 local=/dv0i.icu/
 local=/dvtednm.cn/

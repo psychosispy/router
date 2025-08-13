@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250812085414
-# Last modified: 2025/08/12 08:54:14
-# Blocked domains: 6371
+# Version: 20250813085520
+# Last modified: 2025/08/13 08:55:20
+# Blocked domains: 6353
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -1865,24 +1865,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	vupload.duowan.com
 0.0.0.0	a-cn.duoyi.com
 0.0.0.0	swappdl.duoyi.com
-0.0.0.0	api-c.dutils.com
-0.0.0.0	api-d.dutils.com
-0.0.0.0	api-devs.dutils.com
-0.0.0.0	api-df.dutils.com
-0.0.0.0	api-error.dutils.com
-0.0.0.0	api-exc.dutils.com
-0.0.0.0	api-fc.dutils.com
-0.0.0.0	api-fd.dutils.com
-0.0.0.0	api-gd.dutils.com
-0.0.0.0	devs-data.dutils.com
-0.0.0.0	jp-api-fc.dutils.com
-0.0.0.0	jp-devs-data.dutils.com
-0.0.0.0	log-verify.dutils.com
-0.0.0.0	m.mpl.dutils.com
-0.0.0.0	us-api-d.dutils.com
-0.0.0.0	us-api-fc.dutils.com
-0.0.0.0	us-devs-data.dutils.com
-0.0.0.0	www.dutils.com
 0.0.0.0	adsmis.duxiaoman.com
 0.0.0.0	dv0i.icu
 0.0.0.0	dvtednm.cn

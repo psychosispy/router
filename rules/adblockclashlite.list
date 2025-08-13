@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250812085415
-# Last modified: 2025/08/12 08:54:15
-# Blocked domains: 6371
+# Version: 20250813085520
+# Last modified: 2025/08/13 08:55:20
+# Blocked domains: 6353
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -1851,24 +1851,6 @@ DOMAIN-SUFFIX,stats.v.duowan.com,REJECT-DROP
 DOMAIN-SUFFIX,vupload.duowan.com,REJECT-DROP
 DOMAIN-SUFFIX,a-cn.duoyi.com,REJECT-DROP
 DOMAIN-SUFFIX,swappdl.duoyi.com,REJECT-DROP
-DOMAIN-SUFFIX,api-c.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,api-d.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,api-devs.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,api-df.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,api-error.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,api-exc.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,api-fc.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,api-fd.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,api-gd.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,devs-data.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,jp-api-fc.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,jp-devs-data.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,log-verify.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,m.mpl.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,us-api-d.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,us-api-fc.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,us-devs-data.dutils.com,REJECT-DROP
-DOMAIN-SUFFIX,www.dutils.com,REJECT-DROP
 DOMAIN-SUFFIX,adsmis.duxiaoman.com,REJECT-DROP
 DOMAIN-SUFFIX,dv0i.icu,REJECT-DROP
 DOMAIN-SUFFIX,dvtednm.cn,REJECT-DROP

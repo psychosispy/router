@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/08/12 08:54:14
-#!support=6371
+#!date=2025/08/13 08:55:20
+#!support=6353
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -1854,24 +1854,6 @@ DOMAIN-SUFFIX,stats.v.duowan.com
 DOMAIN-SUFFIX,vupload.duowan.com
 DOMAIN-SUFFIX,a-cn.duoyi.com
 DOMAIN-SUFFIX,swappdl.duoyi.com
-DOMAIN-SUFFIX,api-c.dutils.com
-DOMAIN-SUFFIX,api-d.dutils.com
-DOMAIN-SUFFIX,api-devs.dutils.com
-DOMAIN-SUFFIX,api-df.dutils.com
-DOMAIN-SUFFIX,api-error.dutils.com
-DOMAIN-SUFFIX,api-exc.dutils.com
-DOMAIN-SUFFIX,api-fc.dutils.com
-DOMAIN-SUFFIX,api-fd.dutils.com
-DOMAIN-SUFFIX,api-gd.dutils.com
-DOMAIN-SUFFIX,devs-data.dutils.com
-DOMAIN-SUFFIX,jp-api-fc.dutils.com
-DOMAIN-SUFFIX,jp-devs-data.dutils.com
-DOMAIN-SUFFIX,log-verify.dutils.com
-DOMAIN-SUFFIX,m.mpl.dutils.com
-DOMAIN-SUFFIX,us-api-d.dutils.com
-DOMAIN-SUFFIX,us-api-fc.dutils.com
-DOMAIN-SUFFIX,us-devs-data.dutils.com
-DOMAIN-SUFFIX,www.dutils.com
 DOMAIN-SUFFIX,adsmis.duxiaoman.com
 DOMAIN-SUFFIX,dv0i.icu
 DOMAIN-SUFFIX,dvtednm.cn
