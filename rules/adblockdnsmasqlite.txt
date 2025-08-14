@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250813085520
-# Last modified: 2025/08/13 08:55:20
-# Blocked domains: 6353
+# Version: 20250814085521
+# Last modified: 2025/08/14 08:55:21
+# Blocked domains: 6351
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -112,6 +112,7 @@ local=/133u.com/
 local=/1357902.cn/
 local=/lyapi.1391.com/
 local=/mhjk.1391.com/
+local=/d.14yaa.com/
 local=/1503.net/
 local=/15tianqi.com/
 local=/adgeo.163.com/
@@ -237,7 +238,6 @@ local=/2xmzazd.cn/
 local=/2yt.cn/
 local=/ad.3.cn/
 local=/atom-log.3.cn/
-local=/static.3001.net/
 local=/analytics.300624.com/
 local=/301848.com/
 local=/301pk.com/
@@ -914,7 +914,6 @@ local=/kmmgoogle.oss-ap-southeast-1.aliyuncs.com/
 local=/kuakuawenjian.oss-cn-hangzhou.aliyuncs.com/
 local=/mobaders.oss-cn-beijing.aliyuncs.com/
 local=/mobantong.oss-cn-hangzhou.aliyuncs.com/
-local=/mymin11.oss-cn-hangzhou.aliyuncs.com/
 local=/nlmrjnew.oss-cn-shanghai.aliyuncs.com/
 local=/ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com/
 local=/safefiles2.oss-cn-beijing.aliyuncs.com/
@@ -1607,6 +1606,7 @@ local=/coreldrawchina.com/
 local=/n.cosbot.cn/
 local=/coumie.top/
 local=/cpc.cc/
+local=/agapi.cqjjb.cn/
 local=/cqmjjx.cn/
 local=/adimg.cqnews.net/
 local=/cbjg.cqnews.net/
@@ -1935,7 +1935,6 @@ local=/client-api.ele.me/
 local=/grand.ele.me/
 local=/h-adashx.ut.ele.me/
 local=/newton-api.ele.me/
-local=/file.elecfans.com/
 local=/metrics.ellechina.com/
 local=/trk.elmorietschle.cn/
 local=/d.elong.cn/
@@ -2607,6 +2606,7 @@ local=/ylog.huya.com/
 local=/huzhanbin.cn/
 local=/m.hvjxf.cn/
 local=/ecs-1-94-222-140.compute.hwclouds-dns.com/
+local=/ecs-124-70-158-53.compute.hwclouds-dns.com/
 local=/hxqu.com/
 local=/hy-cn.cn/
 local=/www.hyfyuan.com/
@@ -2937,7 +2937,6 @@ local=/jhzfwl.cn/
 local=/api.jialiangad.com/
 local=/8961.jianbihua.com/
 local=/ads.jianchiapp.com/
-local=/acc.jiangsujiaxue.com/
 local=/ahm.jiankang123.net/
 local=/jiankongbao.com/
 local=/tr.jianshu.com/
@@ -4418,6 +4417,7 @@ local=/iot-logser.realme.com/
 local=/bdapi-ads.realmemobile.com/
 local=/bdapi-in-ads.realmemobile.com/
 local=/data-ads.realmemobile.com/
+local=/redlk.com/
 local=/ablink.em.redmart.com/
 local=/redmx.cn/
 local=/a8cv.jp.redodopower.com/
@@ -4432,7 +4432,6 @@ local=/revenuenetwork.com/
 local=/info.revvity.cn/
 local=/rgyun.com/
 local=/rhinogo.cn/
-local=/rhinovate.tech/
 local=/richh.cn/
 local=/ad.richmob.cn/
 local=/h.rickysblast.cn/
@@ -5128,6 +5127,7 @@ local=/ip.tianqiapi.com/
 local=/datas.tianqistatic.com/
 local=/yptqys.tianqistatic.com/
 local=/tianshilv.cn/
+local=/fz.tiansys.cn/
 local=/m.tiantianedu.net/
 local=/api-ads.tiantianqutao.com/
 local=/tiantiansoft.com/
@@ -6079,7 +6079,6 @@ local=/yqlxkzs.cn/
 local=/photo.yqydjr.cn/
 local=/ys630.com/
 local=/ys6ot.cn/
-local=/ysbaojia.com/
 local=/m.ysgsq.cn/
 local=/ysjwj.com/
 local=/ysqlmpo.cn/
@@ -6157,7 +6156,6 @@ local=/zantainet.com/
 local=/f1.zaojv.com/
 local=/m.zbhbs.cn/
 local=/p3.zbjimg.com/
-local=/p5.zbjimg.com/
 local=/p6.zbjimg.com/
 local=/xue.zbyw.cn/
 local=/zdd-9.com/

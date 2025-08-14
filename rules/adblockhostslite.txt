@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250813085520
-# Last modified: 2025/08/13 08:55:20
-# Blocked domains: 6353
+# Version: 20250814085521
+# Last modified: 2025/08/14 08:55:21
+# Blocked domains: 6351
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -127,6 +127,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	1357902.cn
 0.0.0.0	lyapi.1391.com
 0.0.0.0	mhjk.1391.com
+0.0.0.0	d.14yaa.com
 0.0.0.0	1503.net
 0.0.0.0	15tianqi.com
 0.0.0.0	adgeo.163.com
@@ -252,7 +253,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	2yt.cn
 0.0.0.0	ad.3.cn
 0.0.0.0	atom-log.3.cn
-0.0.0.0	static.3001.net
 0.0.0.0	analytics.300624.com
 0.0.0.0	301848.com
 0.0.0.0	301pk.com
@@ -929,7 +929,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	mobaders.oss-cn-beijing.aliyuncs.com
 0.0.0.0	mobantong.oss-cn-hangzhou.aliyuncs.com
-0.0.0.0	mymin11.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	nlmrjnew.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	safefiles2.oss-cn-beijing.aliyuncs.com
@@ -1622,6 +1621,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	n.cosbot.cn
 0.0.0.0	coumie.top
 0.0.0.0	cpc.cc
+0.0.0.0	agapi.cqjjb.cn
 0.0.0.0	cqmjjx.cn
 0.0.0.0	adimg.cqnews.net
 0.0.0.0	cbjg.cqnews.net
@@ -1950,7 +1950,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	grand.ele.me
 0.0.0.0	h-adashx.ut.ele.me
 0.0.0.0	newton-api.ele.me
-0.0.0.0	file.elecfans.com
 0.0.0.0	metrics.ellechina.com
 0.0.0.0	trk.elmorietschle.cn
 0.0.0.0	d.elong.cn
@@ -2622,6 +2621,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	huzhanbin.cn
 0.0.0.0	m.hvjxf.cn
 0.0.0.0	ecs-1-94-222-140.compute.hwclouds-dns.com
+0.0.0.0	ecs-124-70-158-53.compute.hwclouds-dns.com
 0.0.0.0	hxqu.com
 0.0.0.0	hy-cn.cn
 0.0.0.0	www.hyfyuan.com
@@ -2952,7 +2952,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.jialiangad.com
 0.0.0.0	8961.jianbihua.com
 0.0.0.0	ads.jianchiapp.com
-0.0.0.0	acc.jiangsujiaxue.com
 0.0.0.0	ahm.jiankang123.net
 0.0.0.0	jiankongbao.com
 0.0.0.0	tr.jianshu.com
@@ -4433,6 +4432,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bdapi-ads.realmemobile.com
 0.0.0.0	bdapi-in-ads.realmemobile.com
 0.0.0.0	data-ads.realmemobile.com
+0.0.0.0	redlk.com
 0.0.0.0	ablink.em.redmart.com
 0.0.0.0	redmx.cn
 0.0.0.0	a8cv.jp.redodopower.com
@@ -4447,7 +4447,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	info.revvity.cn
 0.0.0.0	rgyun.com
 0.0.0.0	rhinogo.cn
-0.0.0.0	rhinovate.tech
 0.0.0.0	richh.cn
 0.0.0.0	ad.richmob.cn
 0.0.0.0	h.rickysblast.cn
@@ -5143,6 +5142,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	datas.tianqistatic.com
 0.0.0.0	yptqys.tianqistatic.com
 0.0.0.0	tianshilv.cn
+0.0.0.0	fz.tiansys.cn
 0.0.0.0	m.tiantianedu.net
 0.0.0.0	api-ads.tiantianqutao.com
 0.0.0.0	tiantiansoft.com
@@ -6094,7 +6094,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	photo.yqydjr.cn
 0.0.0.0	ys630.com
 0.0.0.0	ys6ot.cn
-0.0.0.0	ysbaojia.com
 0.0.0.0	m.ysgsq.cn
 0.0.0.0	ysjwj.com
 0.0.0.0	ysqlmpo.cn
@@ -6172,7 +6171,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	f1.zaojv.com
 0.0.0.0	m.zbhbs.cn
 0.0.0.0	p3.zbjimg.com
-0.0.0.0	p5.zbjimg.com
 0.0.0.0	p6.zbjimg.com
 0.0.0.0	xue.zbyw.cn
 0.0.0.0	zdd-9.com

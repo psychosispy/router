@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20250813085520
-  # Last modified: 2025/08/13 08:55:20
-  # Blocked domains: 6353
+  # Version: 20250814085521
+  # Last modified: 2025/08/14 08:55:21
+  # Blocked domains: 6351
   #
   - '+.00xvppy.cn'
   - '+.011211.cn'
@@ -113,6 +113,7 @@ payload:
   - '+.1357902.cn'
   - '+.lyapi.1391.com'
   - '+.mhjk.1391.com'
+  - '+.d.14yaa.com'
   - '+.1503.net'
   - '+.15tianqi.com'
   - '+.adgeo.163.com'
@@ -238,7 +239,6 @@ payload:
   - '+.2yt.cn'
   - '+.ad.3.cn'
   - '+.atom-log.3.cn'
-  - '+.static.3001.net'
   - '+.analytics.300624.com'
   - '+.301848.com'
   - '+.301pk.com'
@@ -915,7 +915,6 @@ payload:
   - '+.kuakuawenjian.oss-cn-hangzhou.aliyuncs.com'
   - '+.mobaders.oss-cn-beijing.aliyuncs.com'
   - '+.mobantong.oss-cn-hangzhou.aliyuncs.com'
-  - '+.mymin11.oss-cn-hangzhou.aliyuncs.com'
   - '+.nlmrjnew.oss-cn-shanghai.aliyuncs.com'
   - '+.ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com'
   - '+.safefiles2.oss-cn-beijing.aliyuncs.com'
@@ -1608,6 +1607,7 @@ payload:
   - '+.n.cosbot.cn'
   - '+.coumie.top'
   - '+.cpc.cc'
+  - '+.agapi.cqjjb.cn'
   - '+.cqmjjx.cn'
   - '+.adimg.cqnews.net'
   - '+.cbjg.cqnews.net'
@@ -1936,7 +1936,6 @@ payload:
   - '+.grand.ele.me'
   - '+.h-adashx.ut.ele.me'
   - '+.newton-api.ele.me'
-  - '+.file.elecfans.com'
   - '+.metrics.ellechina.com'
   - '+.trk.elmorietschle.cn'
   - '+.d.elong.cn'
@@ -2608,6 +2607,7 @@ payload:
   - '+.huzhanbin.cn'
   - '+.m.hvjxf.cn'
   - '+.ecs-1-94-222-140.compute.hwclouds-dns.com'
+  - '+.ecs-124-70-158-53.compute.hwclouds-dns.com'
   - '+.hxqu.com'
   - '+.hy-cn.cn'
   - '+.www.hyfyuan.com'
@@ -2938,7 +2938,6 @@ payload:
   - '+.api.jialiangad.com'
   - '+.8961.jianbihua.com'
   - '+.ads.jianchiapp.com'
-  - '+.acc.jiangsujiaxue.com'
   - '+.ahm.jiankang123.net'
   - '+.jiankongbao.com'
   - '+.tr.jianshu.com'
@@ -4419,6 +4418,7 @@ payload:
   - '+.bdapi-ads.realmemobile.com'
   - '+.bdapi-in-ads.realmemobile.com'
   - '+.data-ads.realmemobile.com'
+  - '+.redlk.com'
   - '+.ablink.em.redmart.com'
   - '+.redmx.cn'
   - '+.a8cv.jp.redodopower.com'
@@ -4433,7 +4433,6 @@ payload:
   - '+.info.revvity.cn'
   - '+.rgyun.com'
   - '+.rhinogo.cn'
-  - '+.rhinovate.tech'
   - '+.richh.cn'
   - '+.ad.richmob.cn'
   - '+.h.rickysblast.cn'
@@ -5129,6 +5128,7 @@ payload:
   - '+.datas.tianqistatic.com'
   - '+.yptqys.tianqistatic.com'
   - '+.tianshilv.cn'
+  - '+.fz.tiansys.cn'
   - '+.m.tiantianedu.net'
   - '+.api-ads.tiantianqutao.com'
   - '+.tiantiansoft.com'
@@ -6080,7 +6080,6 @@ payload:
   - '+.photo.yqydjr.cn'
   - '+.ys630.com'
   - '+.ys6ot.cn'
-  - '+.ysbaojia.com'
   - '+.m.ysgsq.cn'
   - '+.ysjwj.com'
   - '+.ysqlmpo.cn'
@@ -6158,7 +6157,6 @@ payload:
   - '+.f1.zaojv.com'
   - '+.m.zbhbs.cn'
   - '+.p3.zbjimg.com'
-  - '+.p5.zbjimg.com'
   - '+.p6.zbjimg.com'
   - '+.xue.zbyw.cn'
   - '+.zdd-9.com'
