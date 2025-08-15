@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250814085521
-! Last modified: 2025/08/14 08:55:21
-! Blocked domains: 6351
+! Version: 20250815085548
+! Last modified: 2025/08/15 08:55:48
+! Blocked domains: 6347
 !
 00xvppy.cn
 011211.cn
@@ -1333,7 +1333,6 @@ iiid.bluescream.cn
 fpbbdx2.bmcx.com
 bmw100.cn
 bobo.com
-smetrics.boehringer-ingelheim.cn
 m.bogubogu.cn
 bohanhengtian.cn
 click.bokecc.com
@@ -1692,7 +1691,6 @@ dangongshijie.com
 daoyoudao.com
 s1.dapenti.com
 daraz.com
-net.daraz.lk
 dartsearch-cn.net
 dashantechan.cn
 datacaciques.com
@@ -3310,7 +3308,6 @@ s-webp2p.letv.com
 static.app.m.letv.com
 i0.letvimg.com
 i3.letvimg.com
-info.lexisnexis.com.cn
 lezbrja.cn
 m.lglady.cn
 jc.lgtianma.cn
@@ -4695,7 +4692,6 @@ data.marketing.smart.com
 data.smartinfo.future.smart.com
 data.smartmkt.future.smart.com
 data.stage-notifications.future.smart.com
-form-submission.marketing.smart.com
 raffle-entry.info.smart.com
 smetrics.future.smart.com
 sms.info.smart.com

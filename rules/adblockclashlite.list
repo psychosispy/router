@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250814085521
-# Last modified: 2025/08/14 08:55:21
-# Blocked domains: 6351
+# Version: 20250815085548
+# Last modified: 2025/08/15 08:55:48
+# Blocked domains: 6347
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -1334,7 +1334,6 @@ DOMAIN-SUFFIX,iiid.bluescream.cn,REJECT-DROP
 DOMAIN-SUFFIX,fpbbdx2.bmcx.com,REJECT-DROP
 DOMAIN-SUFFIX,bmw100.cn,REJECT-DROP
 DOMAIN-SUFFIX,bobo.com,REJECT-DROP
-DOMAIN-SUFFIX,smetrics.boehringer-ingelheim.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.bogubogu.cn,REJECT-DROP
 DOMAIN-SUFFIX,bohanhengtian.cn,REJECT-DROP
 DOMAIN-SUFFIX,click.bokecc.com,REJECT-DROP
@@ -1693,7 +1692,6 @@ DOMAIN-SUFFIX,dangongshijie.com,REJECT-DROP
 DOMAIN-SUFFIX,daoyoudao.com,REJECT-DROP
 DOMAIN-SUFFIX,s1.dapenti.com,REJECT-DROP
 DOMAIN-SUFFIX,daraz.com,REJECT-DROP
-DOMAIN-SUFFIX,net.daraz.lk,REJECT-DROP
 DOMAIN-SUFFIX,dartsearch-cn.net,REJECT-DROP
 DOMAIN-SUFFIX,dashantechan.cn,REJECT-DROP
 DOMAIN-SUFFIX,datacaciques.com,REJECT-DROP
@@ -3311,7 +3309,6 @@ DOMAIN-SUFFIX,s-webp2p.letv.com,REJECT-DROP
 DOMAIN-SUFFIX,static.app.m.letv.com,REJECT-DROP
 DOMAIN-SUFFIX,i0.letvimg.com,REJECT-DROP
 DOMAIN-SUFFIX,i3.letvimg.com,REJECT-DROP
-DOMAIN-SUFFIX,info.lexisnexis.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,lezbrja.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.lglady.cn,REJECT-DROP
 DOMAIN-SUFFIX,jc.lgtianma.cn,REJECT-DROP
@@ -4696,7 +4693,6 @@ DOMAIN-SUFFIX,data.marketing.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.smartinfo.future.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.smartmkt.future.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.stage-notifications.future.smart.com,REJECT-DROP
-DOMAIN-SUFFIX,form-submission.marketing.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,raffle-entry.info.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,smetrics.future.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,sms.info.smart.com,REJECT-DROP

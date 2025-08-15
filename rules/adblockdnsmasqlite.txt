@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250814085521
-# Last modified: 2025/08/14 08:55:21
-# Blocked domains: 6351
+# Version: 20250815085548
+# Last modified: 2025/08/15 08:55:48
+# Blocked domains: 6347
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -1333,7 +1333,6 @@ local=/iiid.bluescream.cn/
 local=/fpbbdx2.bmcx.com/
 local=/bmw100.cn/
 local=/bobo.com/
-local=/smetrics.boehringer-ingelheim.cn/
 local=/m.bogubogu.cn/
 local=/bohanhengtian.cn/
 local=/click.bokecc.com/
@@ -1692,7 +1691,6 @@ local=/dangongshijie.com/
 local=/daoyoudao.com/
 local=/s1.dapenti.com/
 local=/daraz.com/
-local=/net.daraz.lk/
 local=/dartsearch-cn.net/
 local=/dashantechan.cn/
 local=/datacaciques.com/
@@ -3310,7 +3308,6 @@ local=/s-webp2p.letv.com/
 local=/static.app.m.letv.com/
 local=/i0.letvimg.com/
 local=/i3.letvimg.com/
-local=/info.lexisnexis.com.cn/
 local=/lezbrja.cn/
 local=/m.lglady.cn/
 local=/jc.lgtianma.cn/
@@ -4695,7 +4692,6 @@ local=/data.marketing.smart.com/
 local=/data.smartinfo.future.smart.com/
 local=/data.smartmkt.future.smart.com/
 local=/data.stage-notifications.future.smart.com/
-local=/form-submission.marketing.smart.com/
 local=/raffle-entry.info.smart.com/
 local=/smetrics.future.smart.com/
 local=/sms.info.smart.com/

@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250814085521
-# Last modified: 2025/08/14 08:55:21
-# Blocked domains: 6351
+# Version: 20250815085548
+# Last modified: 2025/08/15 08:55:48
+# Blocked domains: 6347
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -1348,7 +1348,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	fpbbdx2.bmcx.com
 0.0.0.0	bmw100.cn
 0.0.0.0	bobo.com
-0.0.0.0	smetrics.boehringer-ingelheim.cn
 0.0.0.0	m.bogubogu.cn
 0.0.0.0	bohanhengtian.cn
 0.0.0.0	click.bokecc.com
@@ -1707,7 +1706,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	daoyoudao.com
 0.0.0.0	s1.dapenti.com
 0.0.0.0	daraz.com
-0.0.0.0	net.daraz.lk
 0.0.0.0	dartsearch-cn.net
 0.0.0.0	dashantechan.cn
 0.0.0.0	datacaciques.com
@@ -3325,7 +3323,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	static.app.m.letv.com
 0.0.0.0	i0.letvimg.com
 0.0.0.0	i3.letvimg.com
-0.0.0.0	info.lexisnexis.com.cn
 0.0.0.0	lezbrja.cn
 0.0.0.0	m.lglady.cn
 0.0.0.0	jc.lgtianma.cn
@@ -4710,7 +4707,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	data.smartinfo.future.smart.com
 0.0.0.0	data.smartmkt.future.smart.com
 0.0.0.0	data.stage-notifications.future.smart.com
-0.0.0.0	form-submission.marketing.smart.com
 0.0.0.0	raffle-entry.info.smart.com
 0.0.0.0	smetrics.future.smart.com
 0.0.0.0	sms.info.smart.com
