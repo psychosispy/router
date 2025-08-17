@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NNrcqteNTBSzkj1JLuIWcA
-! Version: 202508160041
+! Checksum: 7n0oHKm8IDPE9o3E4etJww
+! Version: 202508170051
 ! Title: EasyList China
-! Last modified: 16 Aug 2025 00:41 UTC
+! Last modified: 17 Aug 2025 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1750,6 +1750,13 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||bqdisnocj.com^
+||4wg67b9vb.com^
+||ueyuww.icu^
+||goi08170kh.com^
+||ayodanuauw.com^
+||cliffed.top^
+||nkif.cn^
 ||0rvv7l6k7g.com^
 ||d6hvvn5jvc.com^
 ||wbczkm.icu^
@@ -1757,7 +1764,13 @@ newduba.cn###jq_youxi
 ||eelw.cn^
 ||gtrphahmu.com^
 ||goi08160kh.com^
+||goi08161kh.com^
+||5odd5zsn.xyz^
 ||academic96.top^
+||kc3mmffdbt.com^
+||pin6d37stu.com^
+||ohwb.cn^
+||akhirzaea.com^
 ||9clasfdc3.com^
 ||fjcs5ly6l.com^
 ||ylghac.icu^
@@ -1798,7 +1811,6 @@ newduba.cn###jq_youxi
 ||ltrs8bv54p.com^
 ||odxupm909y.com^
 ||vbc08121op.com^
-||bbcz4tta.top^
 ||vbc08110op.com^
 ||ymmegy.icu^
 ||zxdnsx7si.com^
@@ -10338,6 +10350,8 @@ meijutt.*/js/pcjs/
 ||hdmoli.pro/a_d/
 ||komiic.com/ads/
 ||v2ex.com/pro/emitter
+||ifengimg.com/feprod/
+||ifeng.com/relateshare?
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 msn.cn##above-river-block

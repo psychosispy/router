@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250816085251
-# Last modified: 2025/08/16 08:52:51
-# Blocked domains: 6347
+# Version: 20250817085926
+# Last modified: 2025/08/17 08:59:26
+# Blocked domains: 6348
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -238,6 +238,7 @@ local=/2xmzazd.cn/
 local=/2yt.cn/
 local=/ad.3.cn/
 local=/atom-log.3.cn/
+local=/static.3001.net/
 local=/analytics.300624.com/
 local=/301848.com/
 local=/301pk.com/
@@ -888,7 +889,6 @@ local=/appgiftwall.oss-us-west-1.aliyuncs.com/
 local=/badding.oss-ap-southeast-1.aliyuncs.com/
 local=/beacon-api.aliyuncs.com/
 local=/bruplong.oss-accelerate.aliyuncs.com/
-local=/c3poolbat.oss-accelerate.aliyuncs.com/
 local=/cdn-ads.oss-cn-shanghai.aliyuncs.com/
 local=/chaoku.oss-cn-chengdu.aliyuncs.com/
 local=/com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com/
@@ -914,6 +914,7 @@ local=/kmmgoogle.oss-ap-southeast-1.aliyuncs.com/
 local=/kuakuawenjian.oss-cn-hangzhou.aliyuncs.com/
 local=/mobaders.oss-cn-beijing.aliyuncs.com/
 local=/mobantong.oss-cn-hangzhou.aliyuncs.com/
+local=/mymin11.oss-cn-hangzhou.aliyuncs.com/
 local=/nlmrjnew.oss-cn-shanghai.aliyuncs.com/
 local=/ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com/
 local=/safefiles2.oss-cn-beijing.aliyuncs.com/
@@ -2213,7 +2214,6 @@ local=/hnjgdl.geps.glodon.com/
 local=/1.glook.cn/
 local=/sensorsdata.glowapp.vip/
 local=/glwxw.net/
-local=/download.glzip.cn/
 local=/ad.gmw.cn/
 local=/channel-analysis-js.gmw.cn/
 local=/gndmnrh.cn/
@@ -2935,6 +2935,7 @@ local=/jhzfwl.cn/
 local=/api.jialiangad.com/
 local=/8961.jianbihua.com/
 local=/ads.jianchiapp.com/
+local=/acc.jiangsujiaxue.com/
 local=/ahm.jiankang123.net/
 local=/jiankongbao.com/
 local=/tr.jianshu.com/
@@ -3896,7 +3897,6 @@ local=/ashow.pcpop.com/
 local=/count.pcpop.com/
 local=/video-dsp.pddpic.com/
 local=/download.pdf00.cn/
-local=/download.pdf00.com/
 local=/pdfexpert.cc/
 local=/pdhhmf.cn/
 local=/pdiabbi.cn/
@@ -6075,6 +6075,7 @@ local=/yqlxkzs.cn/
 local=/photo.yqydjr.cn/
 local=/ys630.com/
 local=/ys6ot.cn/
+local=/ysbaojia.com/
 local=/m.ysgsq.cn/
 local=/ysjwj.com/
 local=/ysqlmpo.cn/
@@ -6152,6 +6153,7 @@ local=/zantainet.com/
 local=/f1.zaojv.com/
 local=/m.zbhbs.cn/
 local=/p3.zbjimg.com/
+local=/p5.zbjimg.com/
 local=/p6.zbjimg.com/
 local=/xue.zbyw.cn/
 local=/zdd-9.com/
@@ -6307,7 +6309,6 @@ local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
 local=/h5log.zongheng.com/
-local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/

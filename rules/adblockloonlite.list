@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/08/16 08:52:51
-#!support=6347
+#!date=2025/08/17 08:59:26
+#!support=6348
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -242,6 +242,7 @@ DOMAIN-SUFFIX,2xmzazd.cn
 DOMAIN-SUFFIX,2yt.cn
 DOMAIN-SUFFIX,ad.3.cn
 DOMAIN-SUFFIX,atom-log.3.cn
+DOMAIN-SUFFIX,static.3001.net
 DOMAIN-SUFFIX,analytics.300624.com
 DOMAIN-SUFFIX,301848.com
 DOMAIN-SUFFIX,301pk.com
@@ -892,7 +893,6 @@ DOMAIN-SUFFIX,appgiftwall.oss-us-west-1.aliyuncs.com
 DOMAIN-SUFFIX,badding.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,beacon-api.aliyuncs.com
 DOMAIN-SUFFIX,bruplong.oss-accelerate.aliyuncs.com
-DOMAIN-SUFFIX,c3poolbat.oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,chaoku.oss-cn-chengdu.aliyuncs.com
 DOMAIN-SUFFIX,com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
@@ -918,6 +918,7 @@ DOMAIN-SUFFIX,kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,mobaders.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,mobantong.oss-cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,mymin11.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,nlmrjnew.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,safefiles2.oss-cn-beijing.aliyuncs.com
@@ -2217,7 +2218,6 @@ DOMAIN-SUFFIX,hnjgdl.geps.glodon.com
 DOMAIN-SUFFIX,1.glook.cn
 DOMAIN-SUFFIX,sensorsdata.glowapp.vip
 DOMAIN-SUFFIX,glwxw.net
-DOMAIN-SUFFIX,download.glzip.cn
 DOMAIN-SUFFIX,ad.gmw.cn
 DOMAIN-SUFFIX,channel-analysis-js.gmw.cn
 DOMAIN-SUFFIX,gndmnrh.cn
@@ -2939,6 +2939,7 @@ DOMAIN-SUFFIX,jhzfwl.cn
 DOMAIN-SUFFIX,api.jialiangad.com
 DOMAIN-SUFFIX,8961.jianbihua.com
 DOMAIN-SUFFIX,ads.jianchiapp.com
+DOMAIN-SUFFIX,acc.jiangsujiaxue.com
 DOMAIN-SUFFIX,ahm.jiankang123.net
 DOMAIN-SUFFIX,jiankongbao.com
 DOMAIN-SUFFIX,tr.jianshu.com
@@ -3900,7 +3901,6 @@ DOMAIN-SUFFIX,ashow.pcpop.com
 DOMAIN-SUFFIX,count.pcpop.com
 DOMAIN-SUFFIX,video-dsp.pddpic.com
 DOMAIN-SUFFIX,download.pdf00.cn
-DOMAIN-SUFFIX,download.pdf00.com
 DOMAIN-SUFFIX,pdfexpert.cc
 DOMAIN-SUFFIX,pdhhmf.cn
 DOMAIN-SUFFIX,pdiabbi.cn
@@ -6079,6 +6079,7 @@ DOMAIN-SUFFIX,yqlxkzs.cn
 DOMAIN-SUFFIX,photo.yqydjr.cn
 DOMAIN-SUFFIX,ys630.com
 DOMAIN-SUFFIX,ys6ot.cn
+DOMAIN-SUFFIX,ysbaojia.com
 DOMAIN-SUFFIX,m.ysgsq.cn
 DOMAIN-SUFFIX,ysjwj.com
 DOMAIN-SUFFIX,ysqlmpo.cn
@@ -6156,6 +6157,7 @@ DOMAIN-SUFFIX,zantainet.com
 DOMAIN-SUFFIX,f1.zaojv.com
 DOMAIN-SUFFIX,m.zbhbs.cn
 DOMAIN-SUFFIX,p3.zbjimg.com
+DOMAIN-SUFFIX,p5.zbjimg.com
 DOMAIN-SUFFIX,p6.zbjimg.com
 DOMAIN-SUFFIX,xue.zbyw.cn
 DOMAIN-SUFFIX,zdd-9.com
@@ -6311,7 +6313,6 @@ DOMAIN-SUFFIX,stat.zol.com.cn
 DOMAIN-SUFFIX,wappv.zol.com.cn
 DOMAIN-SUFFIX,ydjs.zol.com.cn
 DOMAIN-SUFFIX,h5log.zongheng.com
-DOMAIN-SUFFIX,static.zongheng.com
 DOMAIN-SUFFIX,zonst.com
 DOMAIN-SUFFIX,zooj.cn
 DOMAIN-SUFFIX,adm.zookingsoft.com

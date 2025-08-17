@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250816085251
-! Last modified: 2025/08/16 08:52:51
-! Blocked domains: 6347
+! Version: 20250817085926
+! Last modified: 2025/08/17 08:59:26
+! Blocked domains: 6348
 !
 00xvppy.cn
 011211.cn
@@ -238,6 +238,7 @@ a1.289.com
 2yt.cn
 ad.3.cn
 atom-log.3.cn
+static.3001.net
 analytics.300624.com
 301848.com
 301pk.com
@@ -888,7 +889,6 @@ appgiftwall.oss-us-west-1.aliyuncs.com
 badding.oss-ap-southeast-1.aliyuncs.com
 beacon-api.aliyuncs.com
 bruplong.oss-accelerate.aliyuncs.com
-c3poolbat.oss-accelerate.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 chaoku.oss-cn-chengdu.aliyuncs.com
 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
@@ -914,6 +914,7 @@ kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 mobaders.oss-cn-beijing.aliyuncs.com
 mobantong.oss-cn-hangzhou.aliyuncs.com
+mymin11.oss-cn-hangzhou.aliyuncs.com
 nlmrjnew.oss-cn-shanghai.aliyuncs.com
 ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 safefiles2.oss-cn-beijing.aliyuncs.com
@@ -2213,7 +2214,6 @@ hnjgdl.geps.glodon.com
 1.glook.cn
 sensorsdata.glowapp.vip
 glwxw.net
-download.glzip.cn
 ad.gmw.cn
 channel-analysis-js.gmw.cn
 gndmnrh.cn
@@ -2935,6 +2935,7 @@ jhzfwl.cn
 api.jialiangad.com
 8961.jianbihua.com
 ads.jianchiapp.com
+acc.jiangsujiaxue.com
 ahm.jiankang123.net
 jiankongbao.com
 tr.jianshu.com
@@ -3896,7 +3897,6 @@ ashow.pcpop.com
 count.pcpop.com
 video-dsp.pddpic.com
 download.pdf00.cn
-download.pdf00.com
 pdfexpert.cc
 pdhhmf.cn
 pdiabbi.cn
@@ -6075,6 +6075,7 @@ yqlxkzs.cn
 photo.yqydjr.cn
 ys630.com
 ys6ot.cn
+ysbaojia.com
 m.ysgsq.cn
 ysjwj.com
 ysqlmpo.cn
@@ -6152,6 +6153,7 @@ zantainet.com
 f1.zaojv.com
 m.zbhbs.cn
 p3.zbjimg.com
+p5.zbjimg.com
 p6.zbjimg.com
 xue.zbyw.cn
 zdd-9.com
@@ -6307,7 +6309,6 @@ stat.zol.com.cn
 wappv.zol.com.cn
 ydjs.zol.com.cn
 h5log.zongheng.com
-static.zongheng.com
 zonst.com
 zooj.cn
 adm.zookingsoft.com
