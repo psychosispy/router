@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7/N1vDfndJi69nFLLOIiLA
-! Version: 202508180051
+! Checksum: FJIHy/TAiFr4pK6N+4qRdQ
+! Version: 202508190041
 ! Title: EasyList China
-! Last modified: 18 Aug 2025 00:51 UTC
+! Last modified: 19 Aug 2025 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1750,6 +1750,11 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||3yq51wjim.com^
+||xegnfwkju.com^
+||yxqhuy.icu^
+||bteucoiyp.com^
+||twho.cn^
 ||vejrp6iq25.com^
 ||ahupio.icu^
 ||re41qiitb1.com^
@@ -1758,6 +1763,14 @@ newduba.cn###jq_youxi
 ||qoqg.cn^
 ||futhacifl.com^
 ||batteryod.com^
+||h5vem1jjft.com^
+||pyonbrj41b.com^
+||ecriqadg.com^
+||goi08181kh.com^
+||vgragvory.com^
+||odhivvin.com^
+||fhhctb.icu^
+||bootscritp.com^
 ||bqdisnocj.com^
 ||4wg67b9vb.com^
 ||ueyuww.icu^
@@ -14716,7 +14729,7 @@ ikjzd.com##.wv-right-content > .imgTop-right
 52pk.com##.wxbox
 55188.com##.wz_text
 eyy5.cn##.wzgg
-tmioe.com##.ekxxhn
+tmioe.com##.gorand
 tmioe.com##a[href*=".zps.im"]
 sohu.com##.x-adv-band-panel
 sohu.com##.x-adv-flogo-panel
