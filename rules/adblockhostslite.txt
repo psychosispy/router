@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250819085341
-# Last modified: 2025/08/19 08:53:41
-# Blocked domains: 6367
+# Version: 20250820085134
+# Last modified: 2025/08/20 08:51:34
+# Blocked domains: 6364
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -353,7 +353,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	39mob.com
 0.0.0.0	fbmjc.39yst.com
 0.0.0.0	jsm.39yst.com
-0.0.0.0	vip.3a9.net
 0.0.0.0	www.3aym.cn
 0.0.0.0	imgad0.3conline.com
 0.0.0.0	jwz.3conline.com
@@ -933,7 +932,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	nlmrjnew.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	safefiles2.oss-cn-beijing.aliyuncs.com
-0.0.0.0	shangmei-test.oss-cn-beijing.aliyuncs.com
 0.0.0.0	shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0	star-seo.oss-ap-northeast-1.aliyuncs.com
 0.0.0.0	swwwxww.oss-cn-hangzhou.aliyuncs.com
@@ -3833,7 +3831,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	oewtuho.cn
 0.0.0.0	e.ohuam.com
 0.0.0.0	img.okd3.cn
-0.0.0.0	okhan.net
 0.0.0.0	okkkk.com
 0.0.0.0	okmgy.cn
 0.0.0.0	baid1.okooo.com
@@ -5730,7 +5727,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xiaobeier.cn
 0.0.0.0	downlaod.xiaocen.com
 0.0.0.0	xiaodongrui.com
-0.0.0.0	cdn.xiaoduoai.com
 0.0.0.0	adx.xiaodutv.com
 0.0.0.0	apm-fe.xiaohongshu.com
 0.0.0.0	apm-native.xiaohongshu.com
@@ -6342,6 +6338,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	wappv.zol.com.cn
 0.0.0.0	ydjs.zol.com.cn
 0.0.0.0	h5log.zongheng.com
+0.0.0.0	static.zongheng.com
 0.0.0.0	zonst.com
 0.0.0.0	zooj.cn
 0.0.0.0	adm.zookingsoft.com

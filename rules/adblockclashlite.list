@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250819085341
-# Last modified: 2025/08/19 08:53:41
-# Blocked domains: 6367
+# Version: 20250820085134
+# Last modified: 2025/08/20 08:51:34
+# Blocked domains: 6364
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -339,7 +339,6 @@ DOMAIN-SUFFIX,39jz.com,REJECT-DROP
 DOMAIN-SUFFIX,39mob.com,REJECT-DROP
 DOMAIN-SUFFIX,fbmjc.39yst.com,REJECT-DROP
 DOMAIN-SUFFIX,jsm.39yst.com,REJECT-DROP
-DOMAIN-SUFFIX,vip.3a9.net,REJECT-DROP
 DOMAIN-SUFFIX,www.3aym.cn,REJECT-DROP
 DOMAIN-SUFFIX,imgad0.3conline.com,REJECT-DROP
 DOMAIN-SUFFIX,jwz.3conline.com,REJECT-DROP
@@ -919,7 +918,6 @@ DOMAIN-SUFFIX,mymin11.oss-cn-hangzhou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,nlmrjnew.oss-cn-shanghai.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,safefiles2.oss-cn-beijing.aliyuncs.com,REJECT-DROP
-DOMAIN-SUFFIX,shangmei-test.oss-cn-beijing.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,shaquevip.oss-cn-zhangjiakou.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,star-seo.oss-ap-northeast-1.aliyuncs.com,REJECT-DROP
 DOMAIN-SUFFIX,swwwxww.oss-cn-hangzhou.aliyuncs.com,REJECT-DROP
@@ -3819,7 +3817,6 @@ DOMAIN-SUFFIX,analytics.oceanengine.com,REJECT-DROP
 DOMAIN-SUFFIX,oewtuho.cn,REJECT-DROP
 DOMAIN-SUFFIX,e.ohuam.com,REJECT-DROP
 DOMAIN-SUFFIX,img.okd3.cn,REJECT-DROP
-DOMAIN-SUFFIX,okhan.net,REJECT-DROP
 DOMAIN-SUFFIX,okkkk.com,REJECT-DROP
 DOMAIN-SUFFIX,okmgy.cn,REJECT-DROP
 DOMAIN-SUFFIX,baid1.okooo.com,REJECT-DROP
@@ -5716,7 +5713,6 @@ DOMAIN-SUFFIX,salary.xiao84.com,REJECT-DROP
 DOMAIN-SUFFIX,xiaobeier.cn,REJECT-DROP
 DOMAIN-SUFFIX,downlaod.xiaocen.com,REJECT-DROP
 DOMAIN-SUFFIX,xiaodongrui.com,REJECT-DROP
-DOMAIN-SUFFIX,cdn.xiaoduoai.com,REJECT-DROP
 DOMAIN-SUFFIX,adx.xiaodutv.com,REJECT-DROP
 DOMAIN-SUFFIX,apm-fe.xiaohongshu.com,REJECT-DROP
 DOMAIN-SUFFIX,apm-native.xiaohongshu.com,REJECT-DROP
@@ -6328,6 +6324,7 @@ DOMAIN-SUFFIX,stat.zol.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,wappv.zol.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,ydjs.zol.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,h5log.zongheng.com,REJECT-DROP
+DOMAIN-SUFFIX,static.zongheng.com,REJECT-DROP
 DOMAIN-SUFFIX,zonst.com,REJECT-DROP
 DOMAIN-SUFFIX,zooj.cn,REJECT-DROP
 DOMAIN-SUFFIX,adm.zookingsoft.com,REJECT-DROP

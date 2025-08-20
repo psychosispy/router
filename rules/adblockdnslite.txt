@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250819085341
-! Last modified: 2025/08/19 08:53:41
-! Blocked domains: 6367
+! Version: 20250820085134
+! Last modified: 2025/08/20 08:51:34
+! Blocked domains: 6364
 ! unBlocked domains: 15
 !
 ||00xvppy.cn^
@@ -339,7 +339,6 @@
 ||39mob.com^
 ||fbmjc.39yst.com^
 ||jsm.39yst.com^
-||vip.3a9.net^
 ||www.3aym.cn^
 ||imgad0.3conline.com^
 ||jwz.3conline.com^
@@ -919,7 +918,6 @@
 ||nlmrjnew.oss-cn-shanghai.aliyuncs.com^
 ||ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com^
 ||safefiles2.oss-cn-beijing.aliyuncs.com^
-||shangmei-test.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
@@ -3819,7 +3817,6 @@
 ||oewtuho.cn^
 ||e.ohuam.com^
 ||img.okd3.cn^
-||okhan.net^
 ||okkkk.com^
 ||okmgy.cn^
 ||baid1.okooo.com^
@@ -5716,7 +5713,6 @@
 ||xiaobeier.cn^
 ||downlaod.xiaocen.com^
 ||xiaodongrui.com^
-||cdn.xiaoduoai.com^
 ||adx.xiaodutv.com^
 ||apm-fe.xiaohongshu.com^
 ||apm-native.xiaohongshu.com^
@@ -6328,6 +6324,7 @@
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
 ||h5log.zongheng.com^
+||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^

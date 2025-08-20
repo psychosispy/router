@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250819085341
-# Last modified: 2025/08/19 08:53:41
-# Blocked domains: 6367
+# Version: 20250820085134
+# Last modified: 2025/08/20 08:51:34
+# Blocked domains: 6364
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -338,7 +338,6 @@ local=/39jz.com/
 local=/39mob.com/
 local=/fbmjc.39yst.com/
 local=/jsm.39yst.com/
-local=/vip.3a9.net/
 local=/www.3aym.cn/
 local=/imgad0.3conline.com/
 local=/jwz.3conline.com/
@@ -918,7 +917,6 @@ local=/mymin11.oss-cn-hangzhou.aliyuncs.com/
 local=/nlmrjnew.oss-cn-shanghai.aliyuncs.com/
 local=/ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com/
 local=/safefiles2.oss-cn-beijing.aliyuncs.com/
-local=/shangmei-test.oss-cn-beijing.aliyuncs.com/
 local=/shaquevip.oss-cn-zhangjiakou.aliyuncs.com/
 local=/star-seo.oss-ap-northeast-1.aliyuncs.com/
 local=/swwwxww.oss-cn-hangzhou.aliyuncs.com/
@@ -3818,7 +3816,6 @@ local=/analytics.oceanengine.com/
 local=/oewtuho.cn/
 local=/e.ohuam.com/
 local=/img.okd3.cn/
-local=/okhan.net/
 local=/okkkk.com/
 local=/okmgy.cn/
 local=/baid1.okooo.com/
@@ -5715,7 +5712,6 @@ local=/salary.xiao84.com/
 local=/xiaobeier.cn/
 local=/downlaod.xiaocen.com/
 local=/xiaodongrui.com/
-local=/cdn.xiaoduoai.com/
 local=/adx.xiaodutv.com/
 local=/apm-fe.xiaohongshu.com/
 local=/apm-native.xiaohongshu.com/
@@ -6327,6 +6323,7 @@ local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
 local=/h5log.zongheng.com/
+local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
