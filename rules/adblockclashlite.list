@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250821085029
-# Last modified: 2025/08/21 08:50:29
-# Blocked domains: 6364
+# Version: 20250822085141
+# Last modified: 2025/08/22 08:51:41
+# Blocked domains: 6372
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -753,6 +753,13 @@ DOMAIN-SUFFIX,adszs.com,REJECT-DROP
 DOMAIN-SUFFIX,adreport.adtianmai.com,REJECT-DROP
 DOMAIN-SUFFIX,adttt.com,REJECT-DROP
 DOMAIN-SUFFIX,adtx2.cn,REJECT-DROP
+DOMAIN-SUFFIX,p1-jx.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,p1-lm.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,p2-jx.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,p2-lm.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,v1-lm.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,v2-lm.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,v4-lm.adukwai.com,REJECT-DROP
 DOMAIN-SUFFIX,adunite.com,REJECT-DROP
 DOMAIN-SUFFIX,adups.cn,REJECT-DROP
 DOMAIN-SUFFIX,adups.com,REJECT-DROP
@@ -4071,6 +4078,7 @@ DOMAIN-SUFFIX,qhdzljxsb.cn,REJECT-DROP
 DOMAIN-SUFFIX,qhicumg.cn,REJECT-DROP
 DOMAIN-SUFFIX,top.h.qhimg.com,REJECT-DROP
 DOMAIN-SUFFIX,top.h.qhmsg.com,REJECT-DROP
+DOMAIN-SUFFIX,s.ssl.qhres2.com,REJECT-DROP
 DOMAIN-SUFFIX,news.qhstatic.com,REJECT-DROP
 DOMAIN-SUFFIX,m.qhxcdmfj.cn,REJECT-DROP
 DOMAIN-SUFFIX,qhxtzwf.cn,REJECT-DROP

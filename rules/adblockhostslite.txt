@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250821085029
-# Last modified: 2025/08/21 08:50:29
-# Blocked domains: 6364
+# Version: 20250822085141
+# Last modified: 2025/08/22 08:51:41
+# Blocked domains: 6372
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -767,6 +767,13 @@ ff02::3	ip6-allhosts
 0.0.0.0	adreport.adtianmai.com
 0.0.0.0	adttt.com
 0.0.0.0	adtx2.cn
+0.0.0.0	p1-jx.adukwai.com
+0.0.0.0	p1-lm.adukwai.com
+0.0.0.0	p2-jx.adukwai.com
+0.0.0.0	p2-lm.adukwai.com
+0.0.0.0	v1-lm.adukwai.com
+0.0.0.0	v2-lm.adukwai.com
+0.0.0.0	v4-lm.adukwai.com
 0.0.0.0	adunite.com
 0.0.0.0	adups.cn
 0.0.0.0	adups.com
@@ -4085,6 +4092,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	qhicumg.cn
 0.0.0.0	top.h.qhimg.com
 0.0.0.0	top.h.qhmsg.com
+0.0.0.0	s.ssl.qhres2.com
 0.0.0.0	news.qhstatic.com
 0.0.0.0	m.qhxcdmfj.cn
 0.0.0.0	qhxtzwf.cn

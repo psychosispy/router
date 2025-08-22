@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/08/21 08:50:29
-#!support=6364
+#!date=2025/08/22 08:51:41
+#!support=6372
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -756,6 +756,13 @@ DOMAIN-SUFFIX,adszs.com
 DOMAIN-SUFFIX,adreport.adtianmai.com
 DOMAIN-SUFFIX,adttt.com
 DOMAIN-SUFFIX,adtx2.cn
+DOMAIN-SUFFIX,p1-jx.adukwai.com
+DOMAIN-SUFFIX,p1-lm.adukwai.com
+DOMAIN-SUFFIX,p2-jx.adukwai.com
+DOMAIN-SUFFIX,p2-lm.adukwai.com
+DOMAIN-SUFFIX,v1-lm.adukwai.com
+DOMAIN-SUFFIX,v2-lm.adukwai.com
+DOMAIN-SUFFIX,v4-lm.adukwai.com
 DOMAIN-SUFFIX,adunite.com
 DOMAIN-SUFFIX,adups.cn
 DOMAIN-SUFFIX,adups.com
@@ -4074,6 +4081,7 @@ DOMAIN-SUFFIX,qhdzljxsb.cn
 DOMAIN-SUFFIX,qhicumg.cn
 DOMAIN-SUFFIX,top.h.qhimg.com
 DOMAIN-SUFFIX,top.h.qhmsg.com
+DOMAIN-SUFFIX,s.ssl.qhres2.com
 DOMAIN-SUFFIX,news.qhstatic.com
 DOMAIN-SUFFIX,m.qhxcdmfj.cn
 DOMAIN-SUFFIX,qhxtzwf.cn
