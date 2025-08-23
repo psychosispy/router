@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20250822085141
-  # Last modified: 2025/08/22 08:51:41
-  # Blocked domains: 6372
+  # Version: 20250823084913
+  # Last modified: 2025/08/23 08:49:13
+  # Blocked domains: 6369
   #
   - '+.00xvppy.cn'
   - '+.011211.cn'
@@ -339,6 +339,7 @@ payload:
   - '+.39mob.com'
   - '+.fbmjc.39yst.com'
   - '+.jsm.39yst.com'
+  - '+.vip.3a9.net'
   - '+.www.3aym.cn'
   - '+.imgad0.3conline.com'
   - '+.jwz.3conline.com'
@@ -447,7 +448,6 @@ payload:
   - '+.v16.56.com'
   - '+.1.5646.cn'
   - '+.3.5646.cn'
-  - '+.dl.1003b.56a.com'
   - '+.56fba.cn'
   - '+.www.57.com.cn'
   - '+.57573zubo36833.com'
@@ -3702,7 +3702,6 @@ payload:
   - '+.bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com'
   - '+.cdn-10049480.file.myqcloud.com'
   - '+.cndjs-1251973891.coshk.myqcloud.com'
-  - '+.constrainthome080doc-1318069902.cos.ap-chengdu.myqcloud.com'
   - '+.dianying-1304791696.cos.ap-shanghai.myqcloud.com'
   - '+.f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com'
   - '+.ggtp-1255424916.cos.ap-chengdu.myqcloud.com'
@@ -3718,7 +3717,6 @@ payload:
   - '+.vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com'
   - '+.www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com'
   - '+.www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com'
-  - '+.xiaoma-10021647.file.myqcloud.com'
   - '+.analytics.myshoptago.com'
   - '+.mytanwan.com'
   - '+.adm.myzaker.com'
@@ -5103,7 +5101,6 @@ payload:
   - '+.tendata.com'
   - '+.tendata.net'
   - '+.tenddata.cn'
-  - '+.tengfeidn.com'
   - '+.tepusi888.cn'
   - '+.answers.teradata.cn'
   - '+.answers.teradata.com.cn'
@@ -5711,7 +5708,6 @@ payload:
   - '+.ads-video-qc.xhscdn.com'
   - '+.cdn.xianchengyou.com'
   - '+.khrtac.xiangha.com'
-  - '+.xiangshunjy.com'
   - '+.xianshangzixun.com'
   - '+.xianshangzixun.net'
   - '+.xianzhice.com'
@@ -5721,6 +5717,7 @@ payload:
   - '+.xiaobeier.cn'
   - '+.downlaod.xiaocen.com'
   - '+.xiaodongrui.com'
+  - '+.cdn.xiaoduoai.com'
   - '+.adx.xiaodutv.com'
   - '+.apm-fe.xiaohongshu.com'
   - '+.apm-native.xiaohongshu.com'

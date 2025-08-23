@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250822085141
-# Last modified: 2025/08/22 08:51:41
-# Blocked domains: 6372
+# Version: 20250823084913
+# Last modified: 2025/08/23 08:49:13
+# Blocked domains: 6369
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -339,6 +339,7 @@ DOMAIN-SUFFIX,39jz.com,REJECT-DROP
 DOMAIN-SUFFIX,39mob.com,REJECT-DROP
 DOMAIN-SUFFIX,fbmjc.39yst.com,REJECT-DROP
 DOMAIN-SUFFIX,jsm.39yst.com,REJECT-DROP
+DOMAIN-SUFFIX,vip.3a9.net,REJECT-DROP
 DOMAIN-SUFFIX,www.3aym.cn,REJECT-DROP
 DOMAIN-SUFFIX,imgad0.3conline.com,REJECT-DROP
 DOMAIN-SUFFIX,jwz.3conline.com,REJECT-DROP
@@ -447,7 +448,6 @@ DOMAIN-SUFFIX,union.56.com,REJECT-DROP
 DOMAIN-SUFFIX,v16.56.com,REJECT-DROP
 DOMAIN-SUFFIX,1.5646.cn,REJECT-DROP
 DOMAIN-SUFFIX,3.5646.cn,REJECT-DROP
-DOMAIN-SUFFIX,dl.1003b.56a.com,REJECT-DROP
 DOMAIN-SUFFIX,56fba.cn,REJECT-DROP
 DOMAIN-SUFFIX,www.57.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,57573zubo36833.com,REJECT-DROP
@@ -3702,7 +3702,6 @@ DOMAIN-SUFFIX,adstore-index-1252524079.file.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,cdn-10049480.file.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,cndjs-1251973891.coshk.myqcloud.com,REJECT-DROP
-DOMAIN-SUFFIX,constrainthome080doc-1318069902.cos.ap-chengdu.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,dianying-1304791696.cos.ap-shanghai.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,ggtp-1255424916.cos.ap-chengdu.myqcloud.com,REJECT-DROP
@@ -3718,7 +3717,6 @@ DOMAIN-SUFFIX,sgz-1302338321.cos.ap-guangzhou.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com,REJECT-DROP
-DOMAIN-SUFFIX,xiaoma-10021647.file.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,analytics.myshoptago.com,REJECT-DROP
 DOMAIN-SUFFIX,mytanwan.com,REJECT-DROP
 DOMAIN-SUFFIX,adm.myzaker.com,REJECT-DROP
@@ -5103,7 +5101,6 @@ DOMAIN-SUFFIX,tendata.cn,REJECT-DROP
 DOMAIN-SUFFIX,tendata.com,REJECT-DROP
 DOMAIN-SUFFIX,tendata.net,REJECT-DROP
 DOMAIN-SUFFIX,tenddata.cn,REJECT-DROP
-DOMAIN-SUFFIX,tengfeidn.com,REJECT-DROP
 DOMAIN-SUFFIX,tepusi888.cn,REJECT-DROP
 DOMAIN-SUFFIX,answers.teradata.cn,REJECT-DROP
 DOMAIN-SUFFIX,answers.teradata.com.cn,REJECT-DROP
@@ -5711,7 +5708,6 @@ DOMAIN-SUFFIX,ads-video-al.xhscdn.com,REJECT-DROP
 DOMAIN-SUFFIX,ads-video-qc.xhscdn.com,REJECT-DROP
 DOMAIN-SUFFIX,cdn.xianchengyou.com,REJECT-DROP
 DOMAIN-SUFFIX,khrtac.xiangha.com,REJECT-DROP
-DOMAIN-SUFFIX,xiangshunjy.com,REJECT-DROP
 DOMAIN-SUFFIX,xianshangzixun.com,REJECT-DROP
 DOMAIN-SUFFIX,xianshangzixun.net,REJECT-DROP
 DOMAIN-SUFFIX,xianzhice.com,REJECT-DROP
@@ -5721,6 +5717,7 @@ DOMAIN-SUFFIX,salary.xiao84.com,REJECT-DROP
 DOMAIN-SUFFIX,xiaobeier.cn,REJECT-DROP
 DOMAIN-SUFFIX,downlaod.xiaocen.com,REJECT-DROP
 DOMAIN-SUFFIX,xiaodongrui.com,REJECT-DROP
+DOMAIN-SUFFIX,cdn.xiaoduoai.com,REJECT-DROP
 DOMAIN-SUFFIX,adx.xiaodutv.com,REJECT-DROP
 DOMAIN-SUFFIX,apm-fe.xiaohongshu.com,REJECT-DROP
 DOMAIN-SUFFIX,apm-native.xiaohongshu.com,REJECT-DROP

@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250822085141
-# Last modified: 2025/08/22 08:51:41
-# Blocked domains: 6372
+# Version: 20250823084913
+# Last modified: 2025/08/23 08:49:13
+# Blocked domains: 6369
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -338,6 +338,7 @@ local=/39jz.com/
 local=/39mob.com/
 local=/fbmjc.39yst.com/
 local=/jsm.39yst.com/
+local=/vip.3a9.net/
 local=/www.3aym.cn/
 local=/imgad0.3conline.com/
 local=/jwz.3conline.com/
@@ -446,7 +447,6 @@ local=/union.56.com/
 local=/v16.56.com/
 local=/1.5646.cn/
 local=/3.5646.cn/
-local=/dl.1003b.56a.com/
 local=/56fba.cn/
 local=/www.57.com.cn/
 local=/57573zubo36833.com/
@@ -3701,7 +3701,6 @@ local=/adstore-index-1252524079.file.myqcloud.com/
 local=/bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com/
 local=/cdn-10049480.file.myqcloud.com/
 local=/cndjs-1251973891.coshk.myqcloud.com/
-local=/constrainthome080doc-1318069902.cos.ap-chengdu.myqcloud.com/
 local=/dianying-1304791696.cos.ap-shanghai.myqcloud.com/
 local=/f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com/
 local=/ggtp-1255424916.cos.ap-chengdu.myqcloud.com/
@@ -3717,7 +3716,6 @@ local=/sgz-1302338321.cos.ap-guangzhou.myqcloud.com/
 local=/vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com/
 local=/www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com/
 local=/www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com/
-local=/xiaoma-10021647.file.myqcloud.com/
 local=/analytics.myshoptago.com/
 local=/mytanwan.com/
 local=/adm.myzaker.com/
@@ -5102,7 +5100,6 @@ local=/tendata.cn/
 local=/tendata.com/
 local=/tendata.net/
 local=/tenddata.cn/
-local=/tengfeidn.com/
 local=/tepusi888.cn/
 local=/answers.teradata.cn/
 local=/answers.teradata.com.cn/
@@ -5710,7 +5707,6 @@ local=/ads-video-al.xhscdn.com/
 local=/ads-video-qc.xhscdn.com/
 local=/cdn.xianchengyou.com/
 local=/khrtac.xiangha.com/
-local=/xiangshunjy.com/
 local=/xianshangzixun.com/
 local=/xianshangzixun.net/
 local=/xianzhice.com/
@@ -5720,6 +5716,7 @@ local=/salary.xiao84.com/
 local=/xiaobeier.cn/
 local=/downlaod.xiaocen.com/
 local=/xiaodongrui.com/
+local=/cdn.xiaoduoai.com/
 local=/adx.xiaodutv.com/
 local=/apm-fe.xiaohongshu.com/
 local=/apm-native.xiaohongshu.com/
