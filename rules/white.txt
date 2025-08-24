@@ -1,5 +1,3 @@
-#闲鱼满载
-px.ucweb.com
 # Auto Number Verification
 # https://github.com/privacy-protection-tools/anti-AD/issues/547
 # https://github.com/privacy-protection-tools/anti-AD/issues/866
@@ -17,6 +15,48 @@ mob.com
 nishub1.10010.com
 opencloud.wostore.cn
 ye.dun.163yun.com
+# 自动登录
+config.cmpassport.com
+cmpassport.com
+www.cmpassport.com
+wap.cmpassport.com
+onekey1.cmpassport.com
+log1.cmpassport.com
+smsks1.cmpassport.com
+verify.cmpassport.com
+opencloud.wostore.cn
+auth.wosms.cn
+id.mail.wo.cn
+mdn.open.wo.cn
+hmrz.wo.cn
+nishub1.10010.com
+enrichgw.10010.com
+nishub1.10010.com:38750
+id6.me
+open.e.189.cn
+mob.com
+ye.dun.163yun.com
+onepass.geetest.com
+114dev.com
+#闲鱼满载
+px.ucweb.com
+
+
+# https://github.com/217heidai/adblockfilters/issues/182
+appdownload.alicdn.com
+# https://github.com/217heidai/adblockfilters/issues/180
+youtube.com#%#//scriptlet('json-prune-fetch-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|player\?|watch\?[tv]=/')
+# https://github.com/217heidai/adblockfilters/issues/179
+apps.coloros.com
+# https://github.com/217heidai/adblockfilters/issues/178
+wximg.wxs.qq.com
+# https://github.com/217heidai/adblockfilters/issues/175
+ads.privacy.qq.com
+rdelivery.qq.com
+# https://github.com/217heidai/adblockfilters/issues/174
+msdk.qq.com
+ssl.msdk.qq.com
+ap6.ssl.msdk.qq.com
 # https://github.com/217heidai/adblockfilters/issues/173
 ads.heytapmobi.com
 sms.ads.heytapmobi.com
@@ -36,6 +76,7 @@ t4.market.xiaomi.com
 t5.market.xiaomi.com
 fs-im-kefu.7moor-fs1.com
 mime.baidu.com
+tnc3-alisc1.bytedance.com
 # 影响东风汽车主页访问
 dfmc.com.cn
 # https://github.com/217heidai/adblockfilters/issues/165
