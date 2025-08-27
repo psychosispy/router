@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250826085201
-# Last modified: 2025/08/26 08:52:01
-# Blocked domains: 6321
+# Version: 20250827085048
+# Last modified: 2025/08/27 08:50:48
+# Blocked domains: 6320
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -5175,7 +5175,6 @@ DOMAIN-SUFFIX,tui98.cn,REJECT-DROP
 DOMAIN-SUFFIX,tuia.cn,REJECT-DROP
 DOMAIN-SUFFIX,activity.tuiapple.com,REJECT-DROP
 DOMAIN-SUFFIX,activity.tuifish.com,REJECT-DROP
-DOMAIN-SUFFIX,yun.tuisnake.com,REJECT-DROP
 DOMAIN-SUFFIX,a1.tuke8.com,REJECT-DROP
 DOMAIN-SUFFIX,lm1.tuliu.com,REJECT-DROP
 DOMAIN-SUFFIX,tumeite.cn,REJECT-DROP
