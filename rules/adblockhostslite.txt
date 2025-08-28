@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250827085048
-# Last modified: 2025/08/27 08:50:48
-# Blocked domains: 6320
+# Version: 20250828084951
+# Last modified: 2025/08/28 08:49:51
+# Blocked domains: 6304
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -49,13 +49,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	0941.org
 0.0.0.0	0dwm.icu
 0.0.0.0	cdn.0i-i0.com
-0.0.0.0	0k7wod.cn
 0.0.0.0	0m483y7.cn
-0.0.0.0	0op8kh.cn
-0.0.0.0	0oqt9i.cn
 0.0.0.0	ee.0pi84.cn
 0.0.0.0	m.0pi84.cn
-0.0.0.0	0r3tyg.cn
 0.0.0.0	m.0uk9e.cn
 0.0.0.0	0x5.me
 0.0.0.0	1000su.com
@@ -439,7 +435,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.52zxw.com
 0.0.0.0	53kf.com
 0.0.0.0	m.53trya.cn
-0.0.0.0	54gtlb.cn
 0.0.0.0	54kefu.net
 0.0.0.0	down.54nb.com
 0.0.0.0	55.la
@@ -1999,7 +1994,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	euitx.cn
 0.0.0.0	eujxqgh.cn
 0.0.0.0	g.x.evolife.cn
-0.0.0.0	ewxufqs.cn
 0.0.0.0	a.exam58.com
 0.0.0.0	excellenceads.com
 0.0.0.0	excoino.com
@@ -2168,7 +2162,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	img.gaore.com
 0.0.0.0	trk.gardnerdenver.com.cn
 0.0.0.0	gayeah.cn
-0.0.0.0	gccnntq.cn
 0.0.0.0	m.gcouh.com
 0.0.0.0	m.gd881.cn
 0.0.0.0	gdtimg.com
@@ -2838,7 +2831,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	itpest.cn
 0.0.0.0	itxinrou.com
 0.0.0.0	ityangstudy.cn
-0.0.0.0	ivnrrkx.cn
 0.0.0.0	ivqtrjt.cn
 0.0.0.0	ivzfpwm.cn
 0.0.0.0	ad.iwhop.cn
@@ -3108,7 +3100,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	p.kf3msfm.com
 0.0.0.0	ssp1.kfadx.tech
 0.0.0.0	j.kfd3sm2c.com
-0.0.0.0	kfpnqug.cn
 0.0.0.0	mail.kguapp.com
 0.0.0.0	e.kguaq.com
 0.0.0.0	m.kguaq.com
@@ -3650,7 +3641,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	livewebbs2pcdn.msstatic.com
 0.0.0.0	qn-cdnfile1pcdn.msstatic.com
 0.0.0.0	m.msuik.cn
-0.0.0.0	mthhhuq.cn
 0.0.0.0	advert.mting.info
 0.0.0.0	ee.mtmfjdo.cn
 0.0.0.0	m.mtmfjdo.cn
@@ -3963,7 +3953,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	poqwua.cn
 0.0.0.0	webtrack.pospal.cn
 0.0.0.0	povbdf.cn
-0.0.0.0	poyang.com
 0.0.0.0	log.cs.pp.cn
 0.0.0.0	patriot.cs.pp.cn
 0.0.0.0	server.m.pp.cn
@@ -4534,7 +4523,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sglyd.cn
 0.0.0.0	eywvko.shaddy.jp
 0.0.0.0	shangtuke.cn
-0.0.0.0	shangwenchao4.cn
 0.0.0.0	js.shangxueba.com
 0.0.0.0	shankejingling.com
 0.0.0.0	shareinstall.com.cn
@@ -5182,7 +5170,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ts166.net
 0.0.0.0	ttyyuuoo.com
 0.0.0.0	ad.api.3g.tudou.com
-0.0.0.0	tudxhzj.cn
 0.0.0.0	go.tuev.cn
 0.0.0.0	tuhzjrr.cn
 0.0.0.0	tui98.cn
@@ -5593,7 +5580,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	irurng.wondershare.jp
 0.0.0.0	analytics.woozooo.com
 0.0.0.0	statics.woozooo.com
-0.0.0.0	wopvmmy.cn
 0.0.0.0	www.wowostar.cn
 0.0.0.0	tbax.woyvk.cn
 0.0.0.0	v1.wphonelife.com
@@ -5623,7 +5609,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wumii.com
 0.0.0.0	m.wuqutu.com
 0.0.0.0	improving.wuzhuiso.com
-0.0.0.0	wvwqywz.cn
 0.0.0.0	wwads.cn
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
@@ -6065,7 +6050,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yoyi.tv
 0.0.0.0	analysis.yozocloud.cn
 0.0.0.0	yppw666.cn
-0.0.0.0	yqlxkzs.cn
 0.0.0.0	photo.yqydjr.cn
 0.0.0.0	ys6ot.cn
 0.0.0.0	ysbaojia.com

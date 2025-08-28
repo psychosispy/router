@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250827085048
-! Last modified: 2025/08/27 08:50:48
-! Blocked domains: 6320
+! Version: 20250828084951
+! Last modified: 2025/08/28 08:49:51
+! Blocked domains: 6304
 !
 00xvppy.cn
 011211.cn
@@ -34,13 +34,9 @@ m.08jq9b.cn
 0941.org
 0dwm.icu
 cdn.0i-i0.com
-0k7wod.cn
 0m483y7.cn
-0op8kh.cn
-0oqt9i.cn
 ee.0pi84.cn
 m.0pi84.cn
-0r3tyg.cn
 m.0uk9e.cn
 0x5.me
 1000su.com
@@ -424,7 +420,6 @@ adm.52swine.com
 a.52zxw.com
 53kf.com
 m.53trya.cn
-54gtlb.cn
 54kefu.net
 down.54nb.com
 55.la
@@ -1984,7 +1979,6 @@ etui8.cn
 euitx.cn
 eujxqgh.cn
 g.x.evolife.cn
-ewxufqs.cn
 a.exam58.com
 excellenceads.com
 excoino.com
@@ -2153,7 +2147,6 @@ static.gaomaer.cn
 img.gaore.com
 trk.gardnerdenver.com.cn
 gayeah.cn
-gccnntq.cn
 m.gcouh.com
 m.gd881.cn
 gdtimg.com
@@ -2823,7 +2816,6 @@ stat.iteye.com
 itpest.cn
 itxinrou.com
 ityangstudy.cn
-ivnrrkx.cn
 ivqtrjt.cn
 ivzfpwm.cn
 ad.iwhop.cn
@@ -3093,7 +3085,6 @@ sandbox-elq.keysight.com.cn
 p.kf3msfm.com
 ssp1.kfadx.tech
 j.kfd3sm2c.com
-kfpnqug.cn
 mail.kguapp.com
 e.kguaq.com
 m.kguaq.com
@@ -3635,7 +3626,6 @@ c.msn.com.cn
 livewebbs2pcdn.msstatic.com
 qn-cdnfile1pcdn.msstatic.com
 m.msuik.cn
-mthhhuq.cn
 advert.mting.info
 ee.mtmfjdo.cn
 m.mtmfjdo.cn
@@ -3948,7 +3938,6 @@ pop800.com
 poqwua.cn
 webtrack.pospal.cn
 povbdf.cn
-poyang.com
 log.cs.pp.cn
 patriot.cs.pp.cn
 server.m.pp.cn
@@ -4519,7 +4508,6 @@ sg92.com
 sglyd.cn
 eywvko.shaddy.jp
 shangtuke.cn
-shangwenchao4.cn
 js.shangxueba.com
 shankejingling.com
 shareinstall.com.cn
@@ -5167,7 +5155,6 @@ trustutn.org
 ts166.net
 ttyyuuoo.com
 ad.api.3g.tudou.com
-tudxhzj.cn
 go.tuev.cn
 tuhzjrr.cn
 tui98.cn
@@ -5578,7 +5565,6 @@ event.wondershare.com
 irurng.wondershare.jp
 analytics.woozooo.com
 statics.woozooo.com
-wopvmmy.cn
 www.wowostar.cn
 tbax.woyvk.cn
 v1.wphonelife.com
@@ -5608,7 +5594,6 @@ wumii.cn
 wumii.com
 m.wuqutu.com
 improving.wuzhuiso.com
-wvwqywz.cn
 wwads.cn
 1500020991.vodplayer.wxamedia.com
 1500022744.vodplayer.wxamedia.com
@@ -6050,7 +6035,6 @@ wenxue.youzhicn.com
 yoyi.tv
 analysis.yozocloud.cn
 yppw666.cn
-yqlxkzs.cn
 photo.yqydjr.cn
 ys6ot.cn
 ysbaojia.com
