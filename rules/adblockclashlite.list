@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250830084626
-# Last modified: 2025/08/30 08:46:26
-# Blocked domains: 6364
+# Version: 20250831085409
+# Last modified: 2025/08/31 08:54:09
+# Blocked domains: 6361
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -4606,7 +4606,6 @@ DOMAIN-SUFFIX,cre-dp.sina.cn,REJECT-DROP
 DOMAIN-SUFFIX,cre.dp.sina.cn,REJECT-DROP
 DOMAIN-SUFFIX,dl.kjava.sina.cn,REJECT-DROP
 DOMAIN-SUFFIX,dmp.sina.cn,REJECT-DROP
-DOMAIN-SUFFIX,gk.sina.cn,REJECT-DROP
 DOMAIN-SUFFIX,log.sina.cn,REJECT-DROP
 DOMAIN-SUFFIX,log2.sina.cn,REJECT-DROP
 DOMAIN-SUFFIX,mixer.sina.cn,REJECT-DROP
@@ -4657,9 +4656,9 @@ DOMAIN-SUFFIX,log.mix.sina.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,matwbp.iask.sina.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,mg.games.sina.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,pfp.sina.com.cn,REJECT-DROP
+DOMAIN-SUFFIX,r.sax.sina.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,rm.sina.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,s.img.mix.sina.com.cn,REJECT-DROP
-DOMAIN-SUFFIX,sax.sina.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,sax1.sina.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,sax2.sina.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,sax3.sina.com.cn,REJECT-DROP
@@ -4785,7 +4784,6 @@ DOMAIN-SUFFIX,ad.sohu.com,REJECT-DROP
 DOMAIN-SUFFIX,ads.sohu.com,REJECT-DROP
 DOMAIN-SUFFIX,assp.sohu.com,REJECT-DROP
 DOMAIN-SUFFIX,bd.hd.sohu.com,REJECT-DROP
-DOMAIN-SUFFIX,changyan.sohu.com,REJECT-DROP
 DOMAIN-SUFFIX,cis.sohu.com,REJECT-DROP
 DOMAIN-SUFFIX,click2.hd.sohu.com,REJECT-DROP
 DOMAIN-SUFFIX,corp.sohu.com,REJECT-DROP
@@ -4862,7 +4860,6 @@ DOMAIN-SUFFIX,trackmarketing.staubli.cn,REJECT-DROP
 DOMAIN-SUFFIX,steeltrader.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,stg8.com,REJECT-DROP
 DOMAIN-SUFFIX,stgowan.com,REJECT-DROP
-DOMAIN-SUFFIX,goto.stnts.com,REJECT-DROP
 DOMAIN-SUFFIX,info.stockstar.com,REJECT-DROP
 DOMAIN-SUFFIX,same.stockstar.com,REJECT-DROP
 DOMAIN-SUFFIX,studylabs.cn,REJECT-DROP
@@ -5058,6 +5055,7 @@ DOMAIN-SUFFIX,all.cnzz.com.danuoyi.tbcache.com,REJECT-DROP
 DOMAIN-SUFFIX,g.tbcdn.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.tbinq.com,REJECT-DROP
 DOMAIN-SUFFIX,a1.tbuz.com.cn,REJECT-DROP
+DOMAIN-SUFFIX,dlied6.bytes.tcdnos.com,REJECT-DROP
 DOMAIN-SUFFIX,dlied6.yz.tcdnos.com,REJECT-DROP
 DOMAIN-SUFFIX,img.tcdxt.com,REJECT-DROP
 DOMAIN-SUFFIX,gwrtdp-tn690bfadt.tclclouds.com,REJECT-DROP
@@ -5952,7 +5950,6 @@ DOMAIN-SUFFIX,data.yhydl.com,REJECT-DROP
 DOMAIN-SUFFIX,yhz18.com,REJECT-DROP
 DOMAIN-SUFFIX,analytics.yicai.com,REJECT-DROP
 DOMAIN-SUFFIX,yicha.cn,REJECT-DROP
-DOMAIN-SUFFIX,adx.yiche.com,REJECT-DROP
 DOMAIN-SUFFIX,applog.yiche.com,REJECT-DROP
 DOMAIN-SUFFIX,dd.yiche.com,REJECT-DROP
 DOMAIN-SUFFIX,log.ycapp.yiche.com,REJECT-DROP

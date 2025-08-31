@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250830084626
-# Last modified: 2025/08/30 08:46:26
-# Blocked domains: 6364
+# Version: 20250831085409
+# Last modified: 2025/08/31 08:54:09
+# Blocked domains: 6361
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -4620,7 +4620,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cre.dp.sina.cn
 0.0.0.0	dl.kjava.sina.cn
 0.0.0.0	dmp.sina.cn
-0.0.0.0	gk.sina.cn
 0.0.0.0	log.sina.cn
 0.0.0.0	log2.sina.cn
 0.0.0.0	mixer.sina.cn
@@ -4671,9 +4670,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	matwbp.iask.sina.com.cn
 0.0.0.0	mg.games.sina.com.cn
 0.0.0.0	pfp.sina.com.cn
+0.0.0.0	r.sax.sina.com.cn
 0.0.0.0	rm.sina.com.cn
 0.0.0.0	s.img.mix.sina.com.cn
-0.0.0.0	sax.sina.com.cn
 0.0.0.0	sax1.sina.com.cn
 0.0.0.0	sax2.sina.com.cn
 0.0.0.0	sax3.sina.com.cn
@@ -4799,7 +4798,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads.sohu.com
 0.0.0.0	assp.sohu.com
 0.0.0.0	bd.hd.sohu.com
-0.0.0.0	changyan.sohu.com
 0.0.0.0	cis.sohu.com
 0.0.0.0	click2.hd.sohu.com
 0.0.0.0	corp.sohu.com
@@ -4876,7 +4874,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	steeltrader.com.cn
 0.0.0.0	stg8.com
 0.0.0.0	stgowan.com
-0.0.0.0	goto.stnts.com
 0.0.0.0	info.stockstar.com
 0.0.0.0	same.stockstar.com
 0.0.0.0	studylabs.cn
@@ -5072,6 +5069,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	g.tbcdn.cn
 0.0.0.0	m.tbinq.com
 0.0.0.0	a1.tbuz.com.cn
+0.0.0.0	dlied6.bytes.tcdnos.com
 0.0.0.0	dlied6.yz.tcdnos.com
 0.0.0.0	img.tcdxt.com
 0.0.0.0	gwrtdp-tn690bfadt.tclclouds.com
@@ -5966,7 +5964,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yhz18.com
 0.0.0.0	analytics.yicai.com
 0.0.0.0	yicha.cn
-0.0.0.0	adx.yiche.com
 0.0.0.0	applog.yiche.com
 0.0.0.0	dd.yiche.com
 0.0.0.0	log.ycapp.yiche.com

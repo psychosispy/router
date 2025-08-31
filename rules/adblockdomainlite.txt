@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250830084626
-! Last modified: 2025/08/30 08:46:26
-! Blocked domains: 6364
+! Version: 20250831085409
+! Last modified: 2025/08/31 08:54:09
+! Blocked domains: 6361
 !
 00xvppy.cn
 011211.cn
@@ -4605,7 +4605,6 @@ cre-dp.sina.cn
 cre.dp.sina.cn
 dl.kjava.sina.cn
 dmp.sina.cn
-gk.sina.cn
 log.sina.cn
 log2.sina.cn
 mixer.sina.cn
@@ -4656,9 +4655,9 @@ log.mix.sina.com.cn
 matwbp.iask.sina.com.cn
 mg.games.sina.com.cn
 pfp.sina.com.cn
+r.sax.sina.com.cn
 rm.sina.com.cn
 s.img.mix.sina.com.cn
-sax.sina.com.cn
 sax1.sina.com.cn
 sax2.sina.com.cn
 sax3.sina.com.cn
@@ -4784,7 +4783,6 @@ ad.sohu.com
 ads.sohu.com
 assp.sohu.com
 bd.hd.sohu.com
-changyan.sohu.com
 cis.sohu.com
 click2.hd.sohu.com
 corp.sohu.com
@@ -4861,7 +4859,6 @@ trackmarketing.staubli.cn
 steeltrader.com.cn
 stg8.com
 stgowan.com
-goto.stnts.com
 info.stockstar.com
 same.stockstar.com
 studylabs.cn
@@ -5057,6 +5054,7 @@ all.cnzz.com.danuoyi.tbcache.com
 g.tbcdn.cn
 m.tbinq.com
 a1.tbuz.com.cn
+dlied6.bytes.tcdnos.com
 dlied6.yz.tcdnos.com
 img.tcdxt.com
 gwrtdp-tn690bfadt.tclclouds.com
@@ -5951,7 +5949,6 @@ data.yhydl.com
 yhz18.com
 analytics.yicai.com
 yicha.cn
-adx.yiche.com
 applog.yiche.com
 dd.yiche.com
 log.ycapp.yiche.com

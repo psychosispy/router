@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250830084626
-# Last modified: 2025/08/30 08:46:26
-# Blocked domains: 6364
+# Version: 20250831085408
+# Last modified: 2025/08/31 08:54:08
+# Blocked domains: 6361
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -4605,7 +4605,6 @@ local=/cre-dp.sina.cn/
 local=/cre.dp.sina.cn/
 local=/dl.kjava.sina.cn/
 local=/dmp.sina.cn/
-local=/gk.sina.cn/
 local=/log.sina.cn/
 local=/log2.sina.cn/
 local=/mixer.sina.cn/
@@ -4656,9 +4655,9 @@ local=/log.mix.sina.com.cn/
 local=/matwbp.iask.sina.com.cn/
 local=/mg.games.sina.com.cn/
 local=/pfp.sina.com.cn/
+local=/r.sax.sina.com.cn/
 local=/rm.sina.com.cn/
 local=/s.img.mix.sina.com.cn/
-local=/sax.sina.com.cn/
 local=/sax1.sina.com.cn/
 local=/sax2.sina.com.cn/
 local=/sax3.sina.com.cn/
@@ -4784,7 +4783,6 @@ local=/ad.sohu.com/
 local=/ads.sohu.com/
 local=/assp.sohu.com/
 local=/bd.hd.sohu.com/
-local=/changyan.sohu.com/
 local=/cis.sohu.com/
 local=/click2.hd.sohu.com/
 local=/corp.sohu.com/
@@ -4861,7 +4859,6 @@ local=/trackmarketing.staubli.cn/
 local=/steeltrader.com.cn/
 local=/stg8.com/
 local=/stgowan.com/
-local=/goto.stnts.com/
 local=/info.stockstar.com/
 local=/same.stockstar.com/
 local=/studylabs.cn/
@@ -5057,6 +5054,7 @@ local=/all.cnzz.com.danuoyi.tbcache.com/
 local=/g.tbcdn.cn/
 local=/m.tbinq.com/
 local=/a1.tbuz.com.cn/
+local=/dlied6.bytes.tcdnos.com/
 local=/dlied6.yz.tcdnos.com/
 local=/img.tcdxt.com/
 local=/gwrtdp-tn690bfadt.tclclouds.com/
@@ -5951,7 +5949,6 @@ local=/data.yhydl.com/
 local=/yhz18.com/
 local=/analytics.yicai.com/
 local=/yicha.cn/
-local=/adx.yiche.com/
 local=/applog.yiche.com/
 local=/dd.yiche.com/
 local=/log.ycapp.yiche.com/

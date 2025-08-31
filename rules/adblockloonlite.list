@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/08/30 08:46:26
-#!support=6364
+#!date=2025/08/31 08:54:09
+#!support=6361
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -4609,7 +4609,6 @@ DOMAIN-SUFFIX,cre-dp.sina.cn
 DOMAIN-SUFFIX,cre.dp.sina.cn
 DOMAIN-SUFFIX,dl.kjava.sina.cn
 DOMAIN-SUFFIX,dmp.sina.cn
-DOMAIN-SUFFIX,gk.sina.cn
 DOMAIN-SUFFIX,log.sina.cn
 DOMAIN-SUFFIX,log2.sina.cn
 DOMAIN-SUFFIX,mixer.sina.cn
@@ -4660,9 +4659,9 @@ DOMAIN-SUFFIX,log.mix.sina.com.cn
 DOMAIN-SUFFIX,matwbp.iask.sina.com.cn
 DOMAIN-SUFFIX,mg.games.sina.com.cn
 DOMAIN-SUFFIX,pfp.sina.com.cn
+DOMAIN-SUFFIX,r.sax.sina.com.cn
 DOMAIN-SUFFIX,rm.sina.com.cn
 DOMAIN-SUFFIX,s.img.mix.sina.com.cn
-DOMAIN-SUFFIX,sax.sina.com.cn
 DOMAIN-SUFFIX,sax1.sina.com.cn
 DOMAIN-SUFFIX,sax2.sina.com.cn
 DOMAIN-SUFFIX,sax3.sina.com.cn
@@ -4788,7 +4787,6 @@ DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,assp.sohu.com
 DOMAIN-SUFFIX,bd.hd.sohu.com
-DOMAIN-SUFFIX,changyan.sohu.com
 DOMAIN-SUFFIX,cis.sohu.com
 DOMAIN-SUFFIX,click2.hd.sohu.com
 DOMAIN-SUFFIX,corp.sohu.com
@@ -4865,7 +4863,6 @@ DOMAIN-SUFFIX,trackmarketing.staubli.cn
 DOMAIN-SUFFIX,steeltrader.com.cn
 DOMAIN-SUFFIX,stg8.com
 DOMAIN-SUFFIX,stgowan.com
-DOMAIN-SUFFIX,goto.stnts.com
 DOMAIN-SUFFIX,info.stockstar.com
 DOMAIN-SUFFIX,same.stockstar.com
 DOMAIN-SUFFIX,studylabs.cn
@@ -5061,6 +5058,7 @@ DOMAIN-SUFFIX,all.cnzz.com.danuoyi.tbcache.com
 DOMAIN-SUFFIX,g.tbcdn.cn
 DOMAIN-SUFFIX,m.tbinq.com
 DOMAIN-SUFFIX,a1.tbuz.com.cn
+DOMAIN-SUFFIX,dlied6.bytes.tcdnos.com
 DOMAIN-SUFFIX,dlied6.yz.tcdnos.com
 DOMAIN-SUFFIX,img.tcdxt.com
 DOMAIN-SUFFIX,gwrtdp-tn690bfadt.tclclouds.com
@@ -5955,7 +5953,6 @@ DOMAIN-SUFFIX,data.yhydl.com
 DOMAIN-SUFFIX,yhz18.com
 DOMAIN-SUFFIX,analytics.yicai.com
 DOMAIN-SUFFIX,yicha.cn
-DOMAIN-SUFFIX,adx.yiche.com
 DOMAIN-SUFFIX,applog.yiche.com
 DOMAIN-SUFFIX,dd.yiche.com
 DOMAIN-SUFFIX,log.ycapp.yiche.com
