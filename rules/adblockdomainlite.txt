@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250901090014
-! Last modified: 2025/09/01 09:00:14
-! Blocked domains: 6370
+! Version: 20250902085103
+! Last modified: 2025/09/02 08:51:03
+! Blocked domains: 6361
 !
 00xvppy.cn
 011211.cn
@@ -110,7 +110,6 @@ yt-adp.nosdn.127.net
 1357902.cn
 lyapi.1391.com
 mhjk.1391.com
-d.14yaa.com
 1503.net
 15tianqi.com
 adgeo.163.com
@@ -1014,7 +1013,6 @@ aiseet.aa.atianqi.com
 elq.atlaslovestravel.com
 atpanel.com
 atplay.cn
-elq.atriptech.com
 audioadx.com
 aurorapush.cn
 ausaas.cn
@@ -2742,7 +2740,6 @@ ikuailian.com
 static.ilclock.com
 ilkwork.com
 smetrics.illumina.com.cn
-metrics.ilovematlab.cn
 smetrics.ilovematlab.cn
 imageter.com
 imasdk.googleapis.com
@@ -3118,7 +3115,6 @@ keydot.net
 keyne-in.com.cn
 keyshot.cc
 elq.keysight.com.cn
-sandbox-elq.keysight.com.cn
 p.kf3msfm.com
 ssp1.kfadx.tech
 j.kfd3sm2c.com
@@ -3919,7 +3915,6 @@ ivy.pconline.com.cn
 33.pcpop.com
 ashow.pcpop.com
 count.pcpop.com
-pcupd.com
 video-dsp.pddpic.com
 download.pdf00.cn
 download.pdf00.com
@@ -4529,7 +4524,6 @@ wpan.sc2yun.com
 scdcd333.cn
 scfans.cn
 scfrwo.cn
-smetrics.schindler.cn
 scjpqut.cn
 sckfcn.cn
 statscollector.sd-rtn.com
@@ -4550,7 +4544,6 @@ ad.seeyouyima.com
 self-study-service.com.cn
 sellbuyads.cn
 static.sellbuyshop.cn
-m.m.sensivo.com
 sensorsdata.cn
 sepyra.com
 setqfx.cn
@@ -4713,7 +4706,6 @@ video-ad.sm.cn
 smart-way2.com.cn
 data.aftersales.smart.com
 data.ajo-dev.srv.smart.com
-data.ajo-stage.notifications.future.smart.com
 data.dev-notifications.future.smart.com
 data.info.smart.com
 data.marketing.smart.com
@@ -5980,7 +5972,6 @@ yinyouapp.com
 yiqifa.com
 11.yiqig.cn
 photo.yishuhuanbao.cn
-pamzqm.yitechnology.com
 yitongwl.cn
 info.yitsoftware.com
 yiwk.com

@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250901090014
-# Last modified: 2025/09/01 09:00:14
-# Blocked domains: 6370
+# Version: 20250902085103
+# Last modified: 2025/09/02 08:51:03
+# Blocked domains: 6361
 #
 [Rule]
 DOMAIN-SUFFIX,00xvppy.cn,REJECT-DROP
@@ -111,7 +111,6 @@ DOMAIN-SUFFIX,133u.com,REJECT-DROP
 DOMAIN-SUFFIX,1357902.cn,REJECT-DROP
 DOMAIN-SUFFIX,lyapi.1391.com,REJECT-DROP
 DOMAIN-SUFFIX,mhjk.1391.com,REJECT-DROP
-DOMAIN-SUFFIX,d.14yaa.com,REJECT-DROP
 DOMAIN-SUFFIX,1503.net,REJECT-DROP
 DOMAIN-SUFFIX,15tianqi.com,REJECT-DROP
 DOMAIN-SUFFIX,adgeo.163.com,REJECT-DROP
@@ -1015,7 +1014,6 @@ DOMAIN-SUFFIX,aiseet.aa.atianqi.com,REJECT-DROP
 DOMAIN-SUFFIX,elq.atlaslovestravel.com,REJECT-DROP
 DOMAIN-SUFFIX,atpanel.com,REJECT-DROP
 DOMAIN-SUFFIX,atplay.cn,REJECT-DROP
-DOMAIN-SUFFIX,elq.atriptech.com,REJECT-DROP
 DOMAIN-SUFFIX,audioadx.com,REJECT-DROP
 DOMAIN-SUFFIX,aurorapush.cn,REJECT-DROP
 DOMAIN-SUFFIX,ausaas.cn,REJECT-DROP
@@ -2743,7 +2741,6 @@ DOMAIN-SUFFIX,ikuailian.com,REJECT-DROP
 DOMAIN-SUFFIX,static.ilclock.com,REJECT-DROP
 DOMAIN-SUFFIX,ilkwork.com,REJECT-DROP
 DOMAIN-SUFFIX,smetrics.illumina.com.cn,REJECT-DROP
-DOMAIN-SUFFIX,metrics.ilovematlab.cn,REJECT-DROP
 DOMAIN-SUFFIX,smetrics.ilovematlab.cn,REJECT-DROP
 DOMAIN-SUFFIX,imageter.com,REJECT-DROP
 DOMAIN-SUFFIX,imasdk.googleapis.com,REJECT-DROP
@@ -3119,7 +3116,6 @@ DOMAIN-SUFFIX,keydot.net,REJECT-DROP
 DOMAIN-SUFFIX,keyne-in.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,keyshot.cc,REJECT-DROP
 DOMAIN-SUFFIX,elq.keysight.com.cn,REJECT-DROP
-DOMAIN-SUFFIX,sandbox-elq.keysight.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,p.kf3msfm.com,REJECT-DROP
 DOMAIN-SUFFIX,ssp1.kfadx.tech,REJECT-DROP
 DOMAIN-SUFFIX,j.kfd3sm2c.com,REJECT-DROP
@@ -3920,7 +3916,6 @@ DOMAIN-SUFFIX,ivy.pconline.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,33.pcpop.com,REJECT-DROP
 DOMAIN-SUFFIX,ashow.pcpop.com,REJECT-DROP
 DOMAIN-SUFFIX,count.pcpop.com,REJECT-DROP
-DOMAIN-SUFFIX,pcupd.com,REJECT-DROP
 DOMAIN-SUFFIX,video-dsp.pddpic.com,REJECT-DROP
 DOMAIN-SUFFIX,download.pdf00.cn,REJECT-DROP
 DOMAIN-SUFFIX,download.pdf00.com,REJECT-DROP
@@ -4530,7 +4525,6 @@ DOMAIN-SUFFIX,wpan.sc2yun.com,REJECT-DROP
 DOMAIN-SUFFIX,scdcd333.cn,REJECT-DROP
 DOMAIN-SUFFIX,scfans.cn,REJECT-DROP
 DOMAIN-SUFFIX,scfrwo.cn,REJECT-DROP
-DOMAIN-SUFFIX,smetrics.schindler.cn,REJECT-DROP
 DOMAIN-SUFFIX,scjpqut.cn,REJECT-DROP
 DOMAIN-SUFFIX,sckfcn.cn,REJECT-DROP
 DOMAIN-SUFFIX,statscollector.sd-rtn.com,REJECT-DROP
@@ -4551,7 +4545,6 @@ DOMAIN-SUFFIX,ad.seeyouyima.com,REJECT-DROP
 DOMAIN-SUFFIX,self-study-service.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,sellbuyads.cn,REJECT-DROP
 DOMAIN-SUFFIX,static.sellbuyshop.cn,REJECT-DROP
-DOMAIN-SUFFIX,m.m.sensivo.com,REJECT-DROP
 DOMAIN-SUFFIX,sensorsdata.cn,REJECT-DROP
 DOMAIN-SUFFIX,sepyra.com,REJECT-DROP
 DOMAIN-SUFFIX,setqfx.cn,REJECT-DROP
@@ -4714,7 +4707,6 @@ DOMAIN-SUFFIX,video-ad.sm.cn,REJECT-DROP
 DOMAIN-SUFFIX,smart-way2.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,data.aftersales.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.ajo-dev.srv.smart.com,REJECT-DROP
-DOMAIN-SUFFIX,data.ajo-stage.notifications.future.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.dev-notifications.future.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.info.smart.com,REJECT-DROP
 DOMAIN-SUFFIX,data.marketing.smart.com,REJECT-DROP
@@ -5981,7 +5973,6 @@ DOMAIN-SUFFIX,yinyouapp.com,REJECT-DROP
 DOMAIN-SUFFIX,yiqifa.com,REJECT-DROP
 DOMAIN-SUFFIX,11.yiqig.cn,REJECT-DROP
 DOMAIN-SUFFIX,photo.yishuhuanbao.cn,REJECT-DROP
-DOMAIN-SUFFIX,pamzqm.yitechnology.com,REJECT-DROP
 DOMAIN-SUFFIX,yitongwl.cn,REJECT-DROP
 DOMAIN-SUFFIX,info.yitsoftware.com,REJECT-DROP
 DOMAIN-SUFFIX,yiwk.com,REJECT-DROP

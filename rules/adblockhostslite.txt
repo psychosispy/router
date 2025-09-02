@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250901090014
-# Last modified: 2025/09/01 09:00:14
-# Blocked domains: 6370
+# Version: 20250902085103
+# Last modified: 2025/09/02 08:51:03
+# Blocked domains: 6361
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -125,7 +125,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1357902.cn
 0.0.0.0	lyapi.1391.com
 0.0.0.0	mhjk.1391.com
-0.0.0.0	d.14yaa.com
 0.0.0.0	1503.net
 0.0.0.0	15tianqi.com
 0.0.0.0	adgeo.163.com
@@ -1029,7 +1028,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	elq.atlaslovestravel.com
 0.0.0.0	atpanel.com
 0.0.0.0	atplay.cn
-0.0.0.0	elq.atriptech.com
 0.0.0.0	audioadx.com
 0.0.0.0	aurorapush.cn
 0.0.0.0	ausaas.cn
@@ -2757,7 +2755,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	static.ilclock.com
 0.0.0.0	ilkwork.com
 0.0.0.0	smetrics.illumina.com.cn
-0.0.0.0	metrics.ilovematlab.cn
 0.0.0.0	smetrics.ilovematlab.cn
 0.0.0.0	imageter.com
 0.0.0.0	imasdk.googleapis.com
@@ -3133,7 +3130,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	keyne-in.com.cn
 0.0.0.0	keyshot.cc
 0.0.0.0	elq.keysight.com.cn
-0.0.0.0	sandbox-elq.keysight.com.cn
 0.0.0.0	p.kf3msfm.com
 0.0.0.0	ssp1.kfadx.tech
 0.0.0.0	j.kfd3sm2c.com
@@ -3934,7 +3930,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	33.pcpop.com
 0.0.0.0	ashow.pcpop.com
 0.0.0.0	count.pcpop.com
-0.0.0.0	pcupd.com
 0.0.0.0	video-dsp.pddpic.com
 0.0.0.0	download.pdf00.cn
 0.0.0.0	download.pdf00.com
@@ -4544,7 +4539,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	scdcd333.cn
 0.0.0.0	scfans.cn
 0.0.0.0	scfrwo.cn
-0.0.0.0	smetrics.schindler.cn
 0.0.0.0	scjpqut.cn
 0.0.0.0	sckfcn.cn
 0.0.0.0	statscollector.sd-rtn.com
@@ -4565,7 +4559,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	self-study-service.com.cn
 0.0.0.0	sellbuyads.cn
 0.0.0.0	static.sellbuyshop.cn
-0.0.0.0	m.m.sensivo.com
 0.0.0.0	sensorsdata.cn
 0.0.0.0	sepyra.com
 0.0.0.0	setqfx.cn
@@ -4728,7 +4721,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	smart-way2.com.cn
 0.0.0.0	data.aftersales.smart.com
 0.0.0.0	data.ajo-dev.srv.smart.com
-0.0.0.0	data.ajo-stage.notifications.future.smart.com
 0.0.0.0	data.dev-notifications.future.smart.com
 0.0.0.0	data.info.smart.com
 0.0.0.0	data.marketing.smart.com
@@ -5995,7 +5987,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yiqifa.com
 0.0.0.0	11.yiqig.cn
 0.0.0.0	photo.yishuhuanbao.cn
-0.0.0.0	pamzqm.yitechnology.com
 0.0.0.0	yitongwl.cn
 0.0.0.0	info.yitsoftware.com
 0.0.0.0	yiwk.com

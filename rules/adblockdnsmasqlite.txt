@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250901090014
-# Last modified: 2025/09/01 09:00:14
-# Blocked domains: 6370
+# Version: 20250902085103
+# Last modified: 2025/09/02 08:51:03
+# Blocked domains: 6361
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -110,7 +110,6 @@ local=/133u.com/
 local=/1357902.cn/
 local=/lyapi.1391.com/
 local=/mhjk.1391.com/
-local=/d.14yaa.com/
 local=/1503.net/
 local=/15tianqi.com/
 local=/adgeo.163.com/
@@ -1014,7 +1013,6 @@ local=/aiseet.aa.atianqi.com/
 local=/elq.atlaslovestravel.com/
 local=/atpanel.com/
 local=/atplay.cn/
-local=/elq.atriptech.com/
 local=/audioadx.com/
 local=/aurorapush.cn/
 local=/ausaas.cn/
@@ -2742,7 +2740,6 @@ local=/ikuailian.com/
 local=/static.ilclock.com/
 local=/ilkwork.com/
 local=/smetrics.illumina.com.cn/
-local=/metrics.ilovematlab.cn/
 local=/smetrics.ilovematlab.cn/
 local=/imageter.com/
 local=/imasdk.googleapis.com/
@@ -3118,7 +3115,6 @@ local=/keydot.net/
 local=/keyne-in.com.cn/
 local=/keyshot.cc/
 local=/elq.keysight.com.cn/
-local=/sandbox-elq.keysight.com.cn/
 local=/p.kf3msfm.com/
 local=/ssp1.kfadx.tech/
 local=/j.kfd3sm2c.com/
@@ -3919,7 +3915,6 @@ local=/ivy.pconline.com.cn/
 local=/33.pcpop.com/
 local=/ashow.pcpop.com/
 local=/count.pcpop.com/
-local=/pcupd.com/
 local=/video-dsp.pddpic.com/
 local=/download.pdf00.cn/
 local=/download.pdf00.com/
@@ -4529,7 +4524,6 @@ local=/wpan.sc2yun.com/
 local=/scdcd333.cn/
 local=/scfans.cn/
 local=/scfrwo.cn/
-local=/smetrics.schindler.cn/
 local=/scjpqut.cn/
 local=/sckfcn.cn/
 local=/statscollector.sd-rtn.com/
@@ -4550,7 +4544,6 @@ local=/ad.seeyouyima.com/
 local=/self-study-service.com.cn/
 local=/sellbuyads.cn/
 local=/static.sellbuyshop.cn/
-local=/m.m.sensivo.com/
 local=/sensorsdata.cn/
 local=/sepyra.com/
 local=/setqfx.cn/
@@ -4713,7 +4706,6 @@ local=/video-ad.sm.cn/
 local=/smart-way2.com.cn/
 local=/data.aftersales.smart.com/
 local=/data.ajo-dev.srv.smart.com/
-local=/data.ajo-stage.notifications.future.smart.com/
 local=/data.dev-notifications.future.smart.com/
 local=/data.info.smart.com/
 local=/data.marketing.smart.com/
@@ -5980,7 +5972,6 @@ local=/yinyouapp.com/
 local=/yiqifa.com/
 local=/11.yiqig.cn/
 local=/photo.yishuhuanbao.cn/
-local=/pamzqm.yitechnology.com/
 local=/yitongwl.cn/
 local=/info.yitsoftware.com/
 local=/yiwk.com/
