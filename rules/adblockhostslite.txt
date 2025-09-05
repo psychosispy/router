@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250904084700
-# Last modified: 2025/09/04 08:47:00
-# Blocked domains: 6361
+# Version: 20250905084832
+# Last modified: 2025/09/05 08:48:32
+# Blocked domains: 6359
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -125,6 +125,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	1357902.cn
 0.0.0.0	lyapi.1391.com
 0.0.0.0	mhjk.1391.com
+0.0.0.0	d.14yaa.com
 0.0.0.0	1503.net
 0.0.0.0	15tianqi.com
 0.0.0.0	adgeo.163.com
@@ -201,7 +202,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1qwe3r.com
 0.0.0.0	1r49n.cn
 0.0.0.0	1rtb.com
-0.0.0.0	sdk.1rtb.net
 0.0.0.0	1s8pj.cn
 0.0.0.0	ddd.1sapp.com
 0.0.0.0	inapp.1sapp.com
@@ -3300,7 +3300,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	lbprjdi.cn
 0.0.0.0	lccfjszp.cn
 0.0.0.0	ldbwxo.cn
-0.0.0.0	ldcdn.ldmnq.com
 0.0.0.0	mnqlog.ldmnq.com
 0.0.0.0	banana.le.com
 0.0.0.0	cherry.le.com
@@ -3930,6 +3929,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	33.pcpop.com
 0.0.0.0	ashow.pcpop.com
 0.0.0.0	count.pcpop.com
+0.0.0.0	pcupd.com
 0.0.0.0	video-dsp.pddpic.com
 0.0.0.0	download.pdf00.cn
 0.0.0.0	download.pdf00.com
@@ -5653,7 +5653,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wsds.cn
 0.0.0.0	wsnew.cn
 0.0.0.0	wstatslive.com
-0.0.0.0	soft.wsyhn.com
 0.0.0.0	cdn-ad.wtzw.com
 0.0.0.0	wukongtongji.com
 0.0.0.0	wumii.cn
@@ -6315,7 +6314,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.zol.com
 0.0.0.0	apppv.zol.com.cn
 0.0.0.0	cpro.zol.com.cn
-0.0.0.0	down10d.zol.com.cn
 0.0.0.0	dynamic.zol.com.cn
 0.0.0.0	imp.zol.com.cn
 0.0.0.0	js.zol.com.cn

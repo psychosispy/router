@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250904084700
-! Last modified: 2025/09/04 08:47:00
-! Blocked domains: 6361
+! Version: 20250905084832
+! Last modified: 2025/09/05 08:48:32
+! Blocked domains: 6359
 !
 00xvppy.cn
 011211.cn
@@ -110,6 +110,7 @@ yt-adp.nosdn.127.net
 1357902.cn
 lyapi.1391.com
 mhjk.1391.com
+d.14yaa.com
 1503.net
 15tianqi.com
 adgeo.163.com
@@ -186,7 +187,6 @@ m.1qp9k.cn
 1qwe3r.com
 1r49n.cn
 1rtb.com
-sdk.1rtb.net
 1s8pj.cn
 ddd.1sapp.com
 inapp.1sapp.com
@@ -3285,7 +3285,6 @@ cdn1.lbesec.com
 lbprjdi.cn
 lccfjszp.cn
 ldbwxo.cn
-ldcdn.ldmnq.com
 mnqlog.ldmnq.com
 banana.le.com
 cherry.le.com
@@ -3915,6 +3914,7 @@ ivy.pconline.com.cn
 33.pcpop.com
 ashow.pcpop.com
 count.pcpop.com
+pcupd.com
 video-dsp.pddpic.com
 download.pdf00.cn
 download.pdf00.com
@@ -5638,7 +5638,6 @@ wsacjdg.cn
 wsds.cn
 wsnew.cn
 wstatslive.com
-soft.wsyhn.com
 cdn-ad.wtzw.com
 wukongtongji.com
 wumii.cn
@@ -6300,7 +6299,6 @@ pic.zol-img.com.cn
 api.zol.com
 apppv.zol.com.cn
 cpro.zol.com.cn
-down10d.zol.com.cn
 dynamic.zol.com.cn
 imp.zol.com.cn
 js.zol.com.cn

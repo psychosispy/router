@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、CJX's Annoyance List、EasyList、EasyList China、anti-AD、xinggsf mv、xinggsf rule、jiekouAD、AWAvenue Ads Rule、OISD Basic、NEO DEV HOST。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250904084700
-# Last modified: 2025/09/04 08:47:00
-# Blocked domains: 6361
+# Version: 20250905084832
+# Last modified: 2025/09/05 08:48:32
+# Blocked domains: 6359
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -110,6 +110,7 @@ local=/133u.com/
 local=/1357902.cn/
 local=/lyapi.1391.com/
 local=/mhjk.1391.com/
+local=/d.14yaa.com/
 local=/1503.net/
 local=/15tianqi.com/
 local=/adgeo.163.com/
@@ -186,7 +187,6 @@ local=/m.1qp9k.cn/
 local=/1qwe3r.com/
 local=/1r49n.cn/
 local=/1rtb.com/
-local=/sdk.1rtb.net/
 local=/1s8pj.cn/
 local=/ddd.1sapp.com/
 local=/inapp.1sapp.com/
@@ -3285,7 +3285,6 @@ local=/cdn1.lbesec.com/
 local=/lbprjdi.cn/
 local=/lccfjszp.cn/
 local=/ldbwxo.cn/
-local=/ldcdn.ldmnq.com/
 local=/mnqlog.ldmnq.com/
 local=/banana.le.com/
 local=/cherry.le.com/
@@ -3915,6 +3914,7 @@ local=/ivy.pconline.com.cn/
 local=/33.pcpop.com/
 local=/ashow.pcpop.com/
 local=/count.pcpop.com/
+local=/pcupd.com/
 local=/video-dsp.pddpic.com/
 local=/download.pdf00.cn/
 local=/download.pdf00.com/
@@ -5638,7 +5638,6 @@ local=/wsacjdg.cn/
 local=/wsds.cn/
 local=/wsnew.cn/
 local=/wstatslive.com/
-local=/soft.wsyhn.com/
 local=/cdn-ad.wtzw.com/
 local=/wukongtongji.com/
 local=/wumii.cn/
@@ -6300,7 +6299,6 @@ local=/pic.zol-img.com.cn/
 local=/api.zol.com/
 local=/apppv.zol.com.cn/
 local=/cpro.zol.com.cn/
-local=/down10d.zol.com.cn/
 local=/dynamic.zol.com.cn/
 local=/imp.zol.com.cn/
 local=/js.zol.com.cn/

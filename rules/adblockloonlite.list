@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/04 08:47:00
-#!support=6361
+#!date=2025/09/05 08:48:32
+#!support=6359
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -114,6 +114,7 @@ DOMAIN-SUFFIX,133u.com
 DOMAIN-SUFFIX,1357902.cn
 DOMAIN-SUFFIX,lyapi.1391.com
 DOMAIN-SUFFIX,mhjk.1391.com
+DOMAIN-SUFFIX,d.14yaa.com
 DOMAIN-SUFFIX,1503.net
 DOMAIN-SUFFIX,15tianqi.com
 DOMAIN-SUFFIX,adgeo.163.com
@@ -190,7 +191,6 @@ DOMAIN-SUFFIX,m.1qp9k.cn
 DOMAIN-SUFFIX,1qwe3r.com
 DOMAIN-SUFFIX,1r49n.cn
 DOMAIN-SUFFIX,1rtb.com
-DOMAIN-SUFFIX,sdk.1rtb.net
 DOMAIN-SUFFIX,1s8pj.cn
 DOMAIN-SUFFIX,ddd.1sapp.com
 DOMAIN-SUFFIX,inapp.1sapp.com
@@ -3289,7 +3289,6 @@ DOMAIN-SUFFIX,cdn1.lbesec.com
 DOMAIN-SUFFIX,lbprjdi.cn
 DOMAIN-SUFFIX,lccfjszp.cn
 DOMAIN-SUFFIX,ldbwxo.cn
-DOMAIN-SUFFIX,ldcdn.ldmnq.com
 DOMAIN-SUFFIX,mnqlog.ldmnq.com
 DOMAIN-SUFFIX,banana.le.com
 DOMAIN-SUFFIX,cherry.le.com
@@ -3919,6 +3918,7 @@ DOMAIN-SUFFIX,ivy.pconline.com.cn
 DOMAIN-SUFFIX,33.pcpop.com
 DOMAIN-SUFFIX,ashow.pcpop.com
 DOMAIN-SUFFIX,count.pcpop.com
+DOMAIN-SUFFIX,pcupd.com
 DOMAIN-SUFFIX,video-dsp.pddpic.com
 DOMAIN-SUFFIX,download.pdf00.cn
 DOMAIN-SUFFIX,download.pdf00.com
@@ -5642,7 +5642,6 @@ DOMAIN-SUFFIX,wsacjdg.cn
 DOMAIN-SUFFIX,wsds.cn
 DOMAIN-SUFFIX,wsnew.cn
 DOMAIN-SUFFIX,wstatslive.com
-DOMAIN-SUFFIX,soft.wsyhn.com
 DOMAIN-SUFFIX,cdn-ad.wtzw.com
 DOMAIN-SUFFIX,wukongtongji.com
 DOMAIN-SUFFIX,wumii.cn
@@ -6304,7 +6303,6 @@ DOMAIN-SUFFIX,pic.zol-img.com.cn
 DOMAIN-SUFFIX,api.zol.com
 DOMAIN-SUFFIX,apppv.zol.com.cn
 DOMAIN-SUFFIX,cpro.zol.com.cn
-DOMAIN-SUFFIX,down10d.zol.com.cn
 DOMAIN-SUFFIX,dynamic.zol.com.cn
 DOMAIN-SUFFIX,imp.zol.com.cn
 DOMAIN-SUFFIX,js.zol.com.cn
